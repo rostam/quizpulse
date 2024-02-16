@@ -321,7 +321,20 @@ document.addEventListener('DOMContentLoaded', (event) => {
 });
 
 document.addEventListener('DOMContentLoaded', (event) => {
-    document.getElementById('restartQuiz').addEventListener('click', (event) => ((arg) => {
+    document.getElementById('restartQuiz3').addEventListener('click', (event) => ((arg) => {
+        restartQuiz();
+    })());
+});
+
+document.addEventListener('DOMContentLoaded', (event) => {
+    document.getElementById('restartQuiz2').addEventListener('click', (event) => ((arg) => {
+        restartQuiz();
+    })());
+});
+
+
+document.addEventListener('DOMContentLoaded', (event) => {
+    document.getElementById('restartQuiz1').addEventListener('click', (event) => ((arg) => {
         restartQuiz();
     })());
 });
