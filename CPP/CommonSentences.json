@@ -1,0 +1,142 @@
+[
+        {
+            "question": "Which of the following is the correct syntax to output data in C++?",
+            "choices": ["print()", "cout <<", "System.out.println()", "printf()"],
+            "answer": 1,
+            "extra": "",
+            "type": ""
+        },
+        {
+            "question": "Which header file defines the standard C++ library?",
+            "choices": ["<library.h>", "<std.h>", "<stdlib.h>", "<iostream>"],
+            "answer": 3,
+            "extra": "",
+            "type": ""
+        },
+        {
+            "question": "Which keyword is used to create objects?",
+            "choices": ["obj", "new", "struct", "class"],
+            "answer": 1,
+            "extra": "",
+            "type": ""
+        },
+        {
+            "question": "Which of the following concepts means to combine data and functions in a single unit?",
+            "choices": ["Encapsulation", "Polymorphism", "Abstraction", "Inheritance"],
+            "answer": 0,
+            "extra": "",
+            "type": ""
+        },
+        {
+            "question": "What is the full form of STL in C++?",
+            "choices": ["Standard Typing Language", "Standard Template Library", "Standard Tool Library", "None of the above"],
+            "answer": 1,
+            "extra": "",
+            "type": ""
+        },
+        {
+            "question": "In C++, what is the name of the function which is automatically called when a class is instantiated?",
+            "choices": ["main()", "class()", "construct()", "constructor()"],
+            "answer": 3,
+            "extra": "",
+            "type": ""
+        },
+        {
+            "question": "Which of the following is not an access specifier in C++?",
+            "choices": ["private", "protected", "public", "internal"],
+            "answer": 3,
+            "extra": "",
+            "type": ""
+        },
+        {
+            "question": "Which operator is used in C++ for inheritance?",
+            "choices": [":", "-", ">", "."],
+            "answer": 0,
+            "extra": "",
+            "type": ""
+        },
+        {
+            "question": "Which of the following is true about pointers in C++?",
+            "choices": ["Pointers can point to functions", "Pointers cannot be added", "Pointers are constants", "None of the above"],
+            "answer": 0,
+            "extra": "",
+            "type": ""
+        },
+        {
+            "question": "Which keyword is used to prevent any further modification of a variable?",
+            "choices": ["constant", "const", "protect", "immutable"],
+            "answer": 1,
+            "extra": "",
+            "type": ""
+        },
+        {
+            "question": "Which of the following is not a standard library container in C++?",
+            "choices": ["list", "stack", "tree", "queue"],
+            "answer": 2,
+            "extra": "",
+            "type": ""
+        },
+        {
+            "question": "What does the keyword 'auto' do in C++11?",
+            "choices": ["Specifies that a car object is being declared", "Automatically deduces the type", "Specifies that the variable is an automatic global variable", "None of the above"],
+            "answer": 1,
+            "extra": "",
+            "type": ""
+        },
+        {
+            "question": "Which of the following is the correct way to declare a pointer?",
+            "choices": ["int p*", "int *p", "int &p", "int &&p"],
+            "answer": 1,
+            "extra": "",
+            "type": ""
+        },
+        {
+            "question": "What is the purpose of the 'delete' keyword in C++?",
+            "choices": ["To destroy an object", "To deallocate memory", "To remove a value from a container", "To exit the program"],
+            "answer": 1,
+            "extra": "",
+            "type": ""
+        },
+        {
+            "question": "What is the standard exception handling mechanism in C++?",
+            "choices": ["if-else", "return codes", "try-catch", "error codes"],
+            "answer": 2,
+            "extra": "",
+            "type": ""
+        },
+        {
+            "question": "Which of the following is not an OOP principle?",
+            "choices": ["Inheritance", "Encapsulation", "Polymorphism", "Compilation"],
+            "answer": 3,
+            "extra": "",
+            "type": ""
+        },
+        {
+            "question": "What is the output of this statement: `cout << (5 == 5);`?",
+            "choices": ["true", "false", "1", "0"],
+            "answer": 2,
+            "extra": "",
+            "type": ""
+        },
+        {
+            "question": "Which of the following is an advantage of C++?",
+            "choices": ["Platform dependent", "Slow Speed", "Low Level Language", "Object-Oriented"],
+            "answer": 3,
+            "extra": "",
+            "type": ""
+        },
+        {
+            "question": "What is the initial value of an uninitialized pointer?",
+            "choices": ["NULL", "Garbage", "0", "None of the above"],
+            "answer": 1,
+            "extra": "",
+            "type": ""
+        },
+        {
+            "question": "Which of the following is the correct way to define a function that takes a constant integer pointer as an argument?",
+            "choices": ["int func(int const *p);", "int func(int *const p);", "int func(const int *p);", "All of the above"],
+            "answer": 2,
+            "extra": "",
+            "type": ""
+        }
+    ]

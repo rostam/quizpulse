@@ -1,0 +1,1978 @@
+[
+  {
+    "question": "Zero",
+    "choices": [
+      "دوازده",
+      "پنجاه",
+      "هجده",
+      "صفر"
+    ],
+    "answer": 3,
+    "type": "number",
+    "intent": "",
+    "extra": "The translation of"
+  },
+  {
+    "question": "One",
+    "choices": [
+      "نه",
+      "یک",
+      "نود",
+      "دوازده"
+    ],
+    "answer": 1,
+    "type": "number",
+    "intent": "",
+    "extra": "The translation of"
+  },
+  {
+    "question": "Two",
+    "choices": [
+      "چهل",
+      "دو",
+      "بیست و نه",
+      "هشتاد"
+    ],
+    "answer": 1,
+    "type": "number",
+    "intent": "",
+    "extra": "The translation of"
+  },
+  {
+    "question": "Three",
+    "choices": [
+      "چهل",
+      "هشتاد",
+      "سه",
+      "بیست و سه"
+    ],
+    "answer": 2,
+    "type": "number",
+    "intent": "",
+    "extra": "The translation of"
+  },
+  {
+    "question": "Four",
+    "choices": [
+      "دو",
+      "صفر",
+      "چهار",
+      "پنج"
+    ],
+    "answer": 2,
+    "type": "number",
+    "intent": "",
+    "extra": "The translation of"
+  },
+  {
+    "question": "Five",
+    "choices": [
+      "شش",
+      "پنج",
+      "ده",
+      "چهار"
+    ],
+    "answer": 1,
+    "type": "number",
+    "intent": "",
+    "extra": "The translation of"
+  },
+  {
+    "question": "Six",
+    "choices": [
+      "پانزده",
+      "شش",
+      "هشتاد",
+      "هفده"
+    ],
+    "answer": 1,
+    "type": "number",
+    "intent": "",
+    "extra": "The translation of"
+  },
+  {
+    "question": "Seven",
+    "choices": [
+      "شش",
+      "سه",
+      "بیست و پنج",
+      "هفت"
+    ],
+    "answer": 3,
+    "type": "number",
+    "intent": "",
+    "extra": "The translation of"
+  },
+  {
+    "question": "Eight",
+    "choices": [
+      "ده",
+      "هشت",
+      "هفتاد",
+      "بیست و شش"
+    ],
+    "answer": 1,
+    "type": "number",
+    "intent": "",
+    "extra": "The translation of"
+  },
+  {
+    "question": "Nine",
+    "choices": [
+      "بیست و پنج",
+      "هشتاد",
+      "شصت",
+      "نه"
+    ],
+    "answer": 3,
+    "type": "number",
+    "intent": "",
+    "extra": "The translation of"
+  },
+  {
+    "question": "Ten",
+    "choices": [
+      "بیست و نه",
+      "نوزده",
+      "ده",
+      "دو"
+    ],
+    "answer": 2,
+    "type": "number",
+    "intent": "",
+    "extra": "The translation of"
+  },
+  {
+    "question": "Eleven",
+    "choices": [
+      "شش",
+      "شصت",
+      "یازده",
+      "سی"
+    ],
+    "answer": 2,
+    "type": "number",
+    "intent": "",
+    "extra": "The translation of"
+  },
+  {
+    "question": "Twelve",
+    "choices": [
+      "یازده",
+      "دوازده",
+      "یک",
+      "بیست و دو"
+    ],
+    "answer": 1,
+    "type": "number",
+    "intent": "",
+    "extra": "The translation of"
+  },
+  {
+    "question": "Thirteen",
+    "choices": [
+      "چهار",
+      "بیست",
+      "ده",
+      "سیزده"
+    ],
+    "answer": 3,
+    "type": "number",
+    "intent": "",
+    "extra": "The translation of"
+  },
+  {
+    "question": "Fourteen",
+    "choices": [
+      "بیست و دو",
+      "چهارده",
+      "سی",
+      "نه"
+    ],
+    "answer": 1,
+    "type": "number",
+    "intent": "",
+    "extra": "The translation of"
+  },
+  {
+    "question": "Fifteen",
+    "choices": [
+      "پانزده",
+      "پانزده",
+      "سیزده",
+      "بیست و هشت"
+    ],
+    "answer": 1,
+    "type": "number",
+    "intent": "",
+    "extra": "The translation of"
+  },
+  {
+    "question": "Sixteen",
+    "choices": [
+      "بیست و یک",
+      "چهل",
+      "بیست و دو",
+      "شانزده"
+    ],
+    "answer": 3,
+    "type": "number",
+    "intent": "",
+    "extra": "The translation of"
+  },
+  {
+    "question": "Seventeen",
+    "choices": [
+      "هفده",
+      "صفر",
+      "هفده",
+      "هشت"
+    ],
+    "answer": 2,
+    "type": "number",
+    "intent": "",
+    "extra": "The translation of"
+  },
+  {
+    "question": "Eighteen",
+    "choices": [
+      "چهل",
+      "بیست و شش",
+      "هجده",
+      "شش"
+    ],
+    "answer": 2,
+    "type": "number",
+    "intent": "",
+    "extra": "The translation of"
+  },
+  {
+    "question": "Nineteen",
+    "choices": [
+      "نوزده",
+      "بیست و هفت",
+      "بیست و هشت",
+      "بیست و پنج"
+    ],
+    "answer": 0,
+    "type": "number",
+    "intent": "",
+    "extra": "The translation of"
+  },
+  {
+    "question": "Twenty",
+    "choices": [
+      "هجده",
+      "هشتاد",
+      "چهار",
+      "بیست"
+    ],
+    "answer": 3,
+    "type": "number",
+    "intent": "",
+    "extra": "The translation of"
+  },
+  {
+    "question": "Twenty One",
+    "choices": [
+      "شصت",
+      "بیست و دو",
+      "بیست و هفت",
+      "بیست و یک"
+    ],
+    "answer": 3,
+    "type": "number",
+    "intent": "",
+    "extra": "The translation of"
+  },
+  {
+    "question": "Twenty Two",
+    "choices": [
+      "یازده",
+      "بیست و شش",
+      "هفت",
+      "بیست و دو"
+    ],
+    "answer": 3,
+    "type": "number",
+    "intent": "",
+    "extra": "The translation of"
+  },
+  {
+    "question": "Twenty Three",
+    "choices": [
+      "هفده",
+      "سیزده",
+      "بیست و سه",
+      "نوزده"
+    ],
+    "answer": 2,
+    "type": "number",
+    "intent": "",
+    "extra": "The translation of"
+  },
+  {
+    "question": "Twenty Four",
+    "choices": [
+      "دوازده",
+      "هشتاد",
+      "بیست و چهار",
+      "ده"
+    ],
+    "answer": 2,
+    "type": "number",
+    "intent": "",
+    "extra": "The translation of"
+  },
+  {
+    "question": "Twenty Five",
+    "choices": [
+      "هشت",
+      "پنجاه",
+      "بیست و چهار",
+      "بیست و پنج"
+    ],
+    "answer": 3,
+    "type": "number",
+    "intent": "",
+    "extra": "The translation of"
+  },
+  {
+    "question": "Twenty Six",
+    "choices": [
+      "ده",
+      "بیست و شش",
+      "سه",
+      "چهل"
+    ],
+    "answer": 1,
+    "type": "number",
+    "intent": "",
+    "extra": "The translation of"
+  },
+  {
+    "question": "Twenty Seven",
+    "choices": [
+      "هفده",
+      "بیست و هفت",
+      "هفتاد",
+      "بیست و دو"
+    ],
+    "answer": 1,
+    "type": "number",
+    "intent": "",
+    "extra": "The translation of"
+  },
+  {
+    "question": "Twenty Eight",
+    "choices": [
+      "دوازده",
+      "نوزده",
+      "شانزده",
+      "بیست و هشت"
+    ],
+    "answer": 3,
+    "type": "number",
+    "intent": "",
+    "extra": "The translation of"
+  },
+  {
+    "question": "Twenty Nine",
+    "choices": [
+      "بیست و نه",
+      "نه",
+      "هفتاد",
+      "چهار"
+    ],
+    "answer": 0,
+    "type": "number",
+    "intent": "",
+    "extra": "The translation of"
+  },
+  {
+    "question": "Thirty",
+    "choices": [
+      "نوزده",
+      "یک",
+      "سی",
+      "بیست و سه"
+    ],
+    "answer": 2,
+    "type": "number",
+    "intent": "",
+    "extra": "The translation of"
+  },
+  {
+    "question": "Forty",
+    "choices": [
+      "یازده",
+      "چهل",
+      "دوازده",
+      "بیست"
+    ],
+    "answer": 1,
+    "type": "number",
+    "intent": "",
+    "extra": "The translation of"
+  },
+  {
+    "question": "Fifty",
+    "choices": [
+      "بیست و سه",
+      "پنجاه",
+      "بیست و یک",
+      "چهارده"
+    ],
+    "answer": 1,
+    "type": "number",
+    "intent": "",
+    "extra": "The translation of"
+  },
+  {
+    "question": "Sixty",
+    "choices": [
+      "هفتاد",
+      "پنجاه",
+      "شصت",
+      "بیست"
+    ],
+    "answer": 2,
+    "type": "number",
+    "intent": "",
+    "extra": "The translation of"
+  },
+  {
+    "question": "Seventy",
+    "choices": [
+      "بیست",
+      "هشتاد",
+      "چهارده",
+      "هفتاد"
+    ],
+    "answer": 3,
+    "type": "number",
+    "intent": "",
+    "extra": "The translation of"
+  },
+  {
+    "question": "Eighty",
+    "choices": [
+      "هشتاد",
+      "بیست و هفت",
+      "یازده",
+      "بیست و سه"
+    ],
+    "answer": 0,
+    "type": "number",
+    "intent": "",
+    "extra": "The translation of"
+  },
+  {
+    "question": "Ninety",
+    "choices": [
+      "نوزده",
+      "نود",
+      "پانزده",
+      "چهار"
+    ],
+    "answer": 1,
+    "type": "number",
+    "intent": "",
+    "extra": "The translation of"
+  },
+  {
+    "question": "One Hundred",
+    "choices": [
+      "نوزده",
+      "صد",
+      "نود",
+      "چهل"
+    ],
+    "answer": 1,
+    "type": "number",
+    "intent": "",
+    "extra": "The translation of"
+  },
+  {
+    "question": "صفر",
+    "choices": [
+      "Four",
+      "Zero",
+      "Sixty",
+      "Twenty Five"
+    ],
+    "answer": 1,
+    "type": "number",
+    "intent": "",
+    "extra": "The translation of"
+  },
+  {
+    "question": "یک",
+    "choices": [
+      "Six",
+      "Two",
+      "Twelve",
+      "One"
+    ],
+    "answer": 3,
+    "type": "number",
+    "intent": "",
+    "extra": "The translation of"
+  },
+  {
+    "question": "دو",
+    "choices": [
+      "Thirteen",
+      "Ten",
+      "Two",
+      "Eleven"
+    ],
+    "answer": 2,
+    "type": "number",
+    "intent": "",
+    "extra": "The translation of"
+  },
+  {
+    "question": "سه",
+    "choices": [
+      "One",
+      "Sixteen",
+      "Three",
+      "Seven"
+    ],
+    "answer": 2,
+    "type": "number",
+    "intent": "",
+    "extra": "The translation of"
+  },
+  {
+    "question": "چهار",
+    "choices": [
+      "Eight",
+      "Four",
+      "Twenty Four",
+      "Four"
+    ],
+    "answer": 1,
+    "type": "number",
+    "intent": "",
+    "extra": "The translation of"
+  },
+  {
+    "question": "پنج",
+    "choices": [
+      "Ten",
+      "Five",
+      "Twenty",
+      "Twenty Four"
+    ],
+    "answer": 1,
+    "type": "number",
+    "intent": "",
+    "extra": "The translation of"
+  },
+  {
+    "question": "شش",
+    "choices": [
+      "Seventeen",
+      "Six",
+      "Forty",
+      "Seven"
+    ],
+    "answer": 1,
+    "type": "number",
+    "intent": "",
+    "extra": "The translation of"
+  },
+  {
+    "question": "هفت",
+    "choices": [
+      "Twenty One",
+      "Eighteen",
+      "Twenty Five",
+      "Seven"
+    ],
+    "answer": 3,
+    "type": "number",
+    "intent": "",
+    "extra": "The translation of"
+  },
+  {
+    "question": "هشت",
+    "choices": [
+      "Eight",
+      "Twenty Three",
+      "Four",
+      "Two"
+    ],
+    "answer": 0,
+    "type": "number",
+    "intent": "",
+    "extra": "The translation of"
+  },
+  {
+    "question": "نه",
+    "choices": [
+      "Ten",
+      "One",
+      "Four",
+      "Nine"
+    ],
+    "answer": 3,
+    "type": "number",
+    "intent": "",
+    "extra": "The translation of"
+  },
+  {
+    "question": "ده",
+    "choices": [
+      "Ten",
+      "Twenty Four",
+      "Eighteen",
+      "Fifteen"
+    ],
+    "answer": 0,
+    "type": "number",
+    "intent": "",
+    "extra": "The translation of"
+  },
+  {
+    "question": "یازده",
+    "choices": [
+      "Twenty One",
+      "Fifty",
+      "Zero",
+      "Eleven"
+    ],
+    "answer": 3,
+    "type": "number",
+    "intent": "",
+    "extra": "The translation of"
+  },
+  {
+    "question": "دوازده",
+    "choices": [
+      "Sixteen",
+      "Nineteen",
+      "Twenty Five",
+      "Twelve"
+    ],
+    "answer": 3,
+    "type": "number",
+    "intent": "",
+    "extra": "The translation of"
+  },
+  {
+    "question": "سیزده",
+    "choices": [
+      "Thirteen",
+      "Six",
+      "Three",
+      "Twenty Six"
+    ],
+    "answer": 0,
+    "type": "number",
+    "intent": "",
+    "extra": "The translation of"
+  },
+  {
+    "question": "چهارده",
+    "choices": [
+      "Eight",
+      "Fourteen",
+      "Twelve",
+      "Eighty"
+    ],
+    "answer": 1,
+    "type": "number",
+    "intent": "",
+    "extra": "The translation of"
+  },
+  {
+    "question": "پانزده",
+    "choices": [
+      "Eighteen",
+      "Twelve",
+      "Forty",
+      "Fifteen"
+    ],
+    "answer": 3,
+    "type": "number",
+    "intent": "",
+    "extra": "The translation of"
+  },
+  {
+    "question": "شانزده",
+    "choices": [
+      "Sixteen",
+      "Forty",
+      "Twenty Nine",
+      "Twenty"
+    ],
+    "answer": 0,
+    "type": "number",
+    "intent": "",
+    "extra": "The translation of"
+  },
+  {
+    "question": "هفده",
+    "choices": [
+      "Fifty",
+      "Seventeen",
+      "Twenty Six",
+      "Eleven"
+    ],
+    "answer": 1,
+    "type": "number",
+    "intent": "",
+    "extra": "The translation of"
+  },
+  {
+    "question": "هجده",
+    "choices": [
+      "Eighteen",
+      "Four",
+      "Twenty Three",
+      "Thirteen"
+    ],
+    "answer": 0,
+    "type": "number",
+    "intent": "",
+    "extra": "The translation of"
+  },
+  {
+    "question": "نوزده",
+    "choices": [
+      "Twenty Two",
+      "Eighteen",
+      "Nineteen",
+      "Fifty"
+    ],
+    "answer": 2,
+    "type": "number",
+    "intent": "",
+    "extra": "The translation of"
+  },
+  {
+    "question": "بیست",
+    "choices": [
+      "Eighteen",
+      "Seventeen",
+      "Eight",
+      "Twenty"
+    ],
+    "answer": 3,
+    "type": "number",
+    "intent": "",
+    "extra": "The translation of"
+  },
+  {
+    "question": "بیست و یک",
+    "choices": [
+      "Eight",
+      "Eighty",
+      "Eighteen",
+      "Twenty One"
+    ],
+    "answer": 3,
+    "type": "number",
+    "intent": "",
+    "extra": "The translation of"
+  },
+  {
+    "question": "بیست و دو",
+    "choices": [
+      "Twenty Two",
+      "Thirteen",
+      "Seventy",
+      "Eighty"
+    ],
+    "answer": 0,
+    "type": "number",
+    "intent": "",
+    "extra": "The translation of"
+  },
+  {
+    "question": "بیست و سه",
+    "choices": [
+      "Twenty Three",
+      "Thirteen",
+      "Seventy",
+      "Eighty"
+    ],
+    "answer": 0,
+    "type": "number",
+    "intent": "",
+    "extra": "The translation of"
+  },
+  {
+    "question": "بیست و چهار",
+    "choices": [
+      "Five",
+      "Twenty Four",
+      "Seventeen",
+      "Zero"
+    ],
+    "answer": 1,
+    "type": "number",
+    "intent": "",
+    "extra": "The translation of"
+  },
+  {
+    "question": "بیست و پنج",
+    "choices": [
+      "Twenty Four",
+      "Twenty",
+      "Six",
+      "Twenty Five"
+    ],
+    "answer": 3,
+    "type": "number",
+    "intent": "",
+    "extra": "The translation of"
+  },
+  {
+    "question": "بیست و شش",
+    "choices": [
+      "Ten",
+      "Fifteen",
+      "Twenty Six",
+      "Twenty Six"
+    ],
+    "answer": 3,
+    "type": "number",
+    "intent": "",
+    "extra": "The translation of"
+  },
+  {
+    "question": "بیست و هفت",
+    "choices": [
+      "Twenty Six",
+      "Seven",
+      "Twenty Seven",
+      "Thirty"
+    ],
+    "answer": 2,
+    "type": "number",
+    "intent": "",
+    "extra": "The translation of"
+  },
+  {
+    "question": "بیست و هشت",
+    "choices": [
+      "Eight",
+      "Nine",
+      "Twenty Eight",
+      "Seven"
+    ],
+    "answer": 2,
+    "type": "number",
+    "intent": "",
+    "extra": "The translation of"
+  },
+  {
+    "question": "بیست و نه",
+    "choices": [
+      "Twenty Nine",
+      "Twenty Five",
+      "Thirteen",
+      "Sixteen"
+    ],
+    "answer": 0,
+    "type": "number",
+    "intent": "",
+    "extra": "The translation of"
+  },
+  {
+    "question": "سی",
+    "choices": [
+      "Six",
+      "Five",
+      "Twenty Five",
+      "Thirty"
+    ],
+    "answer": 3,
+    "type": "number",
+    "intent": "",
+    "extra": "The translation of"
+  },
+  {
+    "question": "چهل",
+    "choices": [
+      "Zero",
+      "Forty",
+      "Five",
+      "Twenty Nine"
+    ],
+    "answer": 1,
+    "type": "number",
+    "intent": "",
+    "extra": "The translation of"
+  },
+  {
+    "question": "پنجاه",
+    "choices": [
+      "Fifty",
+      "Twenty Three",
+      "Eighty",
+      "Twenty Nine"
+    ],
+    "answer": 0,
+    "type": "number",
+    "intent": "",
+    "extra": "The translation of"
+  },
+  {
+    "question": "شصت",
+    "choices": [
+      "One",
+      "Eleven",
+      "Sixty",
+      "Eighty"
+    ],
+    "answer": 2,
+    "type": "number",
+    "intent": "",
+    "extra": "The translation of"
+  },
+  {
+    "question": "هفتاد",
+    "choices": [
+      "Eighteen",
+      "Seventeen",
+      "Seven",
+      "Seventy"
+    ],
+    "answer": 3,
+    "type": "number",
+    "intent": "",
+    "extra": "The translation of"
+  },
+  {
+    "question": "هشتاد",
+    "choices": [
+      "Eight",
+      "Eighteen",
+      "Fourteen",
+      "Eighty"
+    ],
+    "answer": 3,
+    "type": "number",
+    "intent": "",
+    "extra": "The translation of"
+  },
+  {
+    "question": "نود",
+    "choices": [
+      "Ninety",
+      "Six",
+      "Thirty",
+      "Zero"
+    ],
+    "answer": 0,
+    "type": "number",
+    "intent": "",
+    "extra": "The translation of"
+  },
+  {
+    "question": "صد",
+    "choices": [
+      "Fourteen",
+      "One Hundred",
+      "Five",
+      "Twelve"
+    ],
+    "answer": 1,
+    "type": "number",
+    "intent": "",
+    "extra": "The translation of"
+  },
+  {
+    "question": "صفر",
+    "choices": [
+      "۰",
+      "۱۱",
+      "۲۶",
+      "۱۳"
+    ],
+    "answer": 0,
+    "type": "number",
+    "intent": "",
+    "extra": "Write the following number in numerals:"
+  },
+  {
+    "question": "یک",
+    "choices": [
+      "۱",
+      "۲۴",
+      "۱۶",
+      "۳۰"
+    ],
+    "answer": 0,
+    "type": "number",
+    "intent": "",
+    "extra": "Write the following number in numerals:"
+  },
+  {
+    "question": "دو",
+    "choices": [
+      "۲۸",
+      "۵۰",
+      "۲",
+      "۱۷"
+    ],
+    "answer": 2,
+    "type": "number",
+    "intent": "",
+    "extra": "Write the following number in numerals:"
+  },
+  {
+    "question": "سه",
+    "choices": [
+      "۵۰",
+      "۱۶",
+      "۳",
+      "۸۰"
+    ],
+    "answer": 2,
+    "type": "number",
+    "intent": "",
+    "extra": "Write the following number in numerals:"
+  },
+  {
+    "question": "چهار",
+    "choices": [
+      "۳",
+      "۱۲",
+      "۵",
+      "۴"
+    ],
+    "answer": 3,
+    "type": "number",
+    "intent": "",
+    "extra": "Write the following number in numerals:"
+  },
+  {
+    "question": "پنج",
+    "choices": [
+      "۷",
+      "۶۰",
+      "۲۵",
+      "۵"
+    ],
+    "answer": 3,
+    "type": "number",
+    "intent": "",
+    "extra": "Write the following number in numerals:"
+  },
+  {
+    "question": "شش",
+    "choices": [
+      "۱",
+      "۶",
+      "۱۶",
+      "۲۹"
+    ],
+    "answer": 1,
+    "type": "number",
+    "intent": "",
+    "extra": "Write the following number in numerals:"
+  },
+  {
+    "question": "هفت",
+    "choices": [
+      "۴۰",
+      "۹۰",
+      "۷",
+      "۵۰"
+    ],
+    "answer": 2,
+    "type": "number",
+    "intent": "",
+    "extra": "Write the following number in numerals:"
+  },
+  {
+    "question": "هشت",
+    "choices": [
+      "۲۴",
+      "۲۲",
+      "۸",
+      "۱۵"
+    ],
+    "answer": 2,
+    "type": "number",
+    "intent": "",
+    "extra": "Write the following number in numerals:"
+  },
+  {
+    "question": "نه",
+    "choices": [
+      "۸",
+      "۹",
+      "۲۸",
+      "۱۶"
+    ],
+    "answer": 1,
+    "type": "number",
+    "intent": "",
+    "extra": "Write the following number in numerals:"
+  },
+  {
+    "question": "ده",
+    "choices": [
+      "۱۴",
+      "۲۵",
+      "۸۰",
+      "۱۰"
+    ],
+    "answer": 3,
+    "type": "number",
+    "intent": "",
+    "extra": "Write the following number in numerals:"
+  },
+  {
+    "question": "یازده",
+    "choices": [
+      "۱۱",
+      "۱۴",
+      "۶",
+      "۵۰"
+    ],
+    "answer": 0,
+    "type": "number",
+    "intent": "",
+    "extra": "Write the following number in numerals:"
+  },
+  {
+    "question": "دوازده",
+    "choices": [
+      "۱۲",
+      "۱۲",
+      "۱۰",
+      "۲۲"
+    ],
+    "answer": 0,
+    "type": "number",
+    "intent": "",
+    "extra": "Write the following number in numerals:"
+  },
+  {
+    "question": "سیزده",
+    "choices": [
+      "۶۰",
+      "۰",
+      "۱۳",
+      "۱"
+    ],
+    "answer": 2,
+    "type": "number",
+    "intent": "",
+    "extra": "Write the following number in numerals:"
+  },
+  {
+    "question": "چهارده",
+    "choices": [
+      "۱۴",
+      "۱۸",
+      "۸۰",
+      "۱۶"
+    ],
+    "answer": 0,
+    "type": "number",
+    "intent": "",
+    "extra": "Write the following number in numerals:"
+  },
+  {
+    "question": "پانزده",
+    "choices": [
+      "۲۷",
+      "۳",
+      "۱۸",
+      "۱۵"
+    ],
+    "answer": 3,
+    "type": "number",
+    "intent": "",
+    "extra": "Write the following number in numerals:"
+  },
+  {
+    "question": "شانزده",
+    "choices": [
+      "۱۰",
+      "۱۶",
+      "۷۰",
+      "۱۶"
+    ],
+    "answer": 3,
+    "type": "number",
+    "intent": "",
+    "extra": "Write the following number in numerals:"
+  },
+  {
+    "question": "هفده",
+    "choices": [
+      "۲۳",
+      "۶۰",
+      "۱۷",
+      "۴"
+    ],
+    "answer": 2,
+    "type": "number",
+    "intent": "",
+    "extra": "Write the following number in numerals:"
+  },
+  {
+    "question": "هجده",
+    "choices": [
+      "۱۱",
+      "۱۸",
+      "۱۵",
+      "۸"
+    ],
+    "answer": 1,
+    "type": "number",
+    "intent": "",
+    "extra": "Write the following number in numerals:"
+  },
+  {
+    "question": "نوزده",
+    "choices": [
+      "۸",
+      "۲۵",
+      "۲۲",
+      "۱۹"
+    ],
+    "answer": 3,
+    "type": "number",
+    "intent": "",
+    "extra": "Write the following number in numerals:"
+  },
+  {
+    "question": "بیست",
+    "choices": [
+      "۱۴",
+      "۲۰",
+      "۵",
+      "۲۳"
+    ],
+    "answer": 1,
+    "type": "number",
+    "intent": "",
+    "extra": "Write the following number in numerals:"
+  },
+  {
+    "question": "بیست و یک",
+    "choices": [
+      "۱۹",
+      "۶",
+      "۱۲",
+      "۲۱"
+    ],
+    "answer": 3,
+    "type": "number",
+    "intent": "",
+    "extra": "Write the following number in numerals:"
+  },
+  {
+    "question": "بیست و دو",
+    "choices": [
+      "۶۰",
+      "۵۰",
+      "۴۰",
+      "۲۲"
+    ],
+    "answer": 3,
+    "type": "number",
+    "intent": "",
+    "extra": "Write the following number in numerals:"
+  },
+  {
+    "question": "بیست و سه",
+    "choices": [
+      "۸",
+      "۲۳",
+      "۲۰",
+      "۱۹"
+    ],
+    "answer": 1,
+    "type": "number",
+    "intent": "",
+    "extra": "Write the following number in numerals:"
+  },
+  {
+    "question": "بیست و چهار",
+    "choices": [
+      "۹۰",
+      "۵۰",
+      "۲۴",
+      "۶۰"
+    ],
+    "answer": 2,
+    "type": "number",
+    "intent": "",
+    "extra": "Write the following number in numerals:"
+  },
+  {
+    "question": "بیست و پنج",
+    "choices": [
+      "۴۰",
+      "۶",
+      "۲۶",
+      "۲۵"
+    ],
+    "answer": 3,
+    "type": "number",
+    "intent": "",
+    "extra": "Write the following number in numerals:"
+  },
+  {
+    "question": "بیست و شش",
+    "choices": [
+      "۲۶",
+      "۴",
+      "۷",
+      "۱۷"
+    ],
+    "answer": 0,
+    "type": "number",
+    "intent": "",
+    "extra": "Write the following number in numerals:"
+  },
+  {
+    "question": "بیست و هفت",
+    "choices": [
+      "۶۰",
+      "۷",
+      "۱۸",
+      "۲۷"
+    ],
+    "answer": 3,
+    "type": "number",
+    "intent": "",
+    "extra": "Write the following number in numerals:"
+  },
+  {
+    "question": "بیست و هشت",
+    "choices": [
+      "۲۷",
+      "۲۸",
+      "۸۰",
+      "۱۵"
+    ],
+    "answer": 1,
+    "type": "number",
+    "intent": "",
+    "extra": "Write the following number in numerals:"
+  },
+  {
+    "question": "بیست و نه",
+    "choices": [
+      "۹",
+      "۱۶",
+      "۲۹",
+      "۱۱"
+    ],
+    "answer": 2,
+    "type": "number",
+    "intent": "",
+    "extra": "Write the following number in numerals:"
+  },
+  {
+    "question": "سی",
+    "choices": [
+      "۳۰",
+      "۹۰",
+      "۲۳",
+      "۲۸"
+    ],
+    "answer": 0,
+    "type": "number",
+    "intent": "",
+    "extra": "Write the following number in numerals:"
+  },
+  {
+    "question": "چهل",
+    "choices": [
+      "۹",
+      "۸",
+      "۴۰",
+      "۲۵"
+    ],
+    "answer": 2,
+    "type": "number",
+    "intent": "",
+    "extra": "Write the following number in numerals:"
+  },
+  {
+    "question": "پنجاه",
+    "choices": [
+      "۸",
+      "۵۰",
+      "۱۰",
+      "۲۴"
+    ],
+    "answer": 1,
+    "type": "number",
+    "intent": "",
+    "extra": "Write the following number in numerals:"
+  },
+  {
+    "question": "شصت",
+    "choices": [
+      "۶۰",
+      "۲۰",
+      "۱۲",
+      "۱۹"
+    ],
+    "answer": 0,
+    "type": "number",
+    "intent": "",
+    "extra": "Write the following number in numerals:"
+  },
+  {
+    "question": "هفتاد",
+    "choices": [
+      "۶۰",
+      "۱۳",
+      "۲۳",
+      "۷۰"
+    ],
+    "answer": 3,
+    "type": "number",
+    "intent": "",
+    "extra": "Write the following number in numerals:"
+  },
+  {
+    "question": "هشتاد",
+    "choices": [
+      "۸۰",
+      "۷۰",
+      "۲۶",
+      "۲۲"
+    ],
+    "answer": 0,
+    "type": "number",
+    "intent": "",
+    "extra": "Write the following number in numerals:"
+  },
+  {
+    "question": "نود",
+    "choices": [
+      "۱۵",
+      "۴۰",
+      "۱",
+      "۹۰"
+    ],
+    "answer": 3,
+    "type": "number",
+    "intent": "",
+    "extra": "Write the following number in numerals:"
+  },
+  {
+    "question": "صد",
+    "choices": [
+      "۸",
+      "۱۰۰",
+      "۹",
+      "۴۰"
+    ],
+    "answer": 1,
+    "type": "number",
+    "intent": "",
+    "extra": "Write the following number in numerals:"
+  },
+  {
+    "question": "۰",
+    "choices": [
+      "هفتاد",
+      "سه",
+      "یازده",
+      "صفر"
+    ],
+    "answer": 3,
+    "type": "number",
+    "intent": "",
+    "extra": "Write the following number in letters:"
+  },
+  {
+    "question": "۱",
+    "choices": [
+      "پنجاه",
+      "یک",
+      "بیست و نه",
+      "چهل"
+    ],
+    "answer": 1,
+    "type": "number",
+    "intent": "",
+    "extra": "Write the following number in letters:"
+  },
+  {
+    "question": "۲",
+    "choices": [
+      "بیست",
+      "هشتاد",
+      "دو",
+      "نود"
+    ],
+    "answer": 2,
+    "type": "number",
+    "intent": "",
+    "extra": "Write the following number in letters:"
+  },
+  {
+    "question": "۳",
+    "choices": [
+      "سی",
+      "سه",
+      "بیست",
+      "بیست و پنج"
+    ],
+    "answer": 1,
+    "type": "number",
+    "intent": "",
+    "extra": "Write the following number in letters:"
+  },
+  {
+    "question": "۴",
+    "choices": [
+      "چهار",
+      "بیست و دو",
+      "چهارده",
+      "بیست و نه"
+    ],
+    "answer": 0,
+    "type": "number",
+    "intent": "",
+    "extra": "Write the following number in letters:"
+  },
+  {
+    "question": "۵",
+    "choices": [
+      "بیست و دو",
+      "پنج",
+      "صفر",
+      "شانزده"
+    ],
+    "answer": 1,
+    "type": "number",
+    "intent": "",
+    "extra": "Write the following number in letters:"
+  },
+  {
+    "question": "۶",
+    "choices": [
+      "شش",
+      "سیزده",
+      "چهارده",
+      "صفر"
+    ],
+    "answer": 0,
+    "type": "number",
+    "intent": "",
+    "extra": "Write the following number in letters:"
+  },
+  {
+    "question": "۷",
+    "choices": [
+      "پنج",
+      "پانزده",
+      "بیست",
+      "هفت"
+    ],
+    "answer": 3,
+    "type": "number",
+    "intent": "",
+    "extra": "Write the following number in letters:"
+  },
+  {
+    "question": "۸",
+    "choices": [
+      "صفر",
+      "هجده",
+      "شصت",
+      "هشت"
+    ],
+    "answer": 3,
+    "type": "number",
+    "intent": "",
+    "extra": "Write the following number in letters:"
+  },
+  {
+    "question": "۹",
+    "choices": [
+      "نود",
+      "دوازده",
+      "نه",
+      "هشتاد"
+    ],
+    "answer": 2,
+    "type": "number",
+    "intent": "",
+    "extra": "Write the following number in letters:"
+  },
+  {
+    "question": "۱۰",
+    "choices": [
+      "صفر",
+      "بیست",
+      "ده",
+      "دوازده"
+    ],
+    "answer": 2,
+    "type": "number",
+    "intent": "",
+    "extra": "Write the following number in letters:"
+  },
+  {
+    "question": "۱۱",
+    "choices": [
+      "صفر",
+      "هشتاد",
+      "یازده",
+      "نه"
+    ],
+    "answer": 2,
+    "type": "number",
+    "intent": "",
+    "extra": "Write the following number in letters:"
+  },
+  {
+    "question": "۱۲",
+    "choices": [
+      "بیست و سه",
+      "بیست و هشت",
+      "بیست",
+      "دوازده"
+    ],
+    "answer": 3,
+    "type": "number",
+    "intent": "",
+    "extra": "Write the following number in letters:"
+  },
+  {
+    "question": "۱۳",
+    "choices": [
+      "ده",
+      "سیزده",
+      "پنج",
+      "نه"
+    ],
+    "answer": 1,
+    "type": "number",
+    "intent": "",
+    "extra": "Write the following number in letters:"
+  },
+  {
+    "question": "۱۴",
+    "choices": [
+      "چهارده",
+      "دو",
+      "بیست و هفت",
+      "پنج"
+    ],
+    "answer": 0,
+    "type": "number",
+    "intent": "",
+    "extra": "Write the following number in letters:"
+  },
+  {
+    "question": "۱۵",
+    "choices": [
+      "پنجاه",
+      "هجده",
+      "پانزده",
+      "بیست و چهار"
+    ],
+    "answer": 2,
+    "type": "number",
+    "intent": "",
+    "extra": "Write the following number in letters:"
+  },
+  {
+    "question": "۱۶",
+    "choices": [
+      "بیست و چهار",
+      "چهل",
+      "شانزده",
+      "نود"
+    ],
+    "answer": 2,
+    "type": "number",
+    "intent": "",
+    "extra": "Write the following number in letters:"
+  },
+  {
+    "question": "۱۷",
+    "choices": [
+      "بیست و سه",
+      "هفت",
+      "بیست و چهار",
+      "هفده"
+    ],
+    "answer": 3,
+    "type": "number",
+    "intent": "",
+    "extra": "Write the following number in letters:"
+  },
+  {
+    "question": "۱۸",
+    "choices": [
+      "سیزده",
+      "دو",
+      "هجده",
+      "هشت"
+    ],
+    "answer": 2,
+    "type": "number",
+    "intent": "",
+    "extra": "Write the following number in letters:"
+  },
+  {
+    "question": "۱۹",
+    "choices": [
+      "بیست و نه",
+      "نوزده",
+      "سیزده",
+      "هفت"
+    ],
+    "answer": 1,
+    "type": "number",
+    "intent": "",
+    "extra": "Write the following number in letters:"
+  },
+  {
+    "question": "۲۰",
+    "choices": [
+      "بیست و هشت",
+      "بیست و پنج",
+      "بیست",
+      "یک"
+    ],
+    "answer": 2,
+    "type": "number",
+    "intent": "",
+    "extra": "Write the following number in letters:"
+  },
+  {
+    "question": "۲۱",
+    "choices": [
+      "بیست و یک",
+      "نود",
+      "بیست",
+      "صفر"
+    ],
+    "answer": 0,
+    "type": "number",
+    "intent": "",
+    "extra": "Write the following number in letters:"
+  },
+  {
+    "question": "۲۲",
+    "choices": [
+      "بیست و دو",
+      "شانزده",
+      "بیست و هفت",
+      "پانزده"
+    ],
+    "answer": 0,
+    "type": "number",
+    "intent": "",
+    "extra": "Write the following number in letters:"
+  },
+  {
+    "question": "۲۳",
+    "choices": [
+      "بیست و سه",
+      "شش",
+      "پانزده",
+      "بیست و نه"
+    ],
+    "answer": 0,
+    "type": "number",
+    "intent": "",
+    "extra": "Write the following number in letters:"
+  },
+  {
+    "question": "۲۴",
+    "choices": [
+      "هشتاد",
+      "یازده",
+      "بیست و چهار",
+      "نود"
+    ],
+    "answer": 2,
+    "type": "number",
+    "intent": "",
+    "extra": "Write the following number in letters:"
+  },
+  {
+    "question": "۲۵",
+    "choices": [
+      "بیست و هفت",
+      "بیست و چهار",
+      "بیست و پنج",
+      "شصت"
+    ],
+    "answer": 2,
+    "type": "number",
+    "intent": "",
+    "extra": "Write the following number in letters:"
+  },
+  {
+    "question": "۲۶",
+    "choices": [
+      "بیست و شش",
+      "پنج",
+      "نه",
+      "نود"
+    ],
+    "answer": 0,
+    "type": "number",
+    "intent": "",
+    "extra": "Write the following number in letters:"
+  },
+  {
+    "question": "۲۷",
+    "choices": [
+      "بیست و هفت",
+      "نوزده",
+      "چهار",
+      "بیست و سه"
+    ],
+    "answer": 0,
+    "type": "number",
+    "intent": "",
+    "extra": "Write the following number in letters:"
+  },
+  {
+    "question": "۲۸",
+    "choices": [
+      "بیست و هشت",
+      "شصت",
+      "پنجاه",
+      "دوازده"
+    ],
+    "answer": 0,
+    "type": "number",
+    "intent": "",
+    "extra": "Write the following number in letters:"
+  },
+  {
+    "question": "۲۹",
+    "choices": [
+      "بیست و نه",
+      "پنج",
+      "نه",
+      "بیست و دو"
+    ],
+    "answer": 0,
+    "type": "number",
+    "intent": "",
+    "extra": "Write the following number in letters:"
+  },
+  {
+    "question": "۳۰",
+    "choices": [
+      "هجده",
+      "سی",
+      "سی",
+      "بیست و یک"
+    ],
+    "answer": 2,
+    "type": "number",
+    "intent": "",
+    "extra": "Write the following number in letters:"
+  },
+  {
+    "question": "۴۰",
+    "choices": [
+      "چهار",
+      "سه",
+      "بیست و هفت",
+      "چهل"
+    ],
+    "answer": 3,
+    "type": "number",
+    "intent": "",
+    "extra": "Write the following number in letters:"
+  },
+  {
+    "question": "۵۰",
+    "choices": [
+      "بیست و هفت",
+      "پنجاه",
+      "سیزده",
+      "دو"
+    ],
+    "answer": 1,
+    "type": "number",
+    "intent": "",
+    "extra": "Write the following number in letters:"
+  },
+  {
+    "question": "۶۰",
+    "choices": [
+      "هفت",
+      "سیزده",
+      "بیست و یک",
+      "شصت"
+    ],
+    "answer": 3,
+    "type": "number",
+    "intent": "",
+    "extra": "Write the following number in letters:"
+  },
+  {
+    "question": "۷۰",
+    "choices": [
+      "نه",
+      "سی",
+      "هفتاد",
+      "بیست و نه"
+    ],
+    "answer": 2,
+    "type": "number",
+    "intent": "",
+    "extra": "Write the following number in letters:"
+  },
+  {
+    "question": "۸۰",
+    "choices": [
+      "بیست و یک",
+      "هشت",
+      "بیست و هفت",
+      "هشتاد"
+    ],
+    "answer": 3,
+    "type": "number",
+    "intent": "",
+    "extra": "Write the following number in letters:"
+  },
+  {
+    "question": "۹۰",
+    "choices": [
+      "چهار",
+      "هجده",
+      "نود",
+      "هشت"
+    ],
+    "answer": 2,
+    "type": "number",
+    "intent": "",
+    "extra": "Write the following number in letters:"
+  },
+  {
+    "question": "۱۰۰",
+    "choices": [
+      "سه",
+      "بیست و هفت",
+      "بیست و هشت",
+      "صد"
+    ],
+    "answer": 3,
+    "type": "number",
+    "intent": "",
+    "extra": "Write the following number in letters:"
+  }
+]

@@ -1,0 +1,6515 @@
+[
+  {
+    "question": "despiértame a las ------ esta semana",
+    "choices": [
+      "cinco de la mañana",
+      "volar",
+      "mentira",
+      "ciudad"
+    ],
+    "answer": 0,
+    "type": "sentence",
+    "intent": "set",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "despiértame a las ------ el viernes",
+    "choices": [
+      "zapato",
+      "nueve de la mañana",
+      "mensaje",
+      "inferior"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "set",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "pon una alarma en ------",
+    "choices": [
+      "cortada",
+      "dos horas desde ahora",
+      "condición",
+      "herramienta"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "set",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "olly para por ------",
+    "choices": [
+      "él",
+      "un minuto",
+      "exacta",
+      "resolver"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "volume_mute",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "para por ------",
+    "choices": [
+      "largo",
+      "leche",
+      "comparar",
+      "diez segundos"
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "volume_mute",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "el ------ es todo lo que necesitamos",
+    "choices": [
+      "materia",
+      "rosa",
+      "esquina",
+      "dientes"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "hue_lightchange",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "haz que la luz sea un poco mas ------ aquí",
+    "choices": [
+      "cálida",
+      "puntuación",
+      "multitud",
+      "partido"
+    ],
+    "answer": 0,
+    "type": "sentence",
+    "intent": "hue_lightchange",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "por favor pon la luz ------",
+    "choices": [
+      "frotar",
+      "adecuada para leer",
+      "papá",
+      "rompió"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "hue_lightchange",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "apaga la luz del ------",
+    "choices": [
+      "se fue",
+      "baño",
+      "aún",
+      "sueño"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "hue_lightoff",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "olly baja las luces en la ------",
+    "choices": [
+      "temprana",
+      "significará",
+      "sala",
+      "bate"
+    ],
+    "answer": 2,
+    "type": "sentence",
+    "intent": "hue_lightdim",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "atenua las luces en el ------",
+    "choices": [
+      "oportunidad",
+      "me",
+      "flor",
+      "pasillo"
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "hue_lightdim",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "apaga las luces del ------",
+    "choices": [
+      "padre",
+      "dormitorio",
+      "capturas",
+      "pequeño"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "hue_lightoff",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "ajusta las luces ------",
+    "choices": [
+      "objeto",
+      "piel",
+      "naturaleza",
+      "a veinte por ciento"
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "hue_lightchange",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "solo ponga las luces ------",
+    "choices": [
+      "a veinte por ciento",
+      "cuello",
+      "fila",
+      "mentira"
+    ],
+    "answer": 0,
+    "type": "sentence",
+    "intent": "hue_lightchange",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "atenua las luces en la ------ olly",
+    "choices": [
+      "si",
+      "doble",
+      "cocina",
+      "responder"
+    ],
+    "answer": 2,
+    "type": "sentence",
+    "intent": "hue_lightdim",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "baja las luces de la ------",
+    "choices": [
+      "experimento",
+      "cocina",
+      "risa",
+      "lugar"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "hue_lightdim",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "oscurece la ------",
+    "choices": [
+      "grito",
+      "nuevo",
+      "temprana",
+      "habitación"
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "hue_lightdim",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "olly limpia el ------",
+    "choices": [
+      "ella",
+      "piso",
+      "tal",
+      "sobre"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "cleaning",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "limpia el ------",
+    "choices": [
+      "dientes",
+      "lucha",
+      "mina",
+      "piso"
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "cleaning",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "aspirar la ------",
+    "choices": [
+      "base de",
+      "hecho",
+      "casa",
+      "enemigo"
+    ],
+    "answer": 2,
+    "type": "sentence",
+    "intent": "cleaning",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "aspira la ------ olly",
+    "choices": [
+      "casa",
+      "pulgadas",
+      "sistema",
+      "usted"
+    ],
+    "answer": 0,
+    "type": "sentence",
+    "intent": "cleaning",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "limpiar es bueno el polvo es tan malo haz ahora tu magia limpia mi ------",
+    "choices": [
+      "feliz",
+      "alfombra",
+      "pared",
+      "pocos"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "cleaning",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "aspira el ------",
+    "choices": [
+      "mar",
+      "instrumento",
+      "manzana",
+      "pasillo"
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "cleaning",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "aspirar las ------ alrededor",
+    "choices": [
+      "longitud",
+      "difícil",
+      "de espesor",
+      "alfombras"
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "cleaning",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "quiero escuchar la canción de ------ una vez más",
+    "choices": [
+      "equipo",
+      "arijit singh",
+      "enviado",
+      "verano"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "music",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "quiero poner esa ------ una vez mas",
+    "choices": [
+      "música",
+      "todavía",
+      "por qué",
+      "discutir"
+    ],
+    "answer": 0,
+    "type": "sentence",
+    "intent": "music",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "que hora es en ------",
+    "choices": [
+      "azúcar",
+      "describir",
+      "rápido",
+      "australia"
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "dime la hora en ------",
+    "choices": [
+      "traje",
+      "maravilla",
+      "madrid",
+      "abierta"
+    ],
+    "answer": 2,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "dime la hora en ------",
+    "choices": [
+      "eléctrica",
+      "viejo",
+      "corto",
+      "el huso horario más cinco"
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "convert",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "siri dime la hora en ------",
+    "choices": [
+      "zapato",
+      "siete",
+      "g. m. t. más cinco",
+      "símbolo"
+    ],
+    "answer": 2,
+    "type": "sentence",
+    "intent": "convert",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "alexa opciones de ------ mejor valoradas de comida china",
+    "choices": [
+      "el control",
+      "entrega",
+      "naturaleza",
+      "cobrar"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "opciones de ------ de comida china más valoradas",
+    "choices": [
+      "océano",
+      "frotar",
+      "nosotros",
+      "entrega"
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "lista de las opciones de ------ de comida china más valoradas",
+    "choices": [
+      "igual",
+      "entrega",
+      "raíz",
+      "experimento"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "olly las opciones mas votadas de ------ de comida china a domicilio",
+    "choices": [
+      "éstos",
+      "dos",
+      "tocar",
+      "entrega"
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "quiero pedir ------ para llevar alguna recomendación",
+    "choices": [
+      "grande",
+      "escribió",
+      "curry",
+      "añadir"
+    ],
+    "answer": 2,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "quiero pedir ------ para llevar hay alguna recomendación alexa",
+    "choices": [
+      "curry",
+      "peces",
+      "jefe",
+      "bordo"
+    ],
+    "answer": 0,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "encontrar mi comida ------ para llevar tailandesa alrededor de mercado central",
+    "choices": [
+      "amplio",
+      "oxígeno",
+      "puerta",
+      "thai"
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "encontrar mi comida ------ tailandesa alrededor del centro",
+    "choices": [
+      "orilla",
+      "contento",
+      "para llevar",
+      "izquierda"
+    ],
+    "answer": 2,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "cancela mi alarma de las ------",
+    "choices": [
+      "bosque",
+      "rompió",
+      "siete de la mañana",
+      "resto"
+    ],
+    "answer": 2,
+    "type": "sentence",
+    "intent": "remove",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "parar alarma de las ------",
+    "choices": [
+      "siete de la mañana",
+      "siempre",
+      "causa",
+      "desgaste"
+    ],
+    "answer": 0,
+    "type": "sentence",
+    "intent": "remove",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "qué está pasando en el ------ hoy",
+    "choices": [
+      "persona",
+      "preparar",
+      "fútbol",
+      "forma"
+    ],
+    "answer": 2,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "por favor pon ------ de los beatles",
+    "choices": [
+      "mente",
+      "ayer",
+      "matar",
+      "línea"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "music",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "me gustaría escuchar ------ de queen",
+    "choices": [
+      "neumáticos",
+      "lugar",
+      "barcelona",
+      "ambos"
+    ],
+    "answer": 2,
+    "type": "sentence",
+    "intent": "music",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "ponme ------ por queen",
+    "choices": [
+      "nieve",
+      "puntuación",
+      "claro",
+      "barcelona"
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "music",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "me gusta la música ------",
+    "choices": [
+      "rock",
+      "cuerpo",
+      "caja",
+      "palabra"
+    ],
+    "answer": 0,
+    "type": "sentence",
+    "intent": "likeness",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "mi grupo de musica favorito es ------",
+    "choices": [
+      "sustancia",
+      "despistados",
+      "ejecutar",
+      "golpe"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "likeness",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "me gustan las canciones ------",
+    "choices": [
+      "muy",
+      "oxígeno",
+      "recoger",
+      "del barrio"
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "likeness",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "por favor sube las luces ------",
+    "choices": [
+      "rompió",
+      "al máximo",
+      "menos",
+      "puerto"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "hue_lightup",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "hey enciende el ------",
+    "choices": [
+      "hizo",
+      "robot limpiador",
+      "por tanto,",
+      "lago"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "cleaning",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "enciende el ------ de limpieza",
+    "choices": [
+      "lo hará",
+      "copia",
+      "robot",
+      "voz"
+    ],
+    "answer": 2,
+    "type": "sentence",
+    "intent": "cleaning",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "dime la fecha ------",
+    "choices": [
+      "costo",
+      "de hoy",
+      "tarjeta",
+      "seguro"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "que fecha es ------",
+    "choices": [
+      "animal",
+      "vivir",
+      "pocos",
+      "hoy"
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "pide algo de ------ para la cena",
+    "choices": [
+      "escribió",
+      "sushi",
+      "operar",
+      "sistema"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "order",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "hola me gustaría que pidas una ------",
+    "choices": [
+      "producirse",
+      "bastante",
+      "seguro",
+      "hamburguesa"
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "order",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "podrías pedir ------ para la cena de esta noche",
+    "choices": [
+      "verde",
+      "sushi",
+      "cómo",
+      "voz"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "order",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "puedo pedir ------ para llevar de la carola",
+    "choices": [
+      "enviado",
+      "cena",
+      "dedo",
+      "sólo"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "order",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "el ------ hace pedidos para llevar",
+    "choices": [
+      "algunos",
+      "hombres",
+      "burger king",
+      "bosque"
+    ],
+    "answer": 2,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "poner una alarma a las ------",
+    "choices": [
+      "dedo",
+      "doce",
+      "construir",
+      "médico"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "set",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "poner una alarma ------",
+    "choices": [
+      "amar",
+      "dentro de cuarenta minutos",
+      "pasado",
+      "próximo"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "set",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "poner alarma a las ------ cada día entre semana",
+    "choices": [
+      "llamada",
+      "resolver",
+      "dibujar",
+      "ocho"
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "set",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "está ------",
+    "choices": [
+      "debería",
+      "velocidad",
+      "lloviendo",
+      "cociente"
+    ],
+    "answer": 2,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "va a ------",
+    "choices": [
+      "hombres",
+      "duro",
+      "unidad",
+      "llover"
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "está ------ ahora mismo",
+    "choices": [
+      "agujero",
+      "nevando",
+      "ganar",
+      "aunque"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "cuál es el pronóstico del tiempo para la ------",
+    "choices": [
+      "ahora",
+      "principal",
+      "que",
+      "semana"
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "cuál es el pronóstico de la ------",
+    "choices": [
+      "semana",
+      "esquina",
+      "algunos",
+      "mapa"
+    ],
+    "answer": 0,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "cómo está el tiempo ------",
+    "choices": [
+      "esta semana",
+      "padre",
+      "por qué",
+      "probable"
+    ],
+    "answer": 0,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "qué tiempo hace ------",
+    "choices": [
+      "esta semana",
+      "sugerir",
+      "columna",
+      "dos"
+    ],
+    "answer": 0,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "dime el tiempo para ------",
+    "choices": [
+      "papel",
+      "danza",
+      "ejercicio",
+      "esta semana"
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "dime las noticias ------",
+    "choices": [
+      "causa",
+      "madre",
+      "ola",
+      "del país"
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "cuáles son las noticias en ------ noticias",
+    "choices": [
+      "mentira",
+      "t. v. e.",
+      "propio",
+      "querido"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "cuáles son las últimas noticias del ------",
+    "choices": [
+      "tipo",
+      "gran",
+      "evento",
+      "veinte minutos"
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "pon ------",
+    "choices": [
+      "duele como el cielo",
+      "lugar",
+      "música",
+      "esperanza"
+    ],
+    "answer": 0,
+    "type": "sentence",
+    "intent": "music",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "ponte ------",
+    "choices": [
+      "pienso",
+      "por encima de",
+      "causa",
+      "reina caníbal"
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "music",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "pon ------",
+    "choices": [
+      "gracias",
+      "daft punk",
+      "recibir",
+      "salvaje"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "music",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "pon algunas de ------",
+    "choices": [
+      "coldplay",
+      "mundo",
+      "por encima de",
+      "día"
+    ],
+    "answer": 0,
+    "type": "sentence",
+    "intent": "music",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "pon algo de ------",
+    "choices": [
+      "energía",
+      "problema",
+      "david bowie",
+      "encontrado"
+    ],
+    "answer": 2,
+    "type": "sentence",
+    "intent": "music",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "------ esta canción",
+    "choices": [
+      "pon en bucle",
+      "distante",
+      "división",
+      "aceite"
+    ],
+    "answer": 0,
+    "type": "sentence",
+    "intent": "settings",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "------ esta lista de reproducción",
+    "choices": [
+      "cuarto de galón",
+      "pon en modo aleatorio",
+      "importante",
+      "centro"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "settings",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "pon el volumen a ------",
+    "choices": [
+      "bajo",
+      "me",
+      "vestido",
+      "dibujar"
+    ],
+    "answer": 0,
+    "type": "sentence",
+    "intent": "volume_down",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "cuéntame un ------ chiste",
+    "choices": [
+      "vestido",
+      "buen",
+      "estado",
+      "bebé"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "joke",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "qué día es ------",
+    "choices": [
+      "lluvia",
+      "tomar",
+      "hablar",
+      "hoy"
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "cuentame sobre ------",
+    "choices": [
+      "llenar",
+      "papel",
+      "miedo",
+      "hoy"
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "quirky",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "pedir una ------",
+    "choices": [
+      "pizza",
+      "noche",
+      "carne",
+      "corazón"
+    ],
+    "answer": 0,
+    "type": "sentence",
+    "intent": "order",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "pídeme un ------ de deliveroo",
+    "choices": [
+      "sandwich de pollo",
+      "respuesta",
+      "lugar",
+      "añadir"
+    ],
+    "answer": 0,
+    "type": "sentence",
+    "intent": "order",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "hacer un pedido ------",
+    "choices": [
+      "éstos",
+      "sentido",
+      "para llevar",
+      "se ha ido"
+    ],
+    "answer": 2,
+    "type": "sentence",
+    "intent": "order",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "cuánto va a tardar mi ------",
+    "choices": [
+      "inventar",
+      "tienda",
+      "flor",
+      "pedido a domicilio"
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "estado del ------ del domino's pizza",
+    "choices": [
+      "pedido",
+      "mal",
+      "tienda",
+      "cierto"
+    ],
+    "answer": 0,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "pon mi playlist de ------",
+    "choices": [
+      "con",
+      "amplio",
+      "jugar",
+      "jazz"
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "music",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "iniciar mi playlist de ------",
+    "choices": [
+      "punto",
+      "jazz",
+      "lago",
+      "grito"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "music",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "me gusta el ------",
+    "choices": [
+      "ala",
+      "vecino",
+      "hueso",
+      "jazz"
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "likeness",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "puedes poner algo de ------",
+    "choices": [
+      "caja",
+      "campo",
+      "inventar",
+      "jazz"
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "music",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "me gusta escuchar ------",
+    "choices": [
+      "jazz",
+      "representar",
+      "capitán",
+      "anillo"
+    ],
+    "answer": 0,
+    "type": "sentence",
+    "intent": "music",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "me gusta escuchar ------",
+    "choices": [
+      "quemar",
+      "jazz",
+      "bastante",
+      "mantenga"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "music",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "habilitar la reproducción ------",
+    "choices": [
+      "suave",
+      "pistola",
+      "aleatoria",
+      "hablar"
+    ],
+    "answer": 2,
+    "type": "sentence",
+    "intent": "settings",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "ajusta el brillo ------",
+    "choices": [
+      "a cincuenta por ciento",
+      "hecho",
+      "mes",
+      "fin"
+    ],
+    "answer": 0,
+    "type": "sentence",
+    "intent": "hue_lightchange",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "pueden mandar comida ------",
+    "choices": [
+      "aunque",
+      "imán",
+      "nueve",
+      "a domicilio"
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "hacen ------",
+    "choices": [
+      "entregas",
+      "tamaño",
+      "más",
+      "pato"
+    ],
+    "answer": 0,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "------ a domicilio",
+    "choices": [
+      "banco",
+      "abrigo",
+      "entregan",
+      "camino"
+    ],
+    "answer": 2,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "alexa ------ a casa",
+    "choices": [
+      "determinar",
+      "saber",
+      "estudiante",
+      "entregan"
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "poner la alarma a las ------",
+    "choices": [
+      "diez de la mañana",
+      "manzana",
+      "oro",
+      "página"
+    ],
+    "answer": 0,
+    "type": "sentence",
+    "intent": "set",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "pon alarma ------ a las seis de la ------",
+    "choices": [
+      "guardado",
+      "todo",
+      "caso",
+      "mañana"
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "set",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "poner alarma despertador el ------ a las siete de la mañana",
+    "choices": [
+      "plana",
+      "jueves",
+      "como",
+      "tienda"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "set",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "cuéntame las últimas novedades ------",
+    "choices": [
+      "tecnología",
+      "región",
+      "izquierda",
+      "recoger"
+    ],
+    "answer": 0,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "cuéntame las últimas noticias sobre ------",
+    "choices": [
+      "tecnología",
+      "comer",
+      "capitán",
+      "lugar"
+    ],
+    "answer": 0,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "dime alguna noticia de ------",
+    "choices": [
+      "ellos",
+      "espalda",
+      "música",
+      "negocios"
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "dime las noticias ------",
+    "choices": [
+      "vela",
+      "internacionales",
+      "donde",
+      "campo"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "está ------ ahora",
+    "choices": [
+      "sólo",
+      "enviar",
+      "rica",
+      "lloviendo"
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "pon mi lista de reproducción de ------",
+    "choices": [
+      "rock",
+      "lavado",
+      "profunda",
+      "sólo"
+    ],
+    "answer": 0,
+    "type": "sentence",
+    "intent": "music",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "enciende mi lista de reproducción de ------",
+    "choices": [
+      "comparar",
+      "mentira",
+      "michael jackson",
+      "nos"
+    ],
+    "answer": 2,
+    "type": "sentence",
+    "intent": "music",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "pon ------ de mi playlist",
+    "choices": [
+      "lata",
+      "la",
+      "figura",
+      "rafael"
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "music",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "pon la ------ de mi lista de reproducción favorita",
+    "choices": [
+      "respuesta",
+      "forma",
+      "originales",
+      "última canción"
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "music",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "enciende el ------",
+    "choices": [
+      "alambre",
+      "raíz",
+      "izquierda",
+      "enchufe"
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "wemo_on",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "enciende el ------",
+    "choices": [
+      "enchufe",
+      "preguntar",
+      "un",
+      "medio"
+    ],
+    "answer": 0,
+    "type": "sentence",
+    "intent": "wemo_on",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "enciende mi ------",
+    "choices": [
+      "tarde",
+      "enchufe",
+      "estrella",
+      "niños"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "wemo_on",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "------ hace comida para llevar",
+    "choices": [
+      "jugar",
+      "mal",
+      "marca",
+      "domino's pizza"
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "mi sitio ------ favorita está disponible para hacer pedidos a domicilio",
+    "choices": [
+      "pizzería",
+      "uno",
+      "Produce",
+      "excepto"
+    ],
+    "answer": 0,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "puedo pedir comida ------ en español",
+    "choices": [
+      "estrella",
+      "para llevar",
+      "estado",
+      "cortada"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "order",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "cómo está el tiempo en ------",
+    "choices": [
+      "madrid",
+      "de nuevo",
+      "pista",
+      "mejor"
+    ],
+    "answer": 0,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "dime el tiempo en ------",
+    "choices": [
+      "sorpresa",
+      "deberá",
+      "barcelona",
+      "idioma"
+    ],
+    "answer": 2,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "por favor haz que las luces sean más ------",
+    "choices": [
+      "cómodas para leer",
+      "figura",
+      "esperar",
+      "sur"
+    ],
+    "answer": 0,
+    "type": "sentence",
+    "intent": "hue_lightchange",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "por favor haz que las luces ------",
+    "choices": [
+      "capaz",
+      "diversión",
+      "ideales para ver",
+      "nariz"
+    ],
+    "answer": 2,
+    "type": "sentence",
+    "intent": "hue_lightchange",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "haz que la ------ sea más brillante",
+    "choices": [
+      "método",
+      "habitación",
+      "propagación",
+      "buscar"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "hue_lightup",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "que fecha es ------",
+    "choices": [
+      "gusta",
+      "hoy",
+      "pieza",
+      "corto"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "que dia es ------",
+    "choices": [
+      "hoy",
+      "carretera",
+      "capitán",
+      "multiplicar"
+    ],
+    "answer": 0,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "cómo está el tiempo ------",
+    "choices": [
+      "saber",
+      "hoy",
+      "pista",
+      "deberá"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "está ------ afuera",
+    "choices": [
+      "así",
+      "corriente",
+      "lloviendo",
+      "usted"
+    ],
+    "answer": 2,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "está ------ afuera olly",
+    "choices": [
+      "reales",
+      "totales",
+      "lloviendo",
+      "grito"
+    ],
+    "answer": 2,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "debería coger un ------ mañana",
+    "choices": [
+      "energía",
+      "paraguas",
+      "algodón",
+      "así"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "pon música de mi ------",
+    "choices": [
+      "lista de rock",
+      "hierro",
+      "ir",
+      "viento"
+    ],
+    "answer": 0,
+    "type": "sentence",
+    "intent": "music",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "cambia las luces a ------",
+    "choices": [
+      "conjunto",
+      "verde",
+      "palabra",
+      "capturas"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "hue_lightchange",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "limpia el ------ por favor",
+    "choices": [
+      "viajes",
+      "ni",
+      "gas",
+      "suelo"
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "cleaning",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "enciende el ------",
+    "choices": [
+      "nombre",
+      "enchufe de la olla arrocera",
+      "bajo",
+      "suceder"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "wemo_on",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "apaga el ------",
+    "choices": [
+      "enchufe de la olla arrocera",
+      "dicho",
+      "medir",
+      "excepto"
+    ],
+    "answer": 0,
+    "type": "sentence",
+    "intent": "wemo_off",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "que hora es en ------",
+    "choices": [
+      "soldado",
+      "mesa",
+      "él",
+      "las palmas"
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "qué hora es en ------",
+    "choices": [
+      "pronto",
+      "llegar",
+      "madrid",
+      "construir"
+    ],
+    "answer": 2,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "podrías por favor ayudarme a pedir ------ en el deliveroo",
+    "choices": [
+      "equiparar",
+      "sushi",
+      "arte",
+      "tren"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "order",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "poner una alarma a las ------ de la mañana",
+    "choices": [
+      "seis",
+      "cabeza",
+      "rey",
+      "pensar"
+    ],
+    "answer": 0,
+    "type": "sentence",
+    "intent": "set",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "pon una alarma a las ------ de la tarde",
+    "choices": [
+      "montaña",
+      "maravilla",
+      "cuatro",
+      "peligro"
+    ],
+    "answer": 2,
+    "type": "sentence",
+    "intent": "set",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "olly avísame a las ------ para ir al concierto",
+    "choices": [
+      "añadir",
+      "uno",
+      "tres de la tarde",
+      "de pie"
+    ],
+    "answer": 2,
+    "type": "sentence",
+    "intent": "set",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "avísame a las ------ que vaya al concierto",
+    "choices": [
+      "palillo",
+      "ola",
+      "oh",
+      "tres de la tarde"
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "set",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "puedo yo poner una alarma para mi ------ por la mañana",
+    "choices": [
+      "hasta",
+      "rollo",
+      "vuelo",
+      "su"
+    ],
+    "answer": 2,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "configuré una alarma para ------ por la mañana",
+    "choices": [
+      "discurso",
+      "despertarme",
+      "pieza",
+      "siete"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "está ------ en barcelona",
+    "choices": [
+      "lloviendo",
+      "tipo",
+      "listo",
+      "caza"
+    ],
+    "answer": 0,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "va a ------ hoy",
+    "choices": [
+      "alimentos",
+      "lata",
+      "monte",
+      "llover"
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "que esta pasando en ------",
+    "choices": [
+      "agujero",
+      "america",
+      "bordo",
+      "unidad"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "que está pasando en el ------",
+    "choices": [
+      "costo",
+      "polluelo",
+      "aunque",
+      "mundo"
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "qué está pasando en ------",
+    "choices": [
+      "print",
+      "presente",
+      "creer",
+      "madrid"
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "enséñame algunas noticias de ------",
+    "choices": [
+      "marca",
+      "poblar",
+      "podía",
+      "región"
+    ],
+    "answer": 0,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "solo muéstrame alguna noticias de ------",
+    "choices": [
+      "rica",
+      "pasar",
+      "grupo",
+      "b. b. c."
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "pone las noticias de ------",
+    "choices": [
+      "antena tres",
+      "hierro",
+      "ala",
+      "joven"
+    ],
+    "answer": 0,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "------ olly",
+    "choices": [
+      "excitar",
+      "pared",
+      "noticias de piratas",
+      "era"
+    ],
+    "answer": 2,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "ponme algo de ------",
+    "choices": [
+      "hip hop",
+      "acorde",
+      "ocupado",
+      "debe"
+    ],
+    "answer": 0,
+    "type": "sentence",
+    "intent": "music",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "estoy de humor para ------ ahora mismo y tú",
+    "choices": [
+      "frase",
+      "jazz",
+      "crecer",
+      "alcance"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "music",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "death ------ ahora",
+    "choices": [
+      "grado",
+      "ejercicio",
+      "dicho",
+      "metal"
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "music",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "------ metal ahora",
+    "choices": [
+      "comer",
+      "naturaleza",
+      "libre",
+      "death"
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "music",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "olly toca un buen tema de mi cantante ------ favorito",
+    "choices": [
+      "jazz",
+      "verano",
+      "significado",
+      "comenzó"
+    ],
+    "answer": 0,
+    "type": "sentence",
+    "intent": "music",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "pon música de mi ------ favorito",
+    "choices": [
+      "pianista",
+      "inferior",
+      "tenido",
+      "uso"
+    ],
+    "answer": 0,
+    "type": "sentence",
+    "intent": "music",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "pon las luces ------",
+    "choices": [
+      "especialmente",
+      "aliviar",
+      "azules",
+      "jugar"
+    ],
+    "answer": 2,
+    "type": "sentence",
+    "intent": "hue_lightchange",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "tengamos las luces ------",
+    "choices": [
+      "alegría",
+      "azules",
+      "separada",
+      "en"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "hue_lightchange",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "haz que las luces ------",
+    "choices": [
+      "brillen en azul",
+      "ciento",
+      "cierto",
+      "aceite"
+    ],
+    "answer": 0,
+    "type": "sentence",
+    "intent": "hue_lightchange",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "qué hora es en ------ ahora",
+    "choices": [
+      "acorde",
+      "contento",
+      "plaza",
+      "madrid"
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "que quiso decir el cantante con el título de la canción ------",
+    "choices": [
+      "aire",
+      "bohemia rapsodia",
+      "correcta",
+      "reales"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "quien interpretó la canción ------",
+    "choices": [
+      "llenar",
+      "campo",
+      "esperanza",
+      "una taza más de café"
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "cuál es el tiempo en ------",
+    "choices": [
+      "muerte",
+      "vigo",
+      "bebé",
+      "paso"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "como está el tiempo en ------",
+    "choices": [
+      "misma",
+      "gijón",
+      "pintar",
+      "barco"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "cuál es el pronóstico del tiempo ------ en madrid",
+    "choices": [
+      "brazo",
+      "perro",
+      "milla",
+      "de hoy"
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "cuál es el estado actual de las ------",
+    "choices": [
+      "mantener",
+      "suave",
+      "negociaciones del brexit",
+      "cruzar"
+    ],
+    "answer": 2,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "cuál es el ------",
+    "choices": [
+      "principal",
+      "saltar",
+      "siga",
+      "tipo de cambio del dólar estadounidense a la libra esterlina"
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "quién ganará las próximas ------ en españa",
+    "choices": [
+      "causa",
+      "elecciones",
+      "pitch",
+      "contar"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "esperas ------ el domingo",
+    "choices": [
+      "sol",
+      "oído",
+      "región",
+      "piel"
+    ],
+    "answer": 0,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "va a ------ esta noche",
+    "choices": [
+      "elemento",
+      "llover",
+      "hecho",
+      "reclamación"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "va a estar ------ mañana",
+    "choices": [
+      "nueve",
+      "charla",
+      "ventoso",
+      "unidad"
+    ],
+    "answer": 2,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "enciende las luces de la ------",
+    "choices": [
+      "acto",
+      "cocina",
+      "resolver",
+      "fuera"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "hue_lighton",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "ilumina la ------",
+    "choices": [
+      "lámpara al lado del sofá",
+      "comprado",
+      "proceso",
+      "sustantivo"
+    ],
+    "answer": 0,
+    "type": "sentence",
+    "intent": "hue_lightup",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "qué hora es en ------ ahora",
+    "choices": [
+      "madrid",
+      "haría",
+      "hecho",
+      "hace"
+    ],
+    "answer": 0,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "enciende la ------ de limpieza",
+    "choices": [
+      "esclavo",
+      "carácter",
+      "aspiradora",
+      "unidad"
+    ],
+    "answer": 2,
+    "type": "sentence",
+    "intent": "cleaning",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "aspirar la ------",
+    "choices": [
+      "cocina",
+      "también",
+      "básico",
+      "exacta"
+    ],
+    "answer": 0,
+    "type": "sentence",
+    "intent": "cleaning",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "enciende la ------",
+    "choices": [
+      "tratar",
+      "estado",
+      "aspiradora",
+      "pato"
+    ],
+    "answer": 2,
+    "type": "sentence",
+    "intent": "cleaning",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "que esta pasando en el ------",
+    "choices": [
+      "bastante",
+      "mundo",
+      "esposa",
+      "ahora"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "dime los titulares del ------ de hoy",
+    "choices": [
+      "periódico",
+      "suelo",
+      "herramienta",
+      "música"
+    ],
+    "answer": 0,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "pon una ------",
+    "choices": [
+      "playlist de nirvana",
+      "grado",
+      "noche",
+      "lugar"
+    ],
+    "answer": 0,
+    "type": "sentence",
+    "intent": "music",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "------ canciones de coldplay",
+    "choices": [
+      "esclavo",
+      "aleatorias",
+      "azul",
+      "orden"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "music",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "pon ------",
+    "choices": [
+      "corriente",
+      "chopin",
+      "fresco",
+      "por encima de"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "music",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "cuál es el pronóstico del tiempo para ------",
+    "choices": [
+      "dio",
+      "necesario",
+      "hoy",
+      "traje"
+    ],
+    "answer": 2,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "pedir una ------ al tele------",
+    "choices": [
+      "todo",
+      "ser",
+      "recta",
+      "pizza"
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "order",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "me gustaría tomar ------ me puedes pedir para la cena",
+    "choices": [
+      "diez",
+      "sushi",
+      "espacio",
+      "tercero"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "order",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "alexa me gustaría tomar ------ puedes pedírmelo para almorzar",
+    "choices": [
+      "aumentar",
+      "lado",
+      "sushi",
+      "materiales"
+    ],
+    "answer": 2,
+    "type": "sentence",
+    "intent": "order",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "pide un ------ y una sopa para llevar del restaurante italiano",
+    "choices": [
+      "tratar",
+      "sandwich",
+      "coche",
+      "discurso"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "order",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "cuántos días le quedan a ------",
+    "choices": [
+      "este año",
+      "especial",
+      "verdadero",
+      "opuesta"
+    ],
+    "answer": 0,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "en que día cae nochevieja ------",
+    "choices": [
+      "este año",
+      "nombre",
+      "inferior",
+      "seguro"
+    ],
+    "answer": 0,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "que día es la resurreción ------",
+    "choices": [
+      "preguntar",
+      "este año",
+      "hablar",
+      "último"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "incrementa el brillo ------",
+    "choices": [
+      "en veinte por ciento",
+      "donde",
+      "representar",
+      "comercio"
+    ],
+    "answer": 0,
+    "type": "sentence",
+    "intent": "hue_lightup",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "pon las luces ------",
+    "choices": [
+      "así",
+      "a maximo",
+      "alimentos",
+      "incluir"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "hue_lightup",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "por favor cállate por ------",
+    "choices": [
+      "temprana",
+      "otra hora",
+      "pliegue",
+      "por encima de"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "volume_mute",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "no hablar ------",
+    "choices": [
+      "hoy",
+      "haría",
+      "auto",
+      "o"
+    ],
+    "answer": 0,
+    "type": "sentence",
+    "intent": "volume_mute",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "va a ------ mañana",
+    "choices": [
+      "llover",
+      "minuto",
+      "vestido",
+      "si"
+    ],
+    "answer": 0,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "dime el tiempo de ------ dentro de dos días",
+    "choices": [
+      "pulgadas",
+      "fina",
+      "párrafo",
+      "barcelona"
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "debería coger un ------ mañana",
+    "choices": [
+      "claro",
+      "Cerrar",
+      "paraguas",
+      "ocho"
+    ],
+    "answer": 2,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "desactiva mi ------",
+    "choices": [
+      "tipo",
+      "consonante",
+      "común",
+      "okug"
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "wemo_off",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "activa mi ------",
+    "choices": [
+      "caliente",
+      "caliente",
+      "enchufe",
+      "desear"
+    ],
+    "answer": 2,
+    "type": "sentence",
+    "intent": "wemo_on",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "enciende el ------",
+    "choices": [
+      "estado",
+      "cargador inteligente",
+      "cualquier",
+      "cima"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "wemo_on",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "cuéntame las novedades en ------ de engadget",
+    "choices": [
+      "muy",
+      "decimal",
+      "decidir",
+      "tecnología"
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "------",
+    "choices": [
+      "sujeto",
+      "tarde",
+      "no",
+      "traer"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "------",
+    "choices": [
+      "domingo",
+      "justo",
+      "a su vez,",
+      "peces"
+    ],
+    "answer": 0,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "------",
+    "choices": [
+      "cortada",
+      "incluso",
+      "reloj",
+      "siete años"
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "music",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "cómo está el estado del tiempo en ------",
+    "choices": [
+      "morir",
+      "cubierta",
+      "guiar",
+      "madrid"
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "me gustaría saber el tiempo en ------",
+    "choices": [
+      "alcance",
+      "describir",
+      "demostrar",
+      "barcelona"
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "me gustaría saber el tiempo en ------",
+    "choices": [
+      "madrid",
+      "haría",
+      "papel",
+      "dama"
+    ],
+    "answer": 0,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "está ------ en barcelona",
+    "choices": [
+      "ser",
+      "imán",
+      "nevando",
+      "escribió"
+    ],
+    "answer": 2,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "ayude a un pobre necesitado ------ olly",
+    "choices": [
+      "aprender",
+      "hoy",
+      "calor",
+      "guiar"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "coffee",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "enciende la ------",
+    "choices": [
+      "pulgadas",
+      "cafetera",
+      "necesitará",
+      "puntuación"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "coffee",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "cómo estará el clima ------",
+    "choices": [
+      "ciudad",
+      "agujero",
+      "mañana",
+      "tamaño"
+    ],
+    "answer": 2,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "------ mañana",
+    "choices": [
+      "lloverá",
+      "muy",
+      "ser distinto",
+      "escala"
+    ],
+    "answer": 0,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "qué ------ hará mañana",
+    "choices": [
+      "temperatura",
+      "danza",
+      "sólo",
+      "hasta"
+    ],
+    "answer": 0,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "lo que es ------ las predicciones del tiempo",
+    "choices": [
+      "siglo",
+      "mañana",
+      "lluvia",
+      "si"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "cuáles son las predicciones meteorológicas ------",
+    "choices": [
+      "nota",
+      "maíz",
+      "inferior",
+      "para mañana"
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "va a ------ mañana",
+    "choices": [
+      "vestir",
+      "nadar",
+      "ya sea",
+      "llover"
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "va a ------ mañana",
+    "choices": [
+      "nevar",
+      "log",
+      "ella",
+      "fin"
+    ],
+    "answer": 0,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "encuentra si el ------ más cercano hace pedidos para llevar",
+    "choices": [
+      "tranquila",
+      "superficie",
+      "restaurante",
+      "comenzó"
+    ],
+    "answer": 2,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "mira si el ------ pone para llevar",
+    "choices": [
+      "contra",
+      "carne",
+      "fuego",
+      "restaurante"
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "hay menú ------ en el restaurante",
+    "choices": [
+      "para llevar",
+      "que",
+      "sobre",
+      "escrito"
+    ],
+    "answer": 0,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "que día de la semana es ------",
+    "choices": [
+      "moderno",
+      "patio",
+      "veintidos de marzo",
+      "acero"
+    ],
+    "answer": 2,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "------ que dia cae",
+    "choices": [
+      "aire",
+      "ventinueve de marzo",
+      "triángulo",
+      "inventar"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "que dia de la semana es ------",
+    "choices": [
+      "empresa",
+      "primero de abril",
+      "costa",
+      "amarillo"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "a qué hora sonará mi alarma ------",
+    "choices": [
+      "delgado",
+      "viento",
+      "igual",
+      "hoy"
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "reproduce la ------ de google play music",
+    "choices": [
+      "misma",
+      "a",
+      "pista ocho",
+      "fuego"
+    ],
+    "answer": 2,
+    "type": "sentence",
+    "intent": "music",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "pon la segunda canción de la cancion ------",
+    "choices": [
+      "de anirudh",
+      "izquierda",
+      "usted",
+      "grasa"
+    ],
+    "answer": 0,
+    "type": "sentence",
+    "intent": "music",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "es ------",
+    "choices": [
+      "corazón",
+      "enviado",
+      "tramo",
+      "hoy lunes"
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "cómo está el tiempo en ------",
+    "choices": [
+      "molécula",
+      "papá",
+      "madrid capital",
+      "momento"
+    ],
+    "answer": 2,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "hace ------ en mallorca ahora",
+    "choices": [
+      "cortada",
+      "arte",
+      "sol",
+      "acto"
+    ],
+    "answer": 2,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "por favor pon ------ de disturbed",
+    "choices": [
+      "especialmente",
+      "aire",
+      "games",
+      "tono"
+    ],
+    "answer": 2,
+    "type": "sentence",
+    "intent": "music",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "por favor abra mi aplicación de música y juegue ------ de disturbed",
+    "choices": [
+      "juegos",
+      "libre",
+      "aumentando",
+      "de cultivos"
+    ],
+    "answer": 0,
+    "type": "sentence",
+    "intent": "music",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "por favor pon los ------ de la canción por perturbado",
+    "choices": [
+      "incluir",
+      "longitud",
+      "juegos",
+      "bebé"
+    ],
+    "answer": 2,
+    "type": "sentence",
+    "intent": "music",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "apaga la luz del ------",
+    "choices": [
+      "naturales",
+      "perdido",
+      "cara",
+      "garage"
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "hue_lightoff",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "mira por noticias en vivo en ------",
+    "choices": [
+      "fresco",
+      "el mundo",
+      "higo",
+      "pobre"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "qué es sensacional en la ------",
+    "choices": [
+      "pasado",
+      "época de la india",
+      "también",
+      "muy"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "alguna noticia ------ en el país",
+    "choices": [
+      "sobre muertes",
+      "caliente",
+      "éstos",
+      "apoyo"
+    ],
+    "answer": 0,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "avíseme tan pronto como haya más noticias sobre el ------",
+    "choices": [
+      "que",
+      "nunca",
+      "brexit",
+      "vivir"
+    ],
+    "answer": 2,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "apaga el ------",
+    "choices": [
+      "alimentos",
+      "dio",
+      "enchufe inteligente",
+      "completo"
+    ],
+    "answer": 2,
+    "type": "sentence",
+    "intent": "wemo_off",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "enciende el ------",
+    "choices": [
+      "nariz",
+      "escrito",
+      "hacer",
+      "enchufe inteligente"
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "wemo_on",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "cambiar el ------ inteligente",
+    "choices": [
+      "recordar",
+      "higo",
+      "enchufe",
+      "melodía"
+    ],
+    "answer": 2,
+    "type": "sentence",
+    "intent": "wemo_on",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "pon una canción ------ en mi playlist",
+    "choices": [
+      "noche",
+      "en",
+      "retro",
+      "directa"
+    ],
+    "answer": 2,
+    "type": "sentence",
+    "intent": "music",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "si es ------ en madrid que hora es en california",
+    "choices": [
+      "sangre",
+      "esclavo",
+      "cerca",
+      "mediodia"
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "convert",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "cuál es la diferencia horaria entre la hora ------ y la hora del pacifico",
+    "choices": [
+      "del este",
+      "dama",
+      "comprobar",
+      "cobrar"
+    ],
+    "answer": 0,
+    "type": "sentence",
+    "intent": "convert",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "pon ------ por kirk franklin",
+    "choices": [
+      "prueba",
+      "clase",
+      "vida",
+      "por qué cantas"
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "music",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "pon cualquier canción de ------",
+    "choices": [
+      "hablar",
+      "rafael",
+      "siga",
+      "mes"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "music",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "va a hacer ------ mañana",
+    "choices": [
+      "pensar",
+      "círculo",
+      "calor",
+      "alcance"
+    ],
+    "answer": 2,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "puedes cambia los colores de luz claros de la ------",
+    "choices": [
+      "casa",
+      "dio",
+      "tranquila",
+      "lata"
+    ],
+    "answer": 0,
+    "type": "sentence",
+    "intent": "hue_lightchange",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "puedes ------ la luz de colores en la casa",
+    "choices": [
+      "mezclar",
+      "herramienta",
+      "lluvia",
+      "superficie"
+    ],
+    "answer": 0,
+    "type": "sentence",
+    "intent": "hue_lightchange",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "puedes cambiar los colores de la luz a ------ en la casa",
+    "choices": [
+      "hace",
+      "oscuro",
+      "profunda",
+      "sorpresa"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "hue_lightchange",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "me gustaria escuchar música ------ por favor",
+    "choices": [
+      "pop",
+      "mal",
+      "pequeño",
+      "comprobar"
+    ],
+    "answer": 0,
+    "type": "sentence",
+    "intent": "music",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "puedes poner música ------ durante la próxima hora",
+    "choices": [
+      "lavado",
+      "milla",
+      "rock",
+      "de espesor"
+    ],
+    "answer": 2,
+    "type": "sentence",
+    "intent": "music",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "dime una broma ------",
+    "choices": [
+      "espere",
+      "fracción",
+      "acero",
+      "graciosa"
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "joke",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "cambia las luces de mi cuarto a ------",
+    "choices": [
+      "volar",
+      "producto",
+      "clave",
+      "azul"
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "hue_lightchange",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "cambia las luces de mi habitación a un color algo más ------",
+    "choices": [
+      "romántico",
+      "en",
+      "padre",
+      "pista"
+    ],
+    "answer": 0,
+    "type": "sentence",
+    "intent": "hue_lightchange",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "cambia las luces de mi habitación para que yo pueda ------",
+    "choices": [
+      "solución",
+      "paso",
+      "sabía",
+      "dormir bien"
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "hue_lightchange",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "poner una alarma para mi a las ------",
+    "choices": [
+      "ocho de la mañana",
+      "famoso",
+      "rojo",
+      "morir"
+    ],
+    "answer": 0,
+    "type": "sentence",
+    "intent": "set",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "pon alarma a las ------",
+    "choices": [
+      "permitir",
+      "pato",
+      "cuatro de la tarde",
+      "leer"
+    ],
+    "answer": 2,
+    "type": "sentence",
+    "intent": "set",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "poner una alarma despertador a las ------",
+    "choices": [
+      "nube",
+      "ocho cuarenta y cinco de la mañana",
+      "multitud",
+      "tubo"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "set",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "cuáles son las noticias de ------",
+    "choices": [
+      "vicky cristina barcelona",
+      "los",
+      "describir",
+      "pistola"
+    ],
+    "answer": 0,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "enciende el ------",
+    "choices": [
+      "agujero",
+      "enchufe uno",
+      "largo",
+      "sufijo"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "wemo_on",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "apaga las luces en mi ------",
+    "choices": [
+      "medir",
+      "huevo",
+      "celular",
+      "baño"
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "hue_lightoff",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "apaga las luces del ------",
+    "choices": [
+      "movimiento",
+      "baño",
+      "abajo",
+      "sentarse"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "hue_lightoff",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "luces apagadas en el ------",
+    "choices": [
+      "carne",
+      "risa",
+      "nuevo",
+      "baño"
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "hue_lightoff",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "qué tiempo hará el ------",
+    "choices": [
+      "madre",
+      "viernes",
+      "Cerrar",
+      "tratar"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "cuánto ------ hace fuera ahora mismo",
+    "choices": [
+      "calor",
+      "lugar",
+      "si",
+      "signo"
+    ],
+    "answer": 0,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "que día es ------",
+    "choices": [
+      "la",
+      "gusta",
+      "hoy",
+      "hielo"
+    ],
+    "answer": 2,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "que día del ------ será el próximo martes",
+    "choices": [
+      "mes",
+      "partido",
+      "sola",
+      "cielo"
+    ],
+    "answer": 0,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "jugar carpeta de ------",
+    "choices": [
+      "hecho",
+      "mala religión",
+      "se reúnen",
+      "bebida"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "music",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "abrir el archivo ------",
+    "choices": [
+      "comparar",
+      "bad religion",
+      "belleza",
+      "gato"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "music",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "va a ------ hoy",
+    "choices": [
+      "invierno",
+      "dejar",
+      "llover",
+      "superficie"
+    ],
+    "answer": 2,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "debo ponerme una ------ hoy",
+    "choices": [
+      "llano",
+      "chaqueta",
+      "si",
+      "boca"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "------",
+    "choices": [
+      "pitch",
+      "edad",
+      "deshabilitar la reproducción aleatoria",
+      "comercio"
+    ],
+    "answer": 2,
+    "type": "sentence",
+    "intent": "settings",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "------ álbum",
+    "choices": [
+      "caliente",
+      "tocar",
+      "campo",
+      "repite"
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "settings",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "pon ------",
+    "choices": [
+      "metallica",
+      "columna",
+      "bebé",
+      "costa"
+    ],
+    "answer": 0,
+    "type": "sentence",
+    "intent": "music",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "pon ------ a la antigua",
+    "choices": [
+      "servir",
+      "objeto",
+      "caliente",
+      "música navideña"
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "music",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "inicia ------",
+    "choices": [
+      "máquina de café",
+      "amarillo",
+      "sierra",
+      "canción"
+    ],
+    "answer": 0,
+    "type": "sentence",
+    "intent": "coffee",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "ponme lo último sobre el ------",
+    "choices": [
+      "precio de las acciones de mercadona",
+      "viejo",
+      "bordo",
+      "sistema"
+    ],
+    "answer": 0,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "quien lidera actualmente las ------",
+    "choices": [
+      "elecciones parlamentarias",
+      "básico",
+      "mi",
+      "desde"
+    ],
+    "answer": 0,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "qué día ------",
+    "choices": [
+      "pintar",
+      "línea",
+      "ruido",
+      "es hoy"
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "cambia las luces de la ------ a azul",
+    "choices": [
+      "lavado",
+      "donde",
+      "cocina",
+      "órgano"
+    ],
+    "answer": 2,
+    "type": "sentence",
+    "intent": "hue_lightchange",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "fija las luces en el ------ a rojo",
+    "choices": [
+      "sol",
+      "colores",
+      "salon",
+      "fila"
+    ],
+    "answer": 2,
+    "type": "sentence",
+    "intent": "hue_lightchange",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "cambia las luces de la ------ a verde",
+    "choices": [
+      "hecho",
+      "dicho",
+      "habitación",
+      "conectar"
+    ],
+    "answer": 2,
+    "type": "sentence",
+    "intent": "hue_lightchange",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "quiero escuchar música ------",
+    "choices": [
+      "región",
+      "clásica",
+      "casa",
+      "gobernar"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "music",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "quiero escuchar ------",
+    "choices": [
+      "sentido",
+      "jazz",
+      "rey",
+      "momento"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "music",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "haz que la luz de mi ------ sea más brillante",
+    "choices": [
+      "alcance",
+      "mantenga",
+      "habitación",
+      "casa"
+    ],
+    "answer": 2,
+    "type": "sentence",
+    "intent": "hue_lightup",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "apaga la ------",
+    "choices": [
+      "lámpara",
+      "caer",
+      "luna",
+      "demasiado"
+    ],
+    "answer": 0,
+    "type": "sentence",
+    "intent": "hue_lightoff",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "pon canciones de ------",
+    "choices": [
+      "pistola",
+      "en espera",
+      "vestido",
+      "sia"
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "music",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "pon ------",
+    "choices": [
+      "desarrollar",
+      "extraño",
+      "weekend",
+      "recordar"
+    ],
+    "answer": 2,
+    "type": "sentence",
+    "intent": "music",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "abre canciones de ------",
+    "choices": [
+      "prince",
+      "buscar",
+      "experiencia",
+      "determinar"
+    ],
+    "answer": 0,
+    "type": "sentence",
+    "intent": "music",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "encuentra noticias sobre ------",
+    "choices": [
+      "brexit",
+      "uno",
+      "aumentando",
+      "número"
+    ],
+    "answer": 0,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "abre la noticias sobre ------",
+    "choices": [
+      "valor",
+      "brecha",
+      "él",
+      "repsol"
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "encuéntrame noticias sobre el ------",
+    "choices": [
+      "servir",
+      "experimento",
+      "un",
+      "discurso de trump"
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "qué hora es en ------",
+    "choices": [
+      "arena",
+      "otras zonas horarias",
+      "así",
+      "auto"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "cuál es la zona horaria en ------",
+    "choices": [
+      "mientras",
+      "posible",
+      "este",
+      "madrid"
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "que hora es en ------",
+    "choices": [
+      "madrid capital",
+      "por tanto,",
+      "incluir",
+      "mercado"
+    ],
+    "answer": 0,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "cuál es la hora en ------ ahora mismo",
+    "choices": [
+      "sobre",
+      "verde",
+      "ir",
+      "españa"
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "qué hora es ahora mismo en ------",
+    "choices": [
+      "estudio",
+      "sólo",
+      "estado",
+      "australia"
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "qué ------ hace fuera",
+    "choices": [
+      "gusta",
+      "todavía",
+      "temperatura",
+      "recta"
+    ],
+    "answer": 2,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "hace ------ fuera",
+    "choices": [
+      "frío",
+      "calor",
+      "repentina",
+      "pienso"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "hace ------ fuera",
+    "choices": [
+      "risa",
+      "frío",
+      "un",
+      "diversión"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "qué es una broma ------ sabes",
+    "choices": [
+      "gusta",
+      "miedo",
+      "tonta",
+      "médico"
+    ],
+    "answer": 2,
+    "type": "sentence",
+    "intent": "joke",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "que es una broma ------ sabes",
+    "choices": [
+      "ruido",
+      "casa",
+      "calor",
+      "tonta"
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "joke",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "que es un ------ chiste",
+    "choices": [
+      "diversión",
+      "rica",
+      "mejor",
+      "buen"
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "joke",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "cambia el color de la luz a ------",
+    "choices": [
+      "azul",
+      "nariz",
+      "temprana",
+      "moderno"
+    ],
+    "answer": 0,
+    "type": "sentence",
+    "intent": "hue_lightchange",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "confirmar si el color es ------",
+    "choices": [
+      "cólera",
+      "directa",
+      "similar",
+      "azul"
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "hue_lightchange",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "cambia el color de la luz a ------",
+    "choices": [
+      "mantenga",
+      "traje",
+      "nivel",
+      "rojo"
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "hue_lightchange",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "qué hora es en ------",
+    "choices": [
+      "madrid",
+      "fuera",
+      "noche",
+      "partido"
+    ],
+    "answer": 0,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "qué hora es en ------",
+    "choices": [
+      "dicho",
+      "bilbao",
+      "detrás",
+      "hecho"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "silencia en la ------ por favor",
+    "choices": [
+      "próxima hora",
+      "líquido",
+      "árbol",
+      "detrás"
+    ],
+    "answer": 0,
+    "type": "sentence",
+    "intent": "volume_mute",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "cuéntame un chiste ------",
+    "choices": [
+      "al azar",
+      "aumentando",
+      "montaña",
+      "capturado"
+    ],
+    "answer": 0,
+    "type": "sentence",
+    "intent": "joke",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "cuáles son las noticias actuales del ------",
+    "choices": [
+      "rey",
+      "pulgadas",
+      "lenta",
+      "mundo"
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "por favor cuéntame algunas noticias ------",
+    "choices": [
+      "internacionales",
+      "huevo",
+      "caliente",
+      "ejercicio"
+    ],
+    "answer": 0,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "poner una alarma a las ------",
+    "choices": [
+      "escala",
+      "cuerda",
+      "nueve de la mañana",
+      "abrigo"
+    ],
+    "answer": 2,
+    "type": "sentence",
+    "intent": "set",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "pon una alarma despertador a las ------",
+    "choices": [
+      "conducir",
+      "buena",
+      "fina",
+      "diez de la mañana"
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "set",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "necesito ------ alarma recordatorio a la ------",
+    "choices": [
+      "sentido",
+      "lanzar",
+      "longitud",
+      "una"
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "set",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "poner una alarma a las ------",
+    "choices": [
+      "tres de la tarde",
+      "ejecutar",
+      "Radio",
+      "presente"
+    ],
+    "answer": 0,
+    "type": "sentence",
+    "intent": "set",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "pon una alarma a las ------",
+    "choices": [
+      "nueve de la mañana",
+      "fin",
+      "enseñar",
+      "cuando"
+    ],
+    "answer": 0,
+    "type": "sentence",
+    "intent": "set",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "pon una alarma a la ------",
+    "choices": [
+      "una de la tarde",
+      "pensar",
+      "rama",
+      "completo"
+    ],
+    "answer": 0,
+    "type": "sentence",
+    "intent": "set",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "busca el nombre del álbum con ------",
+    "choices": [
+      "nuestro",
+      "suceder",
+      "katy perry",
+      "completo"
+    ],
+    "answer": 2,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "reproducir la canción cantada por ------",
+    "choices": [
+      "parte",
+      "donde",
+      "dependerá",
+      "rosalía"
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "music",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "reproduce la canción ------",
+    "choices": [
+      "comprobar",
+      "mar",
+      "misma",
+      "inmediatamente"
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "music",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "cuál es la broma ------",
+    "choices": [
+      "discutir",
+      "más divertida",
+      "resto",
+      "carácter"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "joke",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "cuentame un chiste ------",
+    "choices": [
+      "verde",
+      "llevado",
+      "gas",
+      "unidad"
+    ],
+    "answer": 0,
+    "type": "sentence",
+    "intent": "joke",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "por favor suba el volumen de la música ------",
+    "choices": [
+      "día",
+      "más",
+      "hips don't lie",
+      "lanzar"
+    ],
+    "answer": 2,
+    "type": "sentence",
+    "intent": "volume_up",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "por favor ------ la frecuencia aleatoria de siempre",
+    "choices": [
+      "plaza",
+      "baja",
+      "esquina",
+      "celular"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "settings",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "por favor ------ de nuevo esa música de ozuna",
+    "choices": [
+      "verano",
+      "variar",
+      "incluso",
+      "repite"
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "settings",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "apaga las luces de la ------",
+    "choices": [
+      "regla",
+      "hecho",
+      "sala",
+      "seguro"
+    ],
+    "answer": 2,
+    "type": "sentence",
+    "intent": "hue_lightoff",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "por favor apague las luces en la ------",
+    "choices": [
+      "sala de estar",
+      "cama",
+      "mina",
+      "detrás"
+    ],
+    "answer": 0,
+    "type": "sentence",
+    "intent": "hue_lightoff",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "jugar ------ cualquier cosa",
+    "choices": [
+      "deslizamiento",
+      "posible",
+      "hombre",
+      "mf doom"
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "music",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "puedo tener alguna de música ------",
+    "choices": [
+      "jardín",
+      "columna",
+      "de fondo",
+      "belleza"
+    ],
+    "answer": 2,
+    "type": "sentence",
+    "intent": "music",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "tengo yo alguna alarma puesta para ------",
+    "choices": [
+      "maíz",
+      "minuto",
+      "este",
+      "mañana"
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "cuál es la situación de la alarma para ------",
+    "choices": [
+      "nuestro",
+      "mañana",
+      "tocar",
+      "charla"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "apaga la alarma a las ------",
+    "choices": [
+      "ocho de la mañana",
+      "cierto",
+      "verbo",
+      "punto"
+    ],
+    "answer": 0,
+    "type": "sentence",
+    "intent": "remove",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "cancelar mi alarma de las ------",
+    "choices": [
+      "este",
+      "humana",
+      "ocho de la mañana",
+      "demás"
+    ],
+    "answer": 2,
+    "type": "sentence",
+    "intent": "remove",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "deshacerse de mi alarma de las ------",
+    "choices": [
+      "ocho a. m.",
+      "era",
+      "semana",
+      "siempre"
+    ],
+    "answer": 0,
+    "type": "sentence",
+    "intent": "remove",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "qué ------ hay",
+    "choices": [
+      "vaca",
+      "temperatura",
+      "nación",
+      "caer"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "cuánto ------ hace",
+    "choices": [
+      "cinco",
+      "calor",
+      "sólo",
+      "cuya"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "qué ------ hace",
+    "choices": [
+      "por",
+      "frío",
+      "necesitará",
+      "su"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "cuántos ------ hay el veintitres",
+    "choices": [
+      "cumpleaños",
+      "personas",
+      "responder",
+      "escrito"
+    ],
+    "answer": 0,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "es ------ el doce",
+    "choices": [
+      "amplio",
+      "el segundo sabado",
+      "organizar",
+      "enseñar"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "hay ------ el veintidos",
+    "choices": [
+      "navidad",
+      "eran",
+      "monte",
+      "espacio"
+    ],
+    "answer": 0,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "------ la misma canción diez veces",
+    "choices": [
+      "blanco",
+      "llevar",
+      "preguntar",
+      "repetir"
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "settings",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "reproduce las ------ de pies descalzos de shakira",
+    "choices": [
+      "vestido",
+      "continuar",
+      "canciones",
+      "pájaro"
+    ],
+    "answer": 2,
+    "type": "sentence",
+    "intent": "settings",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "reproducir ------ en la lista",
+    "choices": [
+      "ley",
+      "decir",
+      "corazón partido",
+      "añadir"
+    ],
+    "answer": 2,
+    "type": "sentence",
+    "intent": "music",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "apaga una luz del ------",
+    "choices": [
+      "cuya",
+      "hizo",
+      "porche",
+      "perro"
+    ],
+    "answer": 2,
+    "type": "sentence",
+    "intent": "hue_lightoff",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "apaga la ------",
+    "choices": [
+      "lavado",
+      "entonces",
+      "lampara",
+      "en espera"
+    ],
+    "answer": 2,
+    "type": "sentence",
+    "intent": "hue_lightoff",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "va a estar ------ mañana",
+    "choices": [
+      "historia",
+      "prisa",
+      "lloviendo",
+      "abajo"
+    ],
+    "answer": 2,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "se pondrá el sol a las ------ mañana",
+    "choices": [
+      "calor",
+      "horas",
+      "cinco y media de la tarde",
+      "producirse"
+    ],
+    "answer": 2,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "hay alguna probabilidad de ------ esta semana",
+    "choices": [
+      "escribió",
+      "lluvia",
+      "hecho",
+      "tramo"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "que es ------",
+    "choices": [
+      "negro",
+      "ejercicio",
+      "tendencia",
+      "llegar"
+    ],
+    "answer": 2,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "qué novedades hay para ------",
+    "choices": [
+      "estación",
+      "línea",
+      "hoy",
+      "sobre"
+    ],
+    "answer": 2,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "que hora es en la zona horaria ------",
+    "choices": [
+      "superficie",
+      "del este",
+      "rosa",
+      "tiempo"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "qué ------ hace ahora",
+    "choices": [
+      "calor",
+      "ser",
+      "mes",
+      "tomó"
+    ],
+    "answer": 0,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "puedo escuchar ------ que puedes escuchar en las radios ahora",
+    "choices": [
+      "en",
+      "puerta",
+      "difícil",
+      "los cincuenta éxitos"
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "music",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "por favor pon música ------ para la cena ahora",
+    "choices": [
+      "separada",
+      "reclamación",
+      "mujeres",
+      "clásica"
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "music",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "puedes cambiar la ------ de lady gaga",
+    "choices": [
+      "oportunidad",
+      "amigo",
+      "mejor canción",
+      "exigir"
+    ],
+    "answer": 2,
+    "type": "sentence",
+    "intent": "music",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "quiero escuchar mi canción favorita de ------",
+    "choices": [
+      "inventar",
+      "iron maiden",
+      "pies",
+      "gato"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "music",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "cambiar la alarma para que comience a la ------",
+    "choices": [
+      "medianoche",
+      "máquina",
+      "estado",
+      "suceder"
+    ],
+    "answer": 0,
+    "type": "sentence",
+    "intent": "set",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "qué tiempo hará ------",
+    "choices": [
+      "aliviar",
+      "siga",
+      "fresco",
+      "dentro de una semana"
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "cómo se supone que estará el tiempo el ------",
+    "choices": [
+      "satélite",
+      "entrar",
+      "martes",
+      "que"
+    ],
+    "answer": 2,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "cuál es el pronóstico del tiempo para el ------",
+    "choices": [
+      "voz",
+      "su",
+      "fin de semana",
+      "alimentos"
+    ],
+    "answer": 2,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "silencia por ------",
+    "choices": [
+      "mes",
+      "libre",
+      "veinte minutos",
+      "mujeres"
+    ],
+    "answer": 2,
+    "type": "sentence",
+    "intent": "volume_mute",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "quiero levantarme ------ a las seis de la ------ por favor",
+    "choices": [
+      "mañana",
+      "tenido",
+      "alimentos",
+      "o"
+    ],
+    "answer": 0,
+    "type": "sentence",
+    "intent": "set",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "por favor pon la alarma para la ------ a las siete de la mañana",
+    "choices": [
+      "ola",
+      "lago",
+      "repentina",
+      "siguiente mañana"
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "set",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "por favor borra la alarma ------ a las ocho de la mañana el próximo sábado",
+    "choices": [
+      "encontrar",
+      "despertador",
+      "sur",
+      "paso"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "set",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "pon la playlist ------",
+    "choices": [
+      "comenzó",
+      "número siete",
+      "vista",
+      "jugar"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "music",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "qué día de la semana es ------",
+    "choices": [
+      "familia",
+      "acción de gracias",
+      "mujer",
+      "paseo"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "cuál es el último día del ------",
+    "choices": [
+      "més",
+      "tenido",
+      "palabra",
+      "significará"
+    ],
+    "answer": 0,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "cual es la hora en horario ------",
+    "choices": [
+      "deslizamiento",
+      "del centro",
+      "diseño",
+      "niños"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "que hora es actualmente en ------",
+    "choices": [
+      "igual",
+      "granada",
+      "campamento",
+      "contra"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "cuál es la última controversia sobre ------",
+    "choices": [
+      "ella",
+      "pablo iglesias",
+      "tener",
+      "dólar"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "cuál es la última discusión sobre ------",
+    "choices": [
+      "prensa",
+      "mariano rajoy",
+      "sentar",
+      "ascenso"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "por favor pon la canción de ------",
+    "choices": [
+      "guardar",
+      "adivinar",
+      "alaska",
+      "alambre"
+    ],
+    "answer": 2,
+    "type": "sentence",
+    "intent": "music",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "por favor déjame escuchar ------",
+    "choices": [
+      "habitual",
+      "mediodía",
+      "así",
+      "seiscientos sesenta y seis el número de la bestia"
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "music",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "pon la última canción de éxito del último álbum de ------ por favor",
+    "choices": [
+      "resto",
+      "metallica",
+      "pieza",
+      "mil"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "music",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "avísame cuando haya noticias sobre el ------",
+    "choices": [
+      "gasoducto de perú",
+      "como",
+      "lenta",
+      "música"
+    ],
+    "answer": 0,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "establecer notificaciones para las noticias sobre el ------",
+    "choices": [
+      "básico",
+      "partido",
+      "hecho",
+      "gasoducto sur peruano"
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "avísame cuando haya noticias sobre el ------",
+    "choices": [
+      "niño",
+      "independentismo en cataluña",
+      "sustantivo",
+      "hacer"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "inicia ------",
+    "choices": [
+      "justo",
+      "inventar",
+      "aspiradora",
+      "árbol"
+    ],
+    "answer": 2,
+    "type": "sentence",
+    "intent": "cleaning",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "por favor encienda la ------",
+    "choices": [
+      "escuchar",
+      "cuerda",
+      "aspiradora",
+      "corriente"
+    ],
+    "answer": 2,
+    "type": "sentence",
+    "intent": "cleaning",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "que es lo ------ en un chiste sobre coche",
+    "choices": [
+      "pequeño",
+      "gracioso",
+      "noche",
+      "siglo"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "joke",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "cuéntame un chiste sobre un ------",
+    "choices": [
+      "hombre",
+      "mal",
+      "correcta",
+      "reclamación"
+    ],
+    "answer": 0,
+    "type": "sentence",
+    "intent": "joke",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "puedes buscar chistes de ------ para mí",
+    "choices": [
+      "reales",
+      "carne",
+      "animales",
+      "continuar"
+    ],
+    "answer": 2,
+    "type": "sentence",
+    "intent": "joke",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "recuérdame jugar con esta canción ------",
+    "choices": [
+      "diez",
+      "lluvia",
+      "fresco",
+      "esta noche"
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "music",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "ponme una canción de ------",
+    "choices": [
+      "indicar",
+      "medio",
+      "adele",
+      "actual"
+    ],
+    "answer": 2,
+    "type": "sentence",
+    "intent": "music",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "necesito que enciendas la ------",
+    "choices": [
+      "suave",
+      "aspiradora",
+      "de espesor",
+      "contener"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "cleaning",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "cuál será la ------ esta semana",
+    "choices": [
+      "exigir",
+      "sólo",
+      "cociente",
+      "temperatura más alta"
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "sube ------ la luz",
+    "choices": [
+      "un poco",
+      "fuerte",
+      "posición",
+      "golpe"
+    ],
+    "answer": 0,
+    "type": "sentence",
+    "intent": "hue_lightup",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "incrementa la luz ------",
+    "choices": [
+      "movimiento",
+      "acuerdo",
+      "comprado",
+      "un poco"
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "hue_lightup",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "tengo alguna alarma puesta para ------",
+    "choices": [
+      "hasta",
+      "mente",
+      "río",
+      "hoy"
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "apaga las luces del ------",
+    "choices": [
+      "fuerza",
+      "aquí",
+      "cuarto",
+      "ella"
+    ],
+    "answer": 2,
+    "type": "sentence",
+    "intent": "hue_lightoff",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "control de luces apaga las luces de la ------",
+    "choices": [
+      "habitación",
+      "contar",
+      "lavado",
+      "piedra"
+    ],
+    "answer": 0,
+    "type": "sentence",
+    "intent": "hue_lightoff",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "puedes ubicar algo de música ------",
+    "choices": [
+      "vestir",
+      "fina",
+      "copia",
+      "flamenca"
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "music",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "quiero escuchar algo de música ------",
+    "choices": [
+      "invierno",
+      "religiosa",
+      "padre",
+      "grasa"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "music",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "cómo es el tiempo actual en ------",
+    "choices": [
+      "nuestro",
+      "apoyo",
+      "california",
+      "observar"
+    ],
+    "answer": 2,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "como está el tiempo ahora en ------",
+    "choices": [
+      "diseño",
+      "guiar",
+      "persona",
+      "mallorca"
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "que hora es ahora en ------",
+    "choices": [
+      "dicho",
+      "deletrear",
+      "andalucía",
+      "camino"
+    ],
+    "answer": 2,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "hora en ------ ahora",
+    "choices": [
+      "madrid",
+      "repentina",
+      "creció",
+      "par"
+    ],
+    "answer": 0,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "que hora es en ------",
+    "choices": [
+      "estudio",
+      "japón",
+      "siglo",
+      "boca"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "por favor puedo saber que horas serán a las ------ aqui en australia",
+    "choices": [
+      "bordo",
+      "seis de la tarde",
+      "esperar",
+      "vivir"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "convert",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "puedes decirme cuántas horas de diferencia hay entre ------ y valencia",
+    "choices": [
+      "tranquila",
+      "este",
+      "sevilla",
+      "nombre"
+    ],
+    "answer": 2,
+    "type": "sentence",
+    "intent": "convert",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "quiero dos ------ y una coca-cola pídelo rápido",
+    "choices": [
+      "hamburguesas",
+      "clase",
+      "estrella",
+      "fina"
+    ],
+    "answer": 0,
+    "type": "sentence",
+    "intent": "order",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "pide dos ------ para mi",
+    "choices": [
+      "ganar",
+      "hamburguesas",
+      "dicho",
+      "registro"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "order",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "pedir una ------",
+    "choices": [
+      "leche",
+      "viaje",
+      "pizza",
+      "brazo"
+    ],
+    "answer": 2,
+    "type": "sentence",
+    "intent": "order",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "por favor apaga el ------ de mi movil cuando esté cargado",
+    "choices": [
+      "esclavo",
+      "danza",
+      "dama",
+      "enchufe"
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "wemo_off",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "enciende la ------ enchufe cuando llego a casa",
+    "choices": [
+      "oscuro",
+      "difícil",
+      "t. v.",
+      "hecho"
+    ],
+    "answer": 2,
+    "type": "sentence",
+    "intent": "wemo_on",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "quiero que apagues el ------ antes de que el móvil se cargue",
+    "choices": [
+      "temprana",
+      "como",
+      "enchufe",
+      "dibujar"
+    ],
+    "answer": 2,
+    "type": "sentence",
+    "intent": "wemo_off",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "mantenme informado sobre el ------ por favor",
+    "choices": [
+      "seco",
+      "precio del bitcoin",
+      "tramo",
+      "temperatura"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "mantenerme informado sobre los ------",
+    "choices": [
+      "norte",
+      "precios del mercado de valores",
+      "tocar",
+      "palabra"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "stock",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "sigue las noticias sobre la ------ en el futuro",
+    "choices": [
+      "escuela",
+      "bastante",
+      "controversia de papeles de bárcenas",
+      "nadar"
+    ],
+    "answer": 2,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "puedes poner mi ------",
+    "choices": [
+      "máquina",
+      "para",
+      "última canción",
+      "manzana"
+    ],
+    "answer": 2,
+    "type": "sentence",
+    "intent": "music",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "pon la canción de ------",
+    "choices": [
+      "estopa",
+      "habló",
+      "antes",
+      "si"
+    ],
+    "answer": 0,
+    "type": "sentence",
+    "intent": "music",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "toca la ------ de anoche a las seis p. m.",
+    "choices": [
+      "por favor",
+      "espacio",
+      "canción",
+      "brecha"
+    ],
+    "answer": 2,
+    "type": "sentence",
+    "intent": "music",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "qué hora es en ------ ahora",
+    "choices": [
+      "ellos",
+      "madrid",
+      "cada",
+      "cuota"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "dime que hora es en ------",
+    "choices": [
+      "justo",
+      "coche",
+      "lo",
+      "barcelona"
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "dime la hora de ------ ahora mismo",
+    "choices": [
+      "libre",
+      "pista",
+      "madrid",
+      "para"
+    ],
+    "answer": 2,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "acabo de pedir comida llame y vea que ha sido ------",
+    "choices": [
+      "región",
+      "entregado",
+      "base de",
+      "resolver"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "mira el ------ de mi pedido",
+    "choices": [
+      "envío",
+      "nieve",
+      "hierro",
+      "cada"
+    ],
+    "answer": 0,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "llama al ------ para ver si el envío está de camino",
+    "choices": [
+      "sangre",
+      "mal",
+      "si",
+      "restaurante"
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "por favor ilumina la ------",
+    "choices": [
+      "habitación",
+      "amar",
+      "pierna",
+      "sabía"
+    ],
+    "answer": 0,
+    "type": "sentence",
+    "intent": "hue_lightup",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "que está pasando en el ------",
+    "choices": [
+      "consejo",
+      "rosa",
+      "hasta",
+      "milla"
+    ],
+    "answer": 0,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "dime algo ------",
+    "choices": [
+      "recoger",
+      "gracioso",
+      "primavera",
+      "claro"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "joke",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "quiero escuchcar ------ por favor",
+    "choices": [
+      "de metal",
+      "risa",
+      "cadena ser",
+      "mucho"
+    ],
+    "answer": 2,
+    "type": "sentence",
+    "intent": "music",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "quiero escuchar ------ ahora",
+    "choices": [
+      "recoger",
+      "madera",
+      "caer",
+      "bruno mars"
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "music",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "quién está liderando la carrera de ------ ahora mismo",
+    "choices": [
+      "formula uno",
+      "medir",
+      "marca",
+      "oferta"
+    ],
+    "answer": 0,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "consígueme las actualizaciones de las ------",
+    "choices": [
+      "llamada",
+      "encuestas electorales",
+      "traje",
+      "motor"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "lee los titulares de ------",
+    "choices": [
+      "la voz de madrid",
+      "incluir",
+      "período",
+      "contra"
+    ],
+    "answer": 0,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "quiero escuchar las ultimas noticias de ------",
+    "choices": [
+      "propagación",
+      "amigo",
+      "c. n. n",
+      "soportar"
+    ],
+    "answer": 2,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "puedes mostrarme las noticias de última hora de ------",
+    "choices": [
+      "triángulo",
+      "madera",
+      "el país",
+      "probable"
+    ],
+    "answer": 2,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "quiero saber las noticias de ------",
+    "choices": [
+      "incluso",
+      "guerra",
+      "hace",
+      "el mundo"
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "por favor léeme alguna de las últimas noticias de ------",
+    "choices": [
+      "olor",
+      "la voz de madrid",
+      "semilla",
+      "comercio"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "puedo conocer las últimas noticias de ------",
+    "choices": [
+      "los",
+      "marca",
+      "c. n. n",
+      "corto"
+    ],
+    "answer": 2,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "crear una alarma ------ a las cuatro en punto de la ------",
+    "choices": [
+      "frío",
+      "mañana",
+      "contra",
+      "resolver"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "set",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "poner una alarma para levantarme ------",
+    "choices": [
+      "período",
+      "uno",
+      "en cinco horas",
+      "medio"
+    ],
+    "answer": 2,
+    "type": "sentence",
+    "intent": "set",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "programar una alarma para despertarme ------",
+    "choices": [
+      "mucho",
+      "dentro de tres horas",
+      "olor",
+      "ventana"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "set",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "dime las estadísticas del tiempo para esta ------",
+    "choices": [
+      "su",
+      "adecuada",
+      "marrón",
+      "semana"
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "muestra el tiempo para la ------",
+    "choices": [
+      "paseo",
+      "correcta",
+      "semana",
+      "imaginar"
+    ],
+    "answer": 2,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "resuma los detalles meteorológicos ------",
+    "choices": [
+      "significado",
+      "consonante",
+      "vida",
+      "de la semana"
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "quiero escuchar las canciones de ------",
+    "choices": [
+      "rosalía",
+      "equipo",
+      "banda",
+      "abrigo"
+    ],
+    "answer": 0,
+    "type": "sentence",
+    "intent": "music",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "pon la canción de ------ después de esta",
+    "choices": [
+      "cuidado",
+      "verano",
+      "me",
+      "enrique iglesias"
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "music",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "pon las últimas canciones de ------ después de esta",
+    "choices": [
+      "selena gomez",
+      "matar",
+      "hueso",
+      "horas"
+    ],
+    "answer": 0,
+    "type": "sentence",
+    "intent": "music",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "cuánto ------ hace hoy fuera",
+    "choices": [
+      "permitir",
+      "pelo",
+      "frío",
+      "sonar"
+    ],
+    "answer": 2,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "cuál es la ------ de hoy",
+    "choices": [
+      "carretera",
+      "temperatura",
+      "monte",
+      "energía"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "cómo de ------ está el ambiente hoy",
+    "choices": [
+      "higo",
+      "temporada",
+      "húmedo",
+      "fila"
+    ],
+    "answer": 2,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "tocar canciones del género ------ y soul",
+    "choices": [
+      "tres",
+      "todavía",
+      "r y b",
+      "alto"
+    ],
+    "answer": 2,
+    "type": "sentence",
+    "intent": "music",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "pon todas las últimas canciones ------",
+    "choices": [
+      "hecho",
+      "pop",
+      "pájaro",
+      "neumáticos"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "music",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "reproducir la ------ a continuación",
+    "choices": [
+      "ya sea",
+      "país",
+      "era",
+      "lista de reproducción feliz"
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "music",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "que es ------",
+    "choices": [
+      "moderno",
+      "eléctrica",
+      "popular",
+      "batir"
+    ],
+    "answer": 2,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "toca la canción de mi ------ de trance",
+    "choices": [
+      "vaca",
+      "éxito",
+      "ciudad",
+      "lista"
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "music",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "baja el volumen ------",
+    "choices": [
+      "a diez por ciento",
+      "comprobar",
+      "durante",
+      "vaca"
+    ],
+    "answer": 0,
+    "type": "sentence",
+    "intent": "volume_down",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "cambiar esta zona horaria a ------",
+    "choices": [
+      "mejor",
+      "madrid",
+      "agujero",
+      "historia"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "convert",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "cambia la hora a ------ a madrid",
+    "choices": [
+      "más",
+      "dama",
+      "un",
+      "esta ubicación"
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "convert",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "puedes apagar el ------",
+    "choices": [
+      "comercio",
+      "grande",
+      "fuerte",
+      "enchufe wemo"
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "wemo_off",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "enciende el ------ para conectar mi cargador",
+    "choices": [
+      "viaje",
+      "Produce",
+      "enchufe wemo",
+      "suelo"
+    ],
+    "answer": 2,
+    "type": "sentence",
+    "intent": "wemo_on",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "encender el ------ para conectar mi dongle",
+    "choices": [
+      "tramo",
+      "algunos",
+      "enchufe wemo",
+      "mezclar"
+    ],
+    "answer": 2,
+    "type": "sentence",
+    "intent": "wemo_on",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "como estará el tiempo ------",
+    "choices": [
+      "cinco",
+      "esta semana",
+      "olor",
+      "huevo"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "cómo se supone que está el tiempo ------",
+    "choices": [
+      "esta semana",
+      "es",
+      "hoja",
+      "cadena"
+    ],
+    "answer": 0,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "cuál es el pronóstico del tiempo para ------",
+    "choices": [
+      "abajo",
+      "esta semana",
+      "granja",
+      "rollo"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "podría darme titulares de noticias actualizados de mi ------",
+    "choices": [
+      "desierto",
+      "proveedor mas nuevo",
+      "ejercicio",
+      "soñar"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "podrías por favor buscar mi ------ para las últimas noticias",
+    "choices": [
+      "determinar",
+      "nuevo proveedor de noticias",
+      "listo",
+      "molécula"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "dime las últimas noticias sobre ------",
+    "choices": [
+      "algodón",
+      "oh",
+      "política",
+      "canción"
+    ],
+    "answer": 2,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "dime las últimas noticias ------",
+    "choices": [
+      "su",
+      "de deporte",
+      "tierra",
+      "columna"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "qué está sucediendo en el ------ en estos días",
+    "choices": [
+      "mundo",
+      "respuesta",
+      "acorde",
+      "uno"
+    ],
+    "answer": 0,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "dame las actualizaciones de ------",
+    "choices": [
+      "hacer",
+      "silla",
+      "reclamación",
+      "t. v. e."
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "cuáles son las noticias actuales en ------",
+    "choices": [
+      "hasta",
+      "la vanguardia",
+      "crecer",
+      "planeta"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "cómo están las actualizaciones de las últimas noticias en ------",
+    "choices": [
+      "escuchar",
+      "paso",
+      "mundo",
+      "t. v. e."
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "muéstrame las últimas noticias actualizadas de ------",
+    "choices": [
+      "acorde",
+      "leer",
+      "el mundo",
+      "invierno"
+    ],
+    "answer": 2,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "notificarme cuando ------ esté en las noticias",
+    "choices": [
+      "momento",
+      "grande",
+      "general",
+      "trump"
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "dime si ocurre un ------ en el mundo",
+    "choices": [
+      "traer",
+      "frase",
+      "terremoto",
+      "medio"
+    ],
+    "answer": 2,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "avísame cuando la ------",
+    "choices": [
+      "decidir",
+      "río",
+      "salvaje",
+      "tempertura fuera alcance veinte grados"
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "jugar ------ por eddie murphy",
+    "choices": [
+      "boogie in your butt",
+      "sentar",
+      "pista",
+      "fuerte"
+    ],
+    "answer": 0,
+    "type": "sentence",
+    "intent": "music",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "escucha ------ de los del rio",
+    "choices": [
+      "corriente",
+      "macarena",
+      "entre",
+      "enorme"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "music",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "pon ------",
+    "choices": [
+      "fuerte",
+      "nivel",
+      "más",
+      "bilando"
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "music",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "------ de ariana grande",
+    "choices": [
+      "play déjame amarte",
+      "bate",
+      "plata",
+      "significará"
+    ],
+    "answer": 0,
+    "type": "sentence",
+    "intent": "music",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "pon ------",
+    "choices": [
+      "canciones de amor",
+      "nuevo",
+      "período",
+      "espacio"
+    ],
+    "answer": 0,
+    "type": "sentence",
+    "intent": "music",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "pon todas las canciones de ------",
+    "choices": [
+      "vida",
+      "tarde",
+      "rock",
+      "parte"
+    ],
+    "answer": 2,
+    "type": "sentence",
+    "intent": "music",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "------ forma a la cola actual",
+    "choices": [
+      "agregar tu",
+      "médico",
+      "sabía",
+      "caliente"
+    ],
+    "answer": 0,
+    "type": "sentence",
+    "intent": "music",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "cómo está el tiempo ------",
+    "choices": [
+      "hoy",
+      "calle",
+      "significado",
+      "de metal"
+    ],
+    "answer": 0,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "cuál es la ------ ahora mismo",
+    "choices": [
+      "quemar",
+      "temperatura",
+      "verde",
+      "que"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "cómo estuvo el tiempo ------",
+    "choices": [
+      "buena",
+      "esta semana",
+      "paseo",
+      "poco"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "clima ------ o fuerte",
+    "choices": [
+      "minuto",
+      "acto",
+      "templado",
+      "belleza"
+    ],
+    "answer": 2,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "dime la temperatura ------ esta semana",
+    "choices": [
+      "más alta",
+      "preguntar",
+      "amplio",
+      "registro"
+    ],
+    "answer": 0,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "está siendo el ------",
+    "choices": [
+      "superficie",
+      "tabla",
+      "verano",
+      "insecto"
+    ],
+    "answer": 2,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "qué probabilidad hay de que ------ esta semana",
+    "choices": [
+      "prisa",
+      "no",
+      "tener",
+      "granice"
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "confirme la alarma para ------ por la ------",
+    "choices": [
+      "país",
+      "corriente",
+      "lago",
+      "mañana"
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "a qué hora está la alarma puesta ------",
+    "choices": [
+      "hombro",
+      "oxígeno",
+      "persona",
+      "mañana"
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "podrías recomendarme por favor un ------ mexicano que haga comida para llevar",
+    "choices": [
+      "si",
+      "restaurante",
+      "vino",
+      "podría"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "qué ------ ofertan comida para llevar",
+    "choices": [
+      "guardar",
+      "arena",
+      "restaurantes",
+      "incluir"
+    ],
+    "answer": 2,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "puedo hacer un pedido de comida ------ a esta hora",
+    "choices": [
+      "preguntar",
+      "monte",
+      "de nuevo",
+      "para llevar"
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "order",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "quiero saber las últimas ------ de la ciudad",
+    "choices": [
+      "noticias locales",
+      "sentido",
+      "barra",
+      "capturado"
+    ],
+    "answer": 0,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "hacer café a las ------",
+    "choices": [
+      "padre",
+      "su",
+      "ocho de la mañana",
+      "morir"
+    ],
+    "answer": 2,
+    "type": "sentence",
+    "intent": "coffee",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "haz cafe al ------",
+    "choices": [
+      "general",
+      "mediodia",
+      "diseño",
+      "carta"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "coffee",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "reproducir nueva lista de reproducción de ------",
+    "choices": [
+      "rosalía",
+      "en",
+      "cuello",
+      "pasar"
+    ],
+    "answer": 0,
+    "type": "sentence",
+    "intent": "music",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "crear una nueva lista de reproducción de ------",
+    "choices": [
+      "eran",
+      "lady gaga",
+      "valor",
+      "plazo"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "music",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "pon ------ y empieza con con altura",
+    "choices": [
+      "verdadero",
+      "hace",
+      "rosalía",
+      "historia"
+    ],
+    "answer": 2,
+    "type": "sentence",
+    "intent": "music",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "abre la aplicación de ------",
+    "choices": [
+      "rtve",
+      "respuesta",
+      "danza",
+      "usted"
+    ],
+    "answer": 0,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "abre mi actualización de la mañana de ------",
+    "choices": [
+      "usted",
+      "estado",
+      "el país",
+      "mercado"
+    ],
+    "answer": 2,
+    "type": "sentence",
+    "intent": "query",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "ve a pandora y encuentra ------ en la radio por favor",
+    "choices": [
+      "julio iglesias",
+      "habló",
+      "rosa",
+      "papá"
+    ],
+    "answer": 0,
+    "type": "sentence",
+    "intent": "music",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "busca en google música de ------ para escuchar",
+    "choices": [
+      "sombrero",
+      "rafael",
+      "de pie",
+      "años"
+    ],
+    "answer": 1,
+    "type": "sentence",
+    "intent": "music",
+    "extra": "Fill in the blank:"
+  },
+  {
+    "question": "pon la playlist en ------",
+    "choices": [
+      "repita",
+      "para",
+      "fin",
+      "modo aleatorio"
+    ],
+    "answer": 3,
+    "type": "sentence",
+    "intent": "settings",
+    "extra": "Fill in the blank:"
+  }
+]

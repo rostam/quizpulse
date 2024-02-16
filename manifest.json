@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "Custom New Tab",
+  "version": "1.0",
+  "description": "Sets a custom HTML page as the new tab page.",
+  "permissions": [],
+  "chrome_url_overrides": {
+      "newtab": "index.html"
+  },
+  "content_security_policy": {
+    "extension_pages": "script-src 'self'; object-src 'self';"
+  },
+  "icons": {
+      "16": "hello_extensions.png"
+  }
+}

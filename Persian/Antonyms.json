@@ -1,0 +1,5618 @@
+[
+  {
+    "question": "بیکار",
+    "choices": [
+      "تعیین",
+      "مشغول",
+      "نسخه",
+      "گاز"
+    ],
+    "answer": 1,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "غیرقانونی",
+    "choices": [
+      "زادگان",
+      "قانونی",
+      "شیمیایی",
+      "مهر"
+    ],
+    "answer": 1,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "خیالی",
+    "choices": [
+      "واقعی",
+      "كه",
+      "دریایی",
+      "می‌گویند"
+    ],
+    "answer": 0,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "زندانی",
+    "choices": [
+      "اسرائیل",
+      "چون",
+      "دانشجویان",
+      "آزاد"
+    ],
+    "answer": 3,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "شامل",
+    "choices": [
+      "محروم",
+      "مردان",
+      "نماینده",
+      "پایگاه"
+    ],
+    "answer": 0,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "چپ",
+    "choices": [
+      "راست",
+      "نقطه",
+      "مصرف",
+      "ادبی"
+    ],
+    "answer": 0,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "بااحتیاط",
+    "choices": [
+      "مشترک",
+      "احتیاط",
+      "نشده",
+      "دریاچه"
+    ],
+    "answer": 1,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "شروع",
+    "choices": [
+      "دارند",
+      "مسابقات",
+      "کمی",
+      "پایان"
+    ],
+    "answer": 3,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "آغاز",
+    "choices": [
+      "پایان",
+      "استرالیا",
+      "پنج",
+      "حال"
+    ],
+    "answer": 0,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "ماندن",
+    "choices": [
+      "رفتن",
+      "دستور",
+      "براي",
+      "سالهای"
+    ],
+    "answer": 0,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "توقف",
+    "choices": [
+      "سطح",
+      "حرکت",
+      "نویسنده",
+      "اکتبر"
+    ],
+    "answer": 1,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "مستقیم",
+    "choices": [
+      "کج",
+      "آبی",
+      "فاصله",
+      "علت"
+    ],
+    "answer": 0,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "داخل",
+    "choices": [
+      "می‌آید",
+      "بيرون",
+      "جام",
+      "تصمیم"
+    ],
+    "answer": 1,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "داخل",
+    "choices": [
+      "اسلامی",
+      "در",
+      "داخل",
+      "تبدیل"
+    ],
+    "answer": 2,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "مهربان",
+    "choices": [
+      "یعنی",
+      "تاکنون",
+      "نامهربان",
+      "هنگام"
+    ],
+    "answer": 2,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "پادشاه",
+    "choices": [
+      "رهبر",
+      "ملکه",
+      "ساده",
+      "حالت"
+    ],
+    "answer": 1,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "علم",
+    "choices": [
+      "تاسیس",
+      "جهل",
+      "عهده",
+      "چپ"
+    ],
+    "answer": 1,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "شناس",
+    "choices": [
+      "تحصیلات",
+      "ناشناس",
+      "دنیا",
+      "گاهی"
+    ],
+    "answer": 1,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "بزرگ",
+    "choices": [
+      "عوامل",
+      "نیمه",
+      "کوچک",
+      "نیروهای"
+    ],
+    "answer": 2,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "آخری",
+    "choices": [
+      "مسعود",
+      "هنر",
+      "اولی",
+      "المللی"
+    ],
+    "answer": 2,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "خنده",
+    "choices": [
+      "کند",
+      "تفسیر",
+      "دی",
+      "گریه"
+    ],
+    "answer": 3,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "تنبل",
+    "choices": [
+      "نظام",
+      "شبه",
+      "زرنگ",
+      "رودخانه"
+    ],
+    "answer": 2,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "بیگانه",
+    "choices": [
+      "فرزندان",
+      "اولین",
+      "دوست",
+      "مهم"
+    ],
+    "answer": 2,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "قوی",
+    "choices": [
+      "ضعیف",
+      "اکتبر",
+      "مسیر",
+      "دقیقه"
+    ],
+    "answer": 0,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "تابستان",
+    "choices": [
+      "زمستان",
+      "تو",
+      "مدرسه",
+      "حاضر"
+    ],
+    "answer": 0,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "آفتاب",
+    "choices": [
+      "ممکن",
+      "کشورهای",
+      "مهتاب",
+      "مهندسی"
+    ],
+    "answer": 2,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "شیرین",
+    "choices": [
+      "ادامه",
+      "شور",
+      "موسسه",
+      "شده"
+    ],
+    "answer": 1,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "پایین",
+    "choices": [
+      "یاد",
+      "بالا",
+      "فنی",
+      "فصل"
+    ],
+    "answer": 1,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "عالی",
+    "choices": [
+      "مهاجرت",
+      "بدترین",
+      "اینترنتی",
+      "دختر"
+    ],
+    "answer": 1,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "تلخ",
+    "choices": [
+      "مدیریت",
+      "جز",
+      "شیرین",
+      "انتقال"
+    ],
+    "answer": 2,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "سیاه",
+    "choices": [
+      "سفید",
+      "لیگ",
+      "آذر",
+      "بیماری"
+    ],
+    "answer": 0,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "پایین",
+    "choices": [
+      "نظام",
+      "گیتار",
+      "بالا",
+      "تاریخ"
+    ],
+    "answer": 2,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "پسر",
+    "choices": [
+      "هنری",
+      "اتحادیه",
+      "مناسب",
+      "دختر"
+    ],
+    "answer": 3,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "شجاع",
+    "choices": [
+      "می‌شوند",
+      "ملی",
+      "می‌دهند",
+      "ترسو"
+    ],
+    "answer": 3,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "خیس",
+    "choices": [
+      "نموده",
+      "زیبا",
+      "خشک",
+      "اسفند"
+    ],
+    "answer": 2,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "مطمئن",
+    "choices": [
+      "می‌گوید",
+      "نامطمئن",
+      "قاجار",
+      "بازیکنان"
+    ],
+    "answer": 1,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "خوشحال",
+    "choices": [
+      "نیمه",
+      "ناراحت",
+      "ده",
+      "می‌کرد"
+    ],
+    "answer": 1,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "شهر",
+    "choices": [
+      "ابن",
+      "نامزد",
+      "دیده",
+      "دهات"
+    ],
+    "answer": 3,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "بسته",
+    "choices": [
+      "دقیقه",
+      "هوای",
+      "باز",
+      "زندگی"
+    ],
+    "answer": 2,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "سرد",
+    "choices": [
+      "باقی",
+      "گرم",
+      "جنسی",
+      "کمونیست"
+    ],
+    "answer": 1,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "روشن",
+    "choices": [
+      "مردان",
+      "نیز",
+      "ترجمه",
+      "خاموش"
+    ],
+    "answer": 3,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "جوان",
+    "choices": [
+      "پیر",
+      "می‌دهد",
+      "انرژی",
+      "نسخه"
+    ],
+    "answer": 0,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "خوب",
+    "choices": [
+      "کرمان",
+      "بد",
+      "بیماری",
+      "جرم"
+    ],
+    "answer": 1,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "کوچیک",
+    "choices": [
+      "ثابت",
+      "طول",
+      "بزرگ",
+      "اکبر"
+    ],
+    "answer": 2,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "خوشگل",
+    "choices": [
+      "بریتانیا",
+      "زشت",
+      "شیعه",
+      "می‌تواند"
+    ],
+    "answer": 1,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "زیبا",
+    "choices": [
+      "زشت",
+      "نرم",
+      "کل",
+      "قدر"
+    ],
+    "answer": 0,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "قشنگ",
+    "choices": [
+      "کوچک",
+      "زشت",
+      "می‌گویند",
+      "ده"
+    ],
+    "answer": 1,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "آسان",
+    "choices": [
+      "قهرمان",
+      "عنوان",
+      "قالب",
+      "سخت"
+    ],
+    "answer": 3,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "زود",
+    "choices": [
+      "دیر",
+      "سیاسی",
+      "پسر",
+      "فرانسوی"
+    ],
+    "answer": 0,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "خواب",
+    "choices": [
+      "ای",
+      "کمی",
+      "خون",
+      "بیدار"
+    ],
+    "answer": 3,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "نو",
+    "choices": [
+      "استان",
+      "مي",
+      "قدیمی",
+      "خارج"
+    ],
+    "answer": 2,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "جدید",
+    "choices": [
+      "دوم",
+      "قدیمی",
+      "برنامه",
+      "بخشی"
+    ],
+    "answer": 1,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "نزدیک",
+    "choices": [
+      "دور",
+      "کردند",
+      "دانش",
+      "منطقه"
+    ],
+    "answer": 0,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "ارزون",
+    "choices": [
+      "منتشر",
+      "هوایی",
+      "عبارتند",
+      "گرون"
+    ],
+    "answer": 3,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "بیکار",
+    "choices": [
+      "است",
+      "مشغول",
+      "نامیده",
+      "آموزش"
+    ],
+    "answer": 1,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "غیرقانونی",
+    "choices": [
+      "محصول",
+      "قانونی",
+      "فضایی",
+      "مختلف"
+    ],
+    "answer": 1,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "خیالی",
+    "choices": [
+      "کسی",
+      "عرضه",
+      "مستقل",
+      "واقعی"
+    ],
+    "answer": 3,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "زندانی",
+    "choices": [
+      "مهدی",
+      "آزاد",
+      "مسیر",
+      "شامل"
+    ],
+    "answer": 1,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "شامل",
+    "choices": [
+      "غرب",
+      "شکست",
+      "غیر",
+      "محروم"
+    ],
+    "answer": 3,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "چب",
+    "choices": [
+      "گردید",
+      "میلادی",
+      "ابتدا",
+      "راست"
+    ],
+    "answer": 3,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "بااحتیاط",
+    "choices": [
+      "کل",
+      "روستا",
+      "احتیاط",
+      "رضوی"
+    ],
+    "answer": 2,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "شروع",
+    "choices": [
+      "آلمان",
+      "پایان",
+      "عامل",
+      "می‌گویند"
+    ],
+    "answer": 1,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "آغاز",
+    "choices": [
+      "می‌کنند",
+      "پایان",
+      "چشمه",
+      "تهران"
+    ],
+    "answer": 1,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "ماندن",
+    "choices": [
+      "ثابت",
+      "ابهام‌زدایی",
+      "کنونی",
+      "رفتن"
+    ],
+    "answer": 3,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "توقف",
+    "choices": [
+      "حرکت",
+      "جنسی",
+      "رادیو",
+      "ملل"
+    ],
+    "answer": 0,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "مستقیم",
+    "choices": [
+      "چه",
+      "کج",
+      "امنیت",
+      "زادگان"
+    ],
+    "answer": 1,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "داخل",
+    "choices": [
+      "گرفتن",
+      "معنی",
+      "مرز",
+      "بيرون"
+    ],
+    "answer": 3,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "داخل",
+    "choices": [
+      "حق",
+      "آزاد",
+      "ویکی‌پدیای",
+      "داخل"
+    ],
+    "answer": 3,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "مهربان",
+    "choices": [
+      "شدند",
+      "نامهربان",
+      "آموزش",
+      "حاکم"
+    ],
+    "answer": 1,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "پادشاه",
+    "choices": [
+      "استقلال",
+      "ملکه",
+      "دانشگاه‌های",
+      "فقط"
+    ],
+    "answer": 1,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "علم",
+    "choices": [
+      "فاصله",
+      "یکم",
+      "جهل",
+      "علم"
+    ],
+    "answer": 2,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "شناس",
+    "choices": [
+      "عمر",
+      "ترین",
+      "هنرمند",
+      "ناشناس"
+    ],
+    "answer": 3,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "بزرگ",
+    "choices": [
+      "هفت",
+      "کوچک",
+      "اینکه",
+      "عملیات"
+    ],
+    "answer": 1,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "آخری",
+    "choices": [
+      "محمدرضا",
+      "هنوز",
+      "اولی",
+      "ذکر"
+    ],
+    "answer": 2,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "خنده",
+    "choices": [
+      "اهل",
+      "گفته",
+      "رضوی",
+      "گریه"
+    ],
+    "answer": 3,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "تنبل",
+    "choices": [
+      "شمالی",
+      "شخصیت",
+      "عربستان",
+      "زرنگ"
+    ],
+    "answer": 3,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "بیگانه",
+    "choices": [
+      "مقاله",
+      "پیروزی",
+      "بستک",
+      "دوست"
+    ],
+    "answer": 3,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "قوی",
+    "choices": [
+      "مقدس",
+      "آمده",
+      "موزه",
+      "ضعیف"
+    ],
+    "answer": 3,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "تابستان",
+    "choices": [
+      "غیر",
+      "زمستان",
+      "قمری",
+      "قتل"
+    ],
+    "answer": 1,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "آفتاب",
+    "choices": [
+      "حالی",
+      "اهالی",
+      "مانند",
+      "مهتاب"
+    ],
+    "answer": 3,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "شیرین",
+    "choices": [
+      "شور",
+      "رئیس",
+      "قوانین",
+      "ماهی"
+    ],
+    "answer": 0,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "پایین",
+    "choices": [
+      "بالا",
+      "برابر",
+      "آفریقا",
+      "هنگامی"
+    ],
+    "answer": 0,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "عالی",
+    "choices": [
+      "بدترین",
+      "رشد",
+      "فرهنگی",
+      "ایالات"
+    ],
+    "answer": 0,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "تلخ",
+    "choices": [
+      "هدف",
+      "اتحاد",
+      "شیرین",
+      "می‌کردند"
+    ],
+    "answer": 2,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "سیاه",
+    "choices": [
+      "مدیر",
+      "کتاب",
+      "تک",
+      "سفید"
+    ],
+    "answer": 3,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "پایین",
+    "choices": [
+      "بالا",
+      "درگذشتگان",
+      "امپراتوری",
+      "بازی"
+    ],
+    "answer": 0,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "پسر",
+    "choices": [
+      "برنامه",
+      "نزد",
+      "تاریخ",
+      "دختر"
+    ],
+    "answer": 3,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "شجاع",
+    "choices": [
+      "ترسو",
+      "مهر",
+      "مشهور",
+      "طبیعی"
+    ],
+    "answer": 0,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "خیس",
+    "choices": [
+      "جامعه",
+      "خشک",
+      "اواخر",
+      "علاوه"
+    ],
+    "answer": 1,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "مطمئن",
+    "choices": [
+      "ژاپن",
+      "نامطمئن",
+      "نگاه",
+      "قرآن"
+    ],
+    "answer": 1,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "خوشحال",
+    "choices": [
+      "قانون",
+      "ناراحت",
+      "ابراهیم",
+      "دید"
+    ],
+    "answer": 1,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "شهر",
+    "choices": [
+      "واقع",
+      "موتور",
+      "دهات",
+      "قانون"
+    ],
+    "answer": 2,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "بسته",
+    "choices": [
+      "که",
+      "مادر",
+      "نام",
+      "باز"
+    ],
+    "answer": 3,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "سرد",
+    "choices": [
+      "جز",
+      "پرواز",
+      "علی",
+      "گرم"
+    ],
+    "answer": 3,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "روشن",
+    "choices": [
+      "خاموش",
+      "یونان",
+      "جدا",
+      "اندازه"
+    ],
+    "answer": 0,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "جوان",
+    "choices": [
+      "نسبت",
+      "امکان",
+      "پیر",
+      "طریق"
+    ],
+    "answer": 2,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "خوب",
+    "choices": [
+      "چشم",
+      "ثبت",
+      "بد",
+      "هوای"
+    ],
+    "answer": 2,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "کوچیک",
+    "choices": [
+      "ژوئیه",
+      "بزرگ",
+      "انگلیسی",
+      "بازدید"
+    ],
+    "answer": 1,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "خوشگل",
+    "choices": [
+      "همانند",
+      "حزب",
+      "زشت",
+      "خوبی"
+    ],
+    "answer": 2,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "زیبا",
+    "choices": [
+      "شماره",
+      "زشت",
+      "تعداد",
+      "کارگردان"
+    ],
+    "answer": 1,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "قشنگ",
+    "choices": [
+      "دهه",
+      "ترک",
+      "بار",
+      "زشت"
+    ],
+    "answer": 3,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "آسان",
+    "choices": [
+      "مسجد",
+      "سخت",
+      "عوامل",
+      "حاضر"
+    ],
+    "answer": 1,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "زود",
+    "choices": [
+      "آورد",
+      "اختلاف",
+      "دیر",
+      "تن"
+    ],
+    "answer": 2,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "خواب",
+    "choices": [
+      "نتایج",
+      "عبارت",
+      "بیدار",
+      "اجرام"
+    ],
+    "answer": 2,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "نو",
+    "choices": [
+      "کردن",
+      "قدیمی",
+      "خوانندگان",
+      "رویدادها"
+    ],
+    "answer": 1,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "جدید",
+    "choices": [
+      "حمل",
+      "رشد",
+      "قدیمی",
+      "چپ"
+    ],
+    "answer": 2,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "نزدیک",
+    "choices": [
+      "دور",
+      "حفظ",
+      "بریتانیا",
+      "افزایش"
+    ],
+    "answer": 0,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "ارزون",
+    "choices": [
+      "آقای",
+      "گرون",
+      "جنوبی",
+      "کلیسای"
+    ],
+    "answer": 1,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "بیکار",
+    "choices": [
+      "موسیقی",
+      "مشغول",
+      "چشم",
+      "خیلی"
+    ],
+    "answer": 1,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "غیرقانونی",
+    "choices": [
+      "قانونی",
+      "بسیار",
+      "فرهنگی",
+      "جنبش"
+    ],
+    "answer": 0,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "خیالی",
+    "choices": [
+      "آذربایجان",
+      "رفته",
+      "دفاع",
+      "واقعی"
+    ],
+    "answer": 3,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "زندانی",
+    "choices": [
+      "خود",
+      "آزاد",
+      "آهن",
+      "بعد"
+    ],
+    "answer": 1,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "شامل",
+    "choices": [
+      "حمایت",
+      "میراث",
+      "درصد",
+      "محروم"
+    ],
+    "answer": 3,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "چب",
+    "choices": [
+      "شیخ",
+      "باشد",
+      "راست",
+      "نوعی"
+    ],
+    "answer": 2,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "بااحتیاط",
+    "choices": [
+      "همراه",
+      "کشورهای",
+      "دیده",
+      "احتیاط"
+    ],
+    "answer": 3,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "شروع",
+    "choices": [
+      "ترکیه",
+      "پایان",
+      "تو",
+      "نزدیکی"
+    ],
+    "answer": 1,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "آغاز",
+    "choices": [
+      "پایان",
+      "سرزمین",
+      "شامل",
+      "فارس"
+    ],
+    "answer": 0,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "ماندن",
+    "choices": [
+      "رفتن",
+      "موقعیت",
+      "ادامه",
+      "کارهای"
+    ],
+    "answer": 0,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "توقف",
+    "choices": [
+      "درصد",
+      "حرکت",
+      "حتی",
+      "جلد"
+    ],
+    "answer": 1,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "مستقیم",
+    "choices": [
+      "کج",
+      "نتیجه",
+      "تحصیل",
+      "باشگاه"
+    ],
+    "answer": 0,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "داخل",
+    "choices": [
+      "موجود",
+      "نفر",
+      "آنان",
+      "بيرون"
+    ],
+    "answer": 3,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "داخل",
+    "choices": [
+      "داخل",
+      "شوند",
+      "برابر",
+      "رتبه"
+    ],
+    "answer": 0,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "مهربان",
+    "choices": [
+      "رنگ",
+      "الکتریکی",
+      "مه",
+      "نامهربان"
+    ],
+    "answer": 3,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "پادشاه",
+    "choices": [
+      "مانده",
+      "داشته",
+      "ملکه",
+      "سفید"
+    ],
+    "answer": 2,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "علم",
+    "choices": [
+      "موجب",
+      "جهل",
+      "ادبی",
+      "بن"
+    ],
+    "answer": 1,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "شناس",
+    "choices": [
+      "گذاری",
+      "استفاده",
+      "موسسه",
+      "ناشناس"
+    ],
+    "answer": 3,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "بزرگ",
+    "choices": [
+      "دارند",
+      "جرم",
+      "کوچک",
+      "اجرا"
+    ],
+    "answer": 2,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "آخری",
+    "choices": [
+      "منتشر",
+      "بنیاد",
+      "اولی",
+      "ماشین"
+    ],
+    "answer": 2,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "خنده",
+    "choices": [
+      "قوانین",
+      "طریق",
+      "گریه",
+      "مشهور"
+    ],
+    "answer": 2,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "تنبل",
+    "choices": [
+      "موارد",
+      "زرنگ",
+      "تعیین",
+      "سرشماری"
+    ],
+    "answer": 1,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "بیگانه",
+    "choices": [
+      "گل",
+      "با",
+      "دوست",
+      "فراهم"
+    ],
+    "answer": 2,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "قوی",
+    "choices": [
+      "ضعیف",
+      "پزشکی",
+      "شروع",
+      "گیاهان"
+    ],
+    "answer": 0,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "تابستان",
+    "choices": [
+      "وزیر",
+      "زمستان",
+      "تعریف",
+      "روستا"
+    ],
+    "answer": 1,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "آفتاب",
+    "choices": [
+      "مهتاب",
+      "فارس",
+      "عمل",
+      "سیاه"
+    ],
+    "answer": 0,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "شیرین",
+    "choices": [
+      "شور",
+      "کلی",
+      "ادبی",
+      "اخیر"
+    ],
+    "answer": 0,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "پایین",
+    "choices": [
+      "بالا",
+      "آباد",
+      "جمع",
+      "رمان"
+    ],
+    "answer": 0,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "عالی",
+    "choices": [
+      "ساختمان",
+      "بدترین",
+      "سلطنت",
+      "رتبه"
+    ],
+    "answer": 1,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "تلخ",
+    "choices": [
+      "هنری",
+      "شیرین",
+      "مرکزی",
+      "کنترل"
+    ],
+    "answer": 1,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "سیاه",
+    "choices": [
+      "شدن",
+      "تلویزیون",
+      "دادن",
+      "سفید"
+    ],
+    "answer": 3,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "پایین",
+    "choices": [
+      "پست",
+      "خلیج",
+      "بالا",
+      "دهه"
+    ],
+    "answer": 2,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "پسر",
+    "choices": [
+      "بهترین",
+      "نگاه",
+      "باز",
+      "دختر"
+    ],
+    "answer": 3,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "شجاع",
+    "choices": [
+      "نگاه",
+      "لحاظ",
+      "متعلق",
+      "ترسو"
+    ],
+    "answer": 3,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "خیس",
+    "choices": [
+      "خشک",
+      "نژاد",
+      "خوانده",
+      "چهار"
+    ],
+    "answer": 0,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "مطمئن",
+    "choices": [
+      "نامطمئن",
+      "رسید",
+      "استقلال",
+      "اند"
+    ],
+    "answer": 0,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "خوشحال",
+    "choices": [
+      "ریشه",
+      "ناراحت",
+      "زن",
+      "ادبی"
+    ],
+    "answer": 1,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "شهر",
+    "choices": [
+      "ماده",
+      "مربع",
+      "دهات",
+      "اخیر"
+    ],
+    "answer": 2,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "بسته",
+    "choices": [
+      "باز",
+      "ناسا",
+      "مدت",
+      "هوایی"
+    ],
+    "answer": 0,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "سرد",
+    "choices": [
+      "سری",
+      "حالی",
+      "اصل",
+      "گرم"
+    ],
+    "answer": 3,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "روشن",
+    "choices": [
+      "نرم",
+      "خاموش",
+      "همان",
+      "قهرمانی"
+    ],
+    "answer": 1,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "جوان",
+    "choices": [
+      "دور",
+      "پیر",
+      "می‌گردد",
+      "پیدا"
+    ],
+    "answer": 1,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "خوب",
+    "choices": [
+      "دختر",
+      "اولین",
+      "سپتامبر",
+      "بد"
+    ],
+    "answer": 3,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "کوچیک",
+    "choices": [
+      "شمال",
+      "صدای",
+      "دار",
+      "بزرگ"
+    ],
+    "answer": 3,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "خوشگل",
+    "choices": [
+      "آهن",
+      "همه",
+      "یعنی",
+      "زشت"
+    ],
+    "answer": 3,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "زیبا",
+    "choices": [
+      "تولد",
+      "سینما",
+      "هنگام",
+      "زشت"
+    ],
+    "answer": 3,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "قشنگ",
+    "choices": [
+      "شمسی",
+      "تمام",
+      "متعلق",
+      "زشت"
+    ],
+    "answer": 3,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "آسان",
+    "choices": [
+      "سخت",
+      "بازی‌های",
+      "همچنین",
+      "هفتم"
+    ],
+    "answer": 0,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "زود",
+    "choices": [
+      "سخن",
+      "دیر",
+      "نیویورک",
+      "مارس"
+    ],
+    "answer": 1,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "خواب",
+    "choices": [
+      "بیدار",
+      "ماشین",
+      "عرب",
+      "سازمان"
+    ],
+    "answer": 0,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "نو",
+    "choices": [
+      "مهدی",
+      "قدیمی",
+      "حال",
+      "ریاست"
+    ],
+    "answer": 1,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "جدید",
+    "choices": [
+      "قدیمی",
+      "شدید",
+      "گذاری",
+      "مطلق"
+    ],
+    "answer": 0,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "نزدیک",
+    "choices": [
+      "برادر",
+      "عامل",
+      "بنابر",
+      "دور"
+    ],
+    "answer": 3,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "ارزون",
+    "choices": [
+      "شهرداری",
+      "متال",
+      "گرون",
+      "طبق"
+    ],
+    "answer": 2,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "بیکار",
+    "choices": [
+      "بیان",
+      "باستان",
+      "مشغول",
+      "ستاره"
+    ],
+    "answer": 2,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "غیرقانونی",
+    "choices": [
+      "جوایز",
+      "شهریور",
+      "انواع",
+      "قانونی"
+    ],
+    "answer": 3,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "خیالی",
+    "choices": [
+      "آقای",
+      "واقعی",
+      "مواد",
+      "اینترنت"
+    ],
+    "answer": 1,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "زندانی",
+    "choices": [
+      "آزاد",
+      "مسابقات",
+      "مساحت",
+      "دینی"
+    ],
+    "answer": 0,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "شامل",
+    "choices": [
+      "محروم",
+      "سازی",
+      "جشن",
+      "ارتش"
+    ],
+    "answer": 0,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "چب",
+    "choices": [
+      "ارومیه",
+      "چند",
+      "راست",
+      "درخت"
+    ],
+    "answer": 2,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "بااحتیاط",
+    "choices": [
+      "احتیاط",
+      "گاز",
+      "بوده‌است",
+      "گرفت"
+    ],
+    "answer": 0,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "شروع",
+    "choices": [
+      "اکنون",
+      "بی‌بی‌سی",
+      "پایان",
+      "مطرح"
+    ],
+    "answer": 2,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "آغاز",
+    "choices": [
+      "تعریف",
+      "پست",
+      "پسر",
+      "پایان"
+    ],
+    "answer": 3,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "ماندن",
+    "choices": [
+      "رفتن",
+      "قرار",
+      "اهمیت",
+      "محصولات"
+    ],
+    "answer": 0,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "توقف",
+    "choices": [
+      "شهر",
+      "ریاضی",
+      "حرکت",
+      "نمایش"
+    ],
+    "answer": 2,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "مستقیم",
+    "choices": [
+      "اقتصادی",
+      "بیماری",
+      "شعر",
+      "کج"
+    ],
+    "answer": 3,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "داخل",
+    "choices": [
+      "تصویر",
+      "وسیله",
+      "باستان",
+      "بيرون"
+    ],
+    "answer": 3,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "داخل",
+    "choices": [
+      "مثال",
+      "دوباره",
+      "داخل",
+      "فرمان"
+    ],
+    "answer": 2,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "مهربان",
+    "choices": [
+      "بلکه",
+      "سرعت",
+      "نامهربان",
+      "نوشته"
+    ],
+    "answer": 2,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "پادشاه",
+    "choices": [
+      "نزدیک",
+      "حوزه",
+      "فروش",
+      "ملکه"
+    ],
+    "answer": 3,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "علم",
+    "choices": [
+      "عبدالله",
+      "موفق",
+      "عصر",
+      "جهل"
+    ],
+    "answer": 3,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "شناس",
+    "choices": [
+      "ناشناس",
+      "دهد",
+      "سده",
+      "عهده"
+    ],
+    "answer": 0,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "بزرگ",
+    "choices": [
+      "نقش",
+      "کوچک",
+      "بزرگی",
+      "اساسی"
+    ],
+    "answer": 1,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "آخری",
+    "choices": [
+      "هوایی",
+      "آموزشی",
+      "اولی",
+      "تقویم"
+    ],
+    "answer": 2,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "خنده",
+    "choices": [
+      "شاعر",
+      "گریه",
+      "موارد",
+      "ولی"
+    ],
+    "answer": 1,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "تنبل",
+    "choices": [
+      "خوبی",
+      "شرح",
+      "مکان",
+      "زرنگ"
+    ],
+    "answer": 3,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "بیگانه",
+    "choices": [
+      "عباس",
+      "دوست",
+      "بنابراین",
+      "موزه"
+    ],
+    "answer": 1,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "قوی",
+    "choices": [
+      "ضعیف",
+      "اجرا",
+      "چهارم",
+      "فوتبال"
+    ],
+    "answer": 0,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "تابستان",
+    "choices": [
+      "حمل",
+      "زمستان",
+      "مهدی",
+      "هفته"
+    ],
+    "answer": 1,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "آفتاب",
+    "choices": [
+      "مهتاب",
+      "هنر",
+      "کنترل",
+      "شیراز"
+    ],
+    "answer": 0,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "شیرین",
+    "choices": [
+      "شور",
+      "عبور",
+      "اروپا",
+      "خارج"
+    ],
+    "answer": 0,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "پایین",
+    "choices": [
+      "بالا",
+      "وب‌گاه",
+      "نمونه",
+      "خصوصی"
+    ],
+    "answer": 0,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "عالی",
+    "choices": [
+      "بدترین",
+      "گونه",
+      "فعال",
+      "کنند"
+    ],
+    "answer": 0,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "تلخ",
+    "choices": [
+      "دانشکده",
+      "مقدس",
+      "حساب",
+      "شیرین"
+    ],
+    "answer": 3,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "سیاه",
+    "choices": [
+      "شخصی",
+      "سفید",
+      "درخت",
+      "حقیقت"
+    ],
+    "answer": 1,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "پایین",
+    "choices": [
+      "برادر",
+      "کتاب",
+      "کره",
+      "بالا"
+    ],
+    "answer": 3,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "پسر",
+    "choices": [
+      "دریای",
+      "دختر",
+      "رهبر",
+      "اخیر"
+    ],
+    "answer": 1,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "شجاع",
+    "choices": [
+      "شامل",
+      "رضا",
+      "خاطر",
+      "ترسو"
+    ],
+    "answer": 3,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "خیس",
+    "choices": [
+      "عربستان",
+      "شخصیت",
+      "خشک",
+      "اگر"
+    ],
+    "answer": 2,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "مطمئن",
+    "choices": [
+      "می‌کند",
+      "داخلی",
+      "رخ",
+      "نامطمئن"
+    ],
+    "answer": 3,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "خوشحال",
+    "choices": [
+      "جنسی",
+      "هفته",
+      "کرمان",
+      "ناراحت"
+    ],
+    "answer": 3,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "شهر",
+    "choices": [
+      "اداره",
+      "دهات",
+      "اصول",
+      "دادند"
+    ],
+    "answer": 1,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "بسته",
+    "choices": [
+      "عصر",
+      "دنبال",
+      "باز",
+      "اضافه"
+    ],
+    "answer": 2,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "سرد",
+    "choices": [
+      "گرم",
+      "جغرافیایی",
+      "ایتالیا",
+      "نموده"
+    ],
+    "answer": 0,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "روشن",
+    "choices": [
+      "خاموش",
+      "کنیم",
+      "تئاتر",
+      "عامل"
+    ],
+    "answer": 0,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "جوان",
+    "choices": [
+      "پیر",
+      "بعدها",
+      "ماه",
+      "جز"
+    ],
+    "answer": 0,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "خوب",
+    "choices": [
+      "مختلف",
+      "می‌گوید",
+      "بد",
+      "ارتش"
+    ],
+    "answer": 2,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "کوچیک",
+    "choices": [
+      "کند",
+      "بزرگ",
+      "تئاتر",
+      "مدل"
+    ],
+    "answer": 1,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "خوشگل",
+    "choices": [
+      "مه",
+      "حزب",
+      "زشت",
+      "محصولات"
+    ],
+    "answer": 2,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "زیبا",
+    "choices": [
+      "هنگام",
+      "زشت",
+      "مردم",
+      "جمع"
+    ],
+    "answer": 1,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "قشنگ",
+    "choices": [
+      "دادند",
+      "گروه‌های",
+      "زشت",
+      "ارتفاع"
+    ],
+    "answer": 2,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "آسان",
+    "choices": [
+      "آوریل",
+      "مراکز",
+      "استقلال",
+      "سخت"
+    ],
+    "answer": 3,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "زود",
+    "choices": [
+      "استاد",
+      "اش",
+      "دیر",
+      "پانویس"
+    ],
+    "answer": 2,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "خواب",
+    "choices": [
+      "امنیت",
+      "برخوردار",
+      "بیدار",
+      "مرز"
+    ],
+    "answer": 2,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "نو",
+    "choices": [
+      "سیستم",
+      "قدیمی",
+      "حاصل",
+      "برده"
+    ],
+    "answer": 1,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "جدید",
+    "choices": [
+      "عمر",
+      "شمسی",
+      "صورت",
+      "قدیمی"
+    ],
+    "answer": 3,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "نزدیک",
+    "choices": [
+      "من",
+      "آمریکا",
+      "فصل",
+      "دور"
+    ],
+    "answer": 3,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "ارزون",
+    "choices": [
+      "سر",
+      "قهرمان",
+      "گرون",
+      "اوت"
+    ],
+    "answer": 2,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "مشغول",
+    "choices": [
+      "شدند",
+      "بیکار",
+      "جهان",
+      "پیشین"
+    ],
+    "answer": 1,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "قانونی",
+    "choices": [
+      "عمومی",
+      "پیروزی",
+      "بازار",
+      "غیرقانونی"
+    ],
+    "answer": 3,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "واقعی",
+    "choices": [
+      "خبر",
+      "اولیه",
+      "نفر",
+      "خیالی"
+    ],
+    "answer": 3,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "آزاد",
+    "choices": [
+      "زندانی",
+      "حرکت",
+      "بکار",
+      "گرفته"
+    ],
+    "answer": 0,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "محروم",
+    "choices": [
+      "چون",
+      "شامل",
+      "داده",
+      "ژوئیه"
+    ],
+    "answer": 1,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "راست",
+    "choices": [
+      "وقتی",
+      "چپ",
+      "اگر",
+      "زبان"
+    ],
+    "answer": 1,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "احتیاط",
+    "choices": [
+      "بااحتیاط",
+      "سینما",
+      "مانند",
+      "فی"
+    ],
+    "answer": 0,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "پایان",
+    "choices": [
+      "متحد",
+      "انتخابات",
+      "لحاظ",
+      "شروع"
+    ],
+    "answer": 3,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "پایان",
+    "choices": [
+      "تپه",
+      "عدد",
+      "بهار",
+      "آغاز"
+    ],
+    "answer": 3,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "رفتن",
+    "choices": [
+      "ماندن",
+      "المپیک",
+      "برتر",
+      "مطلق"
+    ],
+    "answer": 0,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "حرکت",
+    "choices": [
+      "محمود",
+      "باید",
+      "سپتامبر",
+      "توقف"
+    ],
+    "answer": 3,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "کج",
+    "choices": [
+      "سوم",
+      "جدید",
+      "سیارک‌ها",
+      "مستقیم"
+    ],
+    "answer": 3,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "بيرون",
+    "choices": [
+      "جمهور",
+      "داخل",
+      "مطلق",
+      "ترک"
+    ],
+    "answer": 1,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "داخل",
+    "choices": [
+      "فیلم‌های",
+      "روستایی",
+      "فرزندان",
+      "داخل"
+    ],
+    "answer": 3,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "نامهربان",
+    "choices": [
+      "شوروی",
+      "مهربان",
+      "قاجار",
+      "توجه"
+    ],
+    "answer": 1,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "ملکه",
+    "choices": [
+      "توابع",
+      "طراحی",
+      "مطلق",
+      "پادشاه"
+    ],
+    "answer": 3,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "جهل",
+    "choices": [
+      "علم",
+      "اشاره",
+      "کوچک",
+      "حاضر"
+    ],
+    "answer": 0,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "ناشناس",
+    "choices": [
+      "شناس",
+      "فراهم",
+      "پول",
+      "می‌باشند"
+    ],
+    "answer": 0,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "کوچک",
+    "choices": [
+      "امر",
+      "از",
+      "هنر",
+      "بزرگ"
+    ],
+    "answer": 3,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "اولی",
+    "choices": [
+      "ژوئیه",
+      "سنتی",
+      "آخری",
+      "هایی"
+    ],
+    "answer": 2,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "گریه",
+    "choices": [
+      "خنده",
+      "گزارش",
+      "پنج",
+      "اتحاد"
+    ],
+    "answer": 0,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "زرنگ",
+    "choices": [
+      "تنبل",
+      "تولد",
+      "یا",
+      "در"
+    ],
+    "answer": 0,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "دوست",
+    "choices": [
+      "شمال",
+      "فهرست",
+      "تن",
+      "بیگانه"
+    ],
+    "answer": 3,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "ضعیف",
+    "choices": [
+      "خورشید",
+      "به‌",
+      "قانون",
+      "قوی"
+    ],
+    "answer": 3,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "زمستان",
+    "choices": [
+      "ماشین",
+      "تابستان",
+      "گیاهان",
+      "سر"
+    ],
+    "answer": 1,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "مهتاب",
+    "choices": [
+      "کردن",
+      "لیگ",
+      "سد",
+      "آفتاب"
+    ],
+    "answer": 3,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "شور",
+    "choices": [
+      "شیرین",
+      "باشند",
+      "سوم",
+      "رویدادها"
+    ],
+    "answer": 0,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "بالا",
+    "choices": [
+      "قرآن",
+      "خبرگزاری",
+      "بستک",
+      "پایین"
+    ],
+    "answer": 3,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "بدترین",
+    "choices": [
+      "الکتریکی",
+      "عالی",
+      "ارتش",
+      "ترین"
+    ],
+    "answer": 1,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "شیرین",
+    "choices": [
+      "محمود",
+      "حاضر",
+      "تلخ",
+      "سپتامبر"
+    ],
+    "answer": 2,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "سفید",
+    "choices": [
+      "قبلی",
+      "اهمیت",
+      "رادیو",
+      "سیاه"
+    ],
+    "answer": 3,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "بالا",
+    "choices": [
+      "شناخته",
+      "ایشان",
+      "عملیات",
+      "پایین"
+    ],
+    "answer": 3,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "دختر",
+    "choices": [
+      "دادن",
+      "دل",
+      "هایی",
+      "پسر"
+    ],
+    "answer": 3,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "ترسو",
+    "choices": [
+      "بازیگر",
+      "شجاع",
+      "ها",
+      "رسید"
+    ],
+    "answer": 1,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "خشک",
+    "choices": [
+      "کلی",
+      "خیس",
+      "حزب",
+      "بطور"
+    ],
+    "answer": 1,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "نامطمئن",
+    "choices": [
+      "مطمئن",
+      "داشت",
+      "بشر",
+      "ژوئن"
+    ],
+    "answer": 0,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "ناراحت",
+    "choices": [
+      "ناسا",
+      "گردید",
+      "هفت",
+      "خوشحال"
+    ],
+    "answer": 3,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "دهات",
+    "choices": [
+      "فهرست",
+      "شهر",
+      "نامیده",
+      "حمله"
+    ],
+    "answer": 1,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "باز",
+    "choices": [
+      "پست",
+      "فرد",
+      "ماهی",
+      "بسته"
+    ],
+    "answer": 3,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "گرم",
+    "choices": [
+      "ایرانیان",
+      "کشتی",
+      "نژاد",
+      "سرد"
+    ],
+    "answer": 3,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "خاموش",
+    "choices": [
+      "موسیقی",
+      "معماری",
+      "محدود",
+      "روشن"
+    ],
+    "answer": 3,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "پیر",
+    "choices": [
+      "را",
+      "جوان",
+      "مالی",
+      "اجازه"
+    ],
+    "answer": 1,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "بد",
+    "choices": [
+      "با",
+      "می‌دهند",
+      "خوب",
+      "جمهوری"
+    ],
+    "answer": 2,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "بزرگ",
+    "choices": [
+      "تک",
+      "کوچیک",
+      "مقاومت",
+      "را"
+    ],
+    "answer": 1,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "زشت",
+    "choices": [
+      "فارسی",
+      "شکل",
+      "خاطر",
+      "خوشگل"
+    ],
+    "answer": 3,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "زشت",
+    "choices": [
+      "قدرت",
+      "نیست",
+      "باغ",
+      "زیبا"
+    ],
+    "answer": 3,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "زشت",
+    "choices": [
+      "مطرح",
+      "بکار",
+      "ژاپن",
+      "قشنگ"
+    ],
+    "answer": 3,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "سخت",
+    "choices": [
+      "سپس",
+      "هنرمند",
+      "آهن",
+      "آسان"
+    ],
+    "answer": 3,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "دیر",
+    "choices": [
+      "کشوری",
+      "دلیل",
+      "زود",
+      "دارای"
+    ],
+    "answer": 2,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "بیدار",
+    "choices": [
+      "با",
+      "شده‌اند",
+      "خواب",
+      "اشاره"
+    ],
+    "answer": 2,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "قدیمی",
+    "choices": [
+      "نامزد",
+      "پارک",
+      "باز",
+      "نو"
+    ],
+    "answer": 3,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "قدیمی",
+    "choices": [
+      "جدید",
+      "ما",
+      "بودن",
+      "استان‌های"
+    ],
+    "answer": 0,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "دور",
+    "choices": [
+      "مرز",
+      "نزدیک",
+      "وزیر",
+      "اسلام"
+    ],
+    "answer": 1,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "گرون",
+    "choices": [
+      "قبل",
+      "پرورش",
+      "مهم",
+      "ارزون"
+    ],
+    "answer": 3,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "مشغول",
+    "choices": [
+      "تئاتر",
+      "بیکار",
+      "نظریه",
+      "مدت"
+    ],
+    "answer": 1,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "قانونی",
+    "choices": [
+      "غیرقانونی",
+      "اخیر",
+      "استاد",
+      "کمونیست"
+    ],
+    "answer": 0,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "واقعی",
+    "choices": [
+      "عصر",
+      "خیالی",
+      "آموزش",
+      "شبکه"
+    ],
+    "answer": 1,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "آزاد",
+    "choices": [
+      "زندانی",
+      "کالیفرنیا",
+      "جهان",
+      "یونانی"
+    ],
+    "answer": 0,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "محروم",
+    "choices": [
+      "فرانسوی",
+      "ستاره",
+      "پانویس",
+      "شامل"
+    ],
+    "answer": 3,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "راست",
+    "choices": [
+      "مقاله",
+      "نوع",
+      "بیش",
+      "چب"
+    ],
+    "answer": 3,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "احتیاط",
+    "choices": [
+      "بااحتیاط",
+      "تبریز",
+      "روستایی",
+      "جهت"
+    ],
+    "answer": 0,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "پایان",
+    "choices": [
+      "شهری",
+      "خواهد",
+      "کل",
+      "شروع"
+    ],
+    "answer": 3,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "پایان",
+    "choices": [
+      "آغاز",
+      "دهستان",
+      "تحصیل",
+      "شیراز"
+    ],
+    "answer": 0,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "رفتن",
+    "choices": [
+      "مصر",
+      "گروه",
+      "برادر",
+      "ماندن"
+    ],
+    "answer": 3,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "حرکت",
+    "choices": [
+      "توقف",
+      "قالب",
+      "راه",
+      "اعدام"
+    ],
+    "answer": 0,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "کج",
+    "choices": [
+      "معرفی",
+      "عصر",
+      "متعلق",
+      "مستقیم"
+    ],
+    "answer": 3,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "بيرون",
+    "choices": [
+      "داخل",
+      "ادبی",
+      "شهری",
+      "خراسان"
+    ],
+    "answer": 0,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "داخل",
+    "choices": [
+      "ساکن",
+      "نسبت",
+      "مراسم",
+      "داخل"
+    ],
+    "answer": 3,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "نامهربان",
+    "choices": [
+      "دارد",
+      "جنگ",
+      "می‌کند",
+      "مهربان"
+    ],
+    "answer": 3,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "ملکه",
+    "choices": [
+      "معاصر",
+      "پادشاه",
+      "مهم‌ترین",
+      "دار"
+    ],
+    "answer": 1,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "جهل",
+    "choices": [
+      "جا",
+      "علم",
+      "گذاری",
+      "نژاد"
+    ],
+    "answer": 1,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "ناشناس",
+    "choices": [
+      "شناس",
+      "سطح",
+      "هوای",
+      "سخن"
+    ],
+    "answer": 0,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "کوچک",
+    "choices": [
+      "سفید",
+      "کار",
+      "بزرگ",
+      "داشته"
+    ],
+    "answer": 2,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "اولی",
+    "choices": [
+      "آخری",
+      "پنجم",
+      "آیت",
+      "حاکم"
+    ],
+    "answer": 0,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "گریه",
+    "choices": [
+      "خنده",
+      "دنبال",
+      "رشد",
+      "محدود"
+    ],
+    "answer": 0,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "زرنگ",
+    "choices": [
+      "تنبل",
+      "میانه",
+      "سینما",
+      "دورهٔ"
+    ],
+    "answer": 0,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "دوست",
+    "choices": [
+      "خاص",
+      "بیگانه",
+      "حاکم",
+      "اگر"
+    ],
+    "answer": 1,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "ضعیف",
+    "choices": [
+      "ممکن",
+      "قوی",
+      "طرف",
+      "عربی"
+    ],
+    "answer": 1,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "زمستان",
+    "choices": [
+      "تابستان",
+      "نویسندگان",
+      "تخت",
+      "علوم"
+    ],
+    "answer": 0,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "مهتاب",
+    "choices": [
+      "خانواده",
+      "نخستین",
+      "آفتاب",
+      "حوزه"
+    ],
+    "answer": 2,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "شور",
+    "choices": [
+      "شیرین",
+      "اسپانیا",
+      "تک",
+      "حمل"
+    ],
+    "answer": 0,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "بالا",
+    "choices": [
+      "نام",
+      "نزد",
+      "پایین",
+      "کیلومتر"
+    ],
+    "answer": 2,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "بدترین",
+    "choices": [
+      "تپه",
+      "لازم",
+      "شامل",
+      "عالی"
+    ],
+    "answer": 3,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "شیرین",
+    "choices": [
+      "هشت",
+      "تلخ",
+      "فروش",
+      "شدن"
+    ],
+    "answer": 1,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "سفید",
+    "choices": [
+      "شوند",
+      "اسلام",
+      "سیاه",
+      "حمل"
+    ],
+    "answer": 2,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "بالا",
+    "choices": [
+      "پایین",
+      "پیام",
+      "قدیمی",
+      "دریا"
+    ],
+    "answer": 0,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "دختر",
+    "choices": [
+      "پسر",
+      "تیم",
+      "بکار",
+      "خمینی"
+    ],
+    "answer": 0,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "ترسو",
+    "choices": [
+      "ساختمان",
+      "قسمت",
+      "درگذشت",
+      "شجاع"
+    ],
+    "answer": 3,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "خشک",
+    "choices": [
+      "خیس",
+      "آلمانی",
+      "اتحاد",
+      "شهرداری"
+    ],
+    "answer": 0,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "نامطمئن",
+    "choices": [
+      "یکی",
+      "مطمئن",
+      "می‌گیرد",
+      "لحاظ"
+    ],
+    "answer": 1,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "ناراحت",
+    "choices": [
+      "خوشحال",
+      "جا",
+      "بندر",
+      "تدریس"
+    ],
+    "answer": 0,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "دهات",
+    "choices": [
+      "بی‌بی‌سی",
+      "شهر",
+      "خوانندگان",
+      "حد"
+    ],
+    "answer": 1,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "باز",
+    "choices": [
+      "گرفت",
+      "طریق",
+      "بسته",
+      "کسب"
+    ],
+    "answer": 2,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "گرم",
+    "choices": [
+      "پیشنهاد",
+      "تبریز",
+      "سرد",
+      "مناسب"
+    ],
+    "answer": 2,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "خاموش",
+    "choices": [
+      "آنان",
+      "روشن",
+      "سابق",
+      "سپاه"
+    ],
+    "answer": 1,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "پیر",
+    "choices": [
+      "آموزشی",
+      "نزد",
+      "جوان",
+      "تقسیم"
+    ],
+    "answer": 2,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "بد",
+    "choices": [
+      "خوب",
+      "قرار",
+      "ماشین",
+      "محمدرضا"
+    ],
+    "answer": 0,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "بزرگ",
+    "choices": [
+      "روم",
+      "سالهای",
+      "کوچیک",
+      "گسترده"
+    ],
+    "answer": 2,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "زشت",
+    "choices": [
+      "خوشگل",
+      "شهریور",
+      "خمینی",
+      "امروز"
+    ],
+    "answer": 0,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "زشت",
+    "choices": [
+      "زیبا",
+      "رسمی",
+      "میدان",
+      "سینما"
+    ],
+    "answer": 0,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "زشت",
+    "choices": [
+      "آن‌ها",
+      "آفریقا",
+      "قشنگ",
+      "مراسم"
+    ],
+    "answer": 2,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "سخت",
+    "choices": [
+      "دومین",
+      "آسان",
+      "کارهای",
+      "پروژه"
+    ],
+    "answer": 1,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "دیر",
+    "choices": [
+      "مساحت",
+      "زود",
+      "امروزه",
+      "پایین"
+    ],
+    "answer": 1,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "بیدار",
+    "choices": [
+      "خواب",
+      "اسفند",
+      "نظامی",
+      "بازی‌های"
+    ],
+    "answer": 0,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "قدیمی",
+    "choices": [
+      "نو",
+      "یافت",
+      "شیر",
+      "بکار"
+    ],
+    "answer": 0,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "قدیمی",
+    "choices": [
+      "تپه",
+      "اقتصادی",
+      "جدید",
+      "برق"
+    ],
+    "answer": 2,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "دور",
+    "choices": [
+      "نزدیک",
+      "آنچه",
+      "ان",
+      "متفاوت"
+    ],
+    "answer": 0,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "گرون",
+    "choices": [
+      "شما",
+      "اوت",
+      "ارزون",
+      "محلی"
+    ],
+    "answer": 2,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "مشغول",
+    "choices": [
+      "بیکار",
+      "مه",
+      "المپیک",
+      "خورشیدی"
+    ],
+    "answer": 0,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "قانونی",
+    "choices": [
+      "مقام",
+      "پادشاهی",
+      "پاپ",
+      "غیرقانونی"
+    ],
+    "answer": 3,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "واقعی",
+    "choices": [
+      "سیستم",
+      "خیالی",
+      "افغانستان",
+      "نوعی"
+    ],
+    "answer": 1,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "آزاد",
+    "choices": [
+      "جمهور",
+      "زندانی",
+      "قابل",
+      "وضعیت"
+    ],
+    "answer": 1,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "محروم",
+    "choices": [
+      "خصوصی",
+      "شامل",
+      "بررسی",
+      "کشته"
+    ],
+    "answer": 1,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "راست",
+    "choices": [
+      "آذربایجان",
+      "چب",
+      "بسیاری",
+      "هزار"
+    ],
+    "answer": 1,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "احتیاط",
+    "choices": [
+      "تن",
+      "روش",
+      "بااحتیاط",
+      "معروف"
+    ],
+    "answer": 2,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "پایان",
+    "choices": [
+      "شروع",
+      "بازار",
+      "امپراتوری",
+      "بنیاد"
+    ],
+    "answer": 0,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "پایان",
+    "choices": [
+      "آغاز",
+      "دارای",
+      "مواد",
+      "امر"
+    ],
+    "answer": 0,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "رفتن",
+    "choices": [
+      "ماندن",
+      "بار",
+      "پایان",
+      "امپراتوری"
+    ],
+    "answer": 0,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "حرکت",
+    "choices": [
+      "همچنین",
+      "توقف",
+      "ازدواج",
+      "جهت"
+    ],
+    "answer": 1,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "کج",
+    "choices": [
+      "مستقیم",
+      "پایتخت",
+      "نامزد",
+      "می‌کند"
+    ],
+    "answer": 0,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "بيرون",
+    "choices": [
+      "عامل",
+      "داخل",
+      "دلار",
+      "مردم"
+    ],
+    "answer": 1,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "داخل",
+    "choices": [
+      "داخل",
+      "فوتبال",
+      "درگذشتگان",
+      "سیاست"
+    ],
+    "answer": 0,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "نامهربان",
+    "choices": [
+      "مهربان",
+      "ستاره",
+      "دلیل",
+      "عمده"
+    ],
+    "answer": 0,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "ملکه",
+    "choices": [
+      "پادشاه",
+      "عمل",
+      "ترک",
+      "وزیر"
+    ],
+    "answer": 0,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "جهل",
+    "choices": [
+      "علم",
+      "اکبر",
+      "پرونده",
+      "پست"
+    ],
+    "answer": 0,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "ناشناس",
+    "choices": [
+      "برق",
+      "شناس",
+      "بهار",
+      "دینی"
+    ],
+    "answer": 1,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "کوچک",
+    "choices": [
+      "جنسی",
+      "سالهای",
+      "پرونده",
+      "بزرگ"
+    ],
+    "answer": 3,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "اولی",
+    "choices": [
+      "میلاد",
+      "می‌گویند",
+      "آخری",
+      "برگزار"
+    ],
+    "answer": 2,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "گریه",
+    "choices": [
+      "بین‌المللی",
+      "خنده",
+      "کنید",
+      "کشورهای"
+    ],
+    "answer": 1,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "زرنگ",
+    "choices": [
+      "فیلم‌های",
+      "تنبل",
+      "مورد",
+      "ای"
+    ],
+    "answer": 1,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "دوست",
+    "choices": [
+      "بصورت",
+      "نبود",
+      "قلعه",
+      "بیگانه"
+    ],
+    "answer": 3,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "ضعیف",
+    "choices": [
+      "دانشکده",
+      "دره",
+      "انگلستان",
+      "قوی"
+    ],
+    "answer": 3,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "زمستان",
+    "choices": [
+      "خاص",
+      "بیشتری",
+      "زنده",
+      "تابستان"
+    ],
+    "answer": 3,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "مهتاب",
+    "choices": [
+      "آفتاب",
+      "تحصیل",
+      "ماده",
+      "تعدادی"
+    ],
+    "answer": 0,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "شور",
+    "choices": [
+      "خلق",
+      "نامزد",
+      "شیرین",
+      "بشر"
+    ],
+    "answer": 2,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "بالا",
+    "choices": [
+      "شهید",
+      "پایین",
+      "هنری",
+      "لازم"
+    ],
+    "answer": 1,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "بدترین",
+    "choices": [
+      "تشکیل",
+      "کمی",
+      "محصول",
+      "عالی"
+    ],
+    "answer": 3,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "شیرین",
+    "choices": [
+      "ناسا",
+      "عمر",
+      "بزرگترین",
+      "تلخ"
+    ],
+    "answer": 3,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "سفید",
+    "choices": [
+      "تقریباً",
+      "زنده",
+      "سیاه",
+      "نوع"
+    ],
+    "answer": 2,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "بالا",
+    "choices": [
+      "برنامه‌های",
+      "پایین",
+      "دومین",
+      "سازمان"
+    ],
+    "answer": 1,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "دختر",
+    "choices": [
+      "تجاری",
+      "هوای",
+      "پسر",
+      "کردن"
+    ],
+    "answer": 2,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "ترسو",
+    "choices": [
+      "ارتفاع",
+      "نرم",
+      "شجاع",
+      "سعید"
+    ],
+    "answer": 2,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "خشک",
+    "choices": [
+      "شمار",
+      "تئاتر",
+      "خیس",
+      "انجام"
+    ],
+    "answer": 2,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "نامطمئن",
+    "choices": [
+      "دسترسی",
+      "راه",
+      "مطمئن",
+      "بیش"
+    ],
+    "answer": 2,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "ناراحت",
+    "choices": [
+      "خوشحال",
+      "ما",
+      "بالا",
+      "استان‌های"
+    ],
+    "answer": 0,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "دهات",
+    "choices": [
+      "جوایز",
+      "خانواده",
+      "شهر",
+      "تپه"
+    ],
+    "answer": 2,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "باز",
+    "choices": [
+      "شبکه",
+      "چرا",
+      "بسته",
+      "آزادی"
+    ],
+    "answer": 2,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "گرم",
+    "choices": [
+      "جزیره",
+      "پدر",
+      "اینترنت",
+      "سرد"
+    ],
+    "answer": 3,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "خاموش",
+    "choices": [
+      "خورشید",
+      "روشن",
+      "معنی",
+      "گردد"
+    ],
+    "answer": 1,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "پیر",
+    "choices": [
+      "دلیل",
+      "توجه",
+      "تصمیم",
+      "جوان"
+    ],
+    "answer": 3,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "بد",
+    "choices": [
+      "فیلم‌های",
+      "عربستان",
+      "خوب",
+      "روستایی"
+    ],
+    "answer": 2,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "بزرگ",
+    "choices": [
+      "نقاشی",
+      "علم",
+      "بیشتر",
+      "کوچیک"
+    ],
+    "answer": 3,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "زشت",
+    "choices": [
+      "ملل",
+      "جاده",
+      "خوشگل",
+      "اسماعیل"
+    ],
+    "answer": 2,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "زشت",
+    "choices": [
+      "می‌باشند",
+      "زیبا",
+      "خاطر",
+      "می‌گوید"
+    ],
+    "answer": 1,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "زشت",
+    "choices": [
+      "روشن",
+      "کنترل",
+      "قشنگ",
+      "مهندسی"
+    ],
+    "answer": 2,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "سخت",
+    "choices": [
+      "کیلومتر",
+      "آسان",
+      "صفحه",
+      "چه"
+    ],
+    "answer": 1,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "دیر",
+    "choices": [
+      "زود",
+      "اواخر",
+      "دادن",
+      "شهید"
+    ],
+    "answer": 0,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "بیدار",
+    "choices": [
+      "سازی",
+      "جوان",
+      "خواب",
+      "حاج"
+    ],
+    "answer": 2,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "قدیمی",
+    "choices": [
+      "چه",
+      "نو",
+      "حق",
+      "نظام"
+    ],
+    "answer": 1,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "قدیمی",
+    "choices": [
+      "بودند",
+      "تا",
+      "زیادی",
+      "جدید"
+    ],
+    "answer": 3,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "دور",
+    "choices": [
+      "نگاه",
+      "باستانی",
+      "گسترش",
+      "نزدیک"
+    ],
+    "answer": 3,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "گرون",
+    "choices": [
+      "ارزون",
+      "ساز",
+      "دارای",
+      "زمین"
+    ],
+    "answer": 0,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "مشغول",
+    "choices": [
+      "آن‌ها",
+      "فوتبال",
+      "امر",
+      "بیکار"
+    ],
+    "answer": 3,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "قانونی",
+    "choices": [
+      "تنها",
+      "غیرقانونی",
+      "ابن",
+      "ترتیب"
+    ],
+    "answer": 1,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "واقعی",
+    "choices": [
+      "تحصیلات",
+      "خیالی",
+      "تهران",
+      "زندگینامه"
+    ],
+    "answer": 1,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "آزاد",
+    "choices": [
+      "زندانی",
+      "نبرد",
+      "روسیه",
+      "واحد"
+    ],
+    "answer": 0,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "محروم",
+    "choices": [
+      "شامل",
+      "اهمیت",
+      "یافته",
+      "کوه"
+    ],
+    "answer": 0,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "راست",
+    "choices": [
+      "نظر",
+      "شبکه",
+      "چب",
+      "ابن"
+    ],
+    "answer": 2,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "احتیاط",
+    "choices": [
+      "بااحتیاط",
+      "یافته",
+      "راست",
+      "محمد"
+    ],
+    "answer": 0,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "پایان",
+    "choices": [
+      "حساب",
+      "دولت",
+      "شروع",
+      "یک"
+    ],
+    "answer": 2,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "پایان",
+    "choices": [
+      "بازیگران",
+      "آغاز",
+      "سرزمین",
+      "عامل"
+    ],
+    "answer": 1,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "رفتن",
+    "choices": [
+      "طبیعی",
+      "دارند",
+      "ماندن",
+      "جزیره"
+    ],
+    "answer": 2,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "حرکت",
+    "choices": [
+      "یکی",
+      "توقف",
+      "یادکرد",
+      "بین"
+    ],
+    "answer": 1,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "کج",
+    "choices": [
+      "مستقیم",
+      "پایان",
+      "تابع",
+      "زندگی"
+    ],
+    "answer": 0,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "بيرون",
+    "choices": [
+      "فیزیک",
+      "دسترسی",
+      "واقع",
+      "داخل"
+    ],
+    "answer": 3,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "داخل",
+    "choices": [
+      "اجازه",
+      "داخل",
+      "بسیار",
+      "سعید"
+    ],
+    "answer": 1,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "نامهربان",
+    "choices": [
+      "مهربان",
+      "کلیسای",
+      "پاسخ",
+      "جدا"
+    ],
+    "answer": 0,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "ملکه",
+    "choices": [
+      "استاد",
+      "پادشاه",
+      "اصل",
+      "رود"
+    ],
+    "answer": 1,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "جهل",
+    "choices": [
+      "کوه",
+      "نقاشی",
+      "علم",
+      "یمن"
+    ],
+    "answer": 2,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "ناشناس",
+    "choices": [
+      "مي",
+      "شناس",
+      "دورهٔ",
+      "رسیدن"
+    ],
+    "answer": 1,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "کوچک",
+    "choices": [
+      "خرداد",
+      "ریاست",
+      "بزرگ",
+      "خدمت"
+    ],
+    "answer": 2,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "اولی",
+    "choices": [
+      "وزارت",
+      "آخری",
+      "قرمز",
+      "غرب"
+    ],
+    "answer": 1,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "گریه",
+    "choices": [
+      "تعدادی",
+      "مهم",
+      "خنده",
+      "بالای"
+    ],
+    "answer": 2,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "زرنگ",
+    "choices": [
+      "تنبل",
+      "قدیم",
+      "کد",
+      "روستاهای"
+    ],
+    "answer": 0,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "دوست",
+    "choices": [
+      "اساس",
+      "بیگانه",
+      "عمومی",
+      "تمام"
+    ],
+    "answer": 1,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "ضعیف",
+    "choices": [
+      "مرتبط",
+      "و",
+      "قوی",
+      "توضیح"
+    ],
+    "answer": 2,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "زمستان",
+    "choices": [
+      "شرقی",
+      "وبگاه",
+      "نام",
+      "تابستان"
+    ],
+    "answer": 3,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "مهتاب",
+    "choices": [
+      "دادگاه",
+      "ابتدا",
+      "آفتاب",
+      "مهر"
+    ],
+    "answer": 2,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "شور",
+    "choices": [
+      "کاهش",
+      "صدا",
+      "بزرگ",
+      "شیرین"
+    ],
+    "answer": 3,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "بالا",
+    "choices": [
+      "زندگینامه",
+      "کننده",
+      "پایین",
+      "موارد"
+    ],
+    "answer": 2,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "بدترین",
+    "choices": [
+      "شامل",
+      "زمانی",
+      "اعدام",
+      "عالی"
+    ],
+    "answer": 3,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "شیرین",
+    "choices": [
+      "تلخ",
+      "صدا",
+      "شهرهای",
+      "درگذشتگان"
+    ],
+    "answer": 0,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "سفید",
+    "choices": [
+      "گفت",
+      "سیاه",
+      "بار",
+      "پنجم"
+    ],
+    "answer": 1,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "بالا",
+    "choices": [
+      "کشوری",
+      "به",
+      "پایین",
+      "مهم"
+    ],
+    "answer": 2,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "دختر",
+    "choices": [
+      "انتقال",
+      "مرحله",
+      "اجرام",
+      "پسر"
+    ],
+    "answer": 3,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "ترسو",
+    "choices": [
+      "شجاع",
+      "نخستین",
+      "شهریور",
+      "تاسیس"
+    ],
+    "answer": 0,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "خشک",
+    "choices": [
+      "می‌دهد",
+      "بعدها",
+      "نور",
+      "خیس"
+    ],
+    "answer": 3,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "نامطمئن",
+    "choices": [
+      "مطمئن",
+      "چشمه",
+      "روزنامه",
+      "اند"
+    ],
+    "answer": 0,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "ناراحت",
+    "choices": [
+      "ارشد",
+      "خوشحال",
+      "امروزه",
+      "ممکن"
+    ],
+    "answer": 1,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "دهات",
+    "choices": [
+      "متولد",
+      "شهر",
+      "عراق",
+      "زمینه"
+    ],
+    "answer": 1,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "باز",
+    "choices": [
+      "نسبت",
+      "تلویزیون",
+      "تمام",
+      "بسته"
+    ],
+    "answer": 3,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "گرم",
+    "choices": [
+      "سالگی",
+      "سرد",
+      "مطالعات",
+      "کشف"
+    ],
+    "answer": 1,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "خاموش",
+    "choices": [
+      "عمده",
+      "روشن",
+      "ایتالیا",
+      "وقت"
+    ],
+    "answer": 1,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "پیر",
+    "choices": [
+      "شیمیایی",
+      "هدف",
+      "جوان",
+      "محسوب"
+    ],
+    "answer": 2,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "بد",
+    "choices": [
+      "نو",
+      "درگذشتگان",
+      "خوب",
+      "قرن"
+    ],
+    "answer": 2,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "بزرگ",
+    "choices": [
+      "یادکرد",
+      "تولید",
+      "بنابر",
+      "کوچیک"
+    ],
+    "answer": 3,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "زشت",
+    "choices": [
+      "محلی",
+      "ساعت",
+      "نخستین",
+      "خوشگل"
+    ],
+    "answer": 3,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "زشت",
+    "choices": [
+      "بسیاری",
+      "بنام",
+      "یعنی",
+      "زیبا"
+    ],
+    "answer": 3,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "زشت",
+    "choices": [
+      "نیمه",
+      "همکاری",
+      "بیشتری",
+      "قشنگ"
+    ],
+    "answer": 3,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "سخت",
+    "choices": [
+      "کارهای",
+      "آسان",
+      "حاج",
+      "سبک"
+    ],
+    "answer": 1,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "دیر",
+    "choices": [
+      "سینما",
+      "زود",
+      "اکثر",
+      "گیری"
+    ],
+    "answer": 1,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "بیدار",
+    "choices": [
+      "زبان",
+      "تلویزیون",
+      "خواب",
+      "می‌باشند"
+    ],
+    "answer": 2,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "قدیمی",
+    "choices": [
+      "جهان",
+      "نو",
+      "موارد",
+      "خبرگزاری"
+    ],
+    "answer": 1,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "قدیمی",
+    "choices": [
+      "نه",
+      "روستا",
+      "جدید",
+      "درگذشت"
+    ],
+    "answer": 2,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "دور",
+    "choices": [
+      "حمایت",
+      "تمامی",
+      "نزدیک",
+      "پدر"
+    ],
+    "answer": 2,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  },
+  {
+    "question": "گرون",
+    "choices": [
+      "چرا",
+      "ارزون",
+      "موسوی",
+      "گزارش"
+    ],
+    "answer": 1,
+    "type": "antonym",
+    "intent": "",
+    "extra": "Antonym of"
+  }
+]
