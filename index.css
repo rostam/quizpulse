@@ -308,6 +308,7 @@ body {
 
 .question_table {
   margin: 10px;
+  font-size: 16px;
 }
 
 .question_table td {
@@ -315,6 +316,7 @@ body {
   max-width: 150px;
   padding: 5px;
   text-align: left;
+  font-size: 16px;
 }
 
 .question_table th {
