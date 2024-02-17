@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "Custom New Tab",
+  "name": "Quiz Pulse",
   "version": "1.0",
-  "description": "Sets a custom HTML page as the new tab page.",
+  "description": "Daily Quiz",
   "permissions": [],
   "chrome_url_overrides": {
       "newtab": "index.html"
