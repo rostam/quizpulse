@@ -1,8 +1,3 @@
-// Author: Michael Wehar
-// Additional credits: Itay Livni, Michael Blättler
-// MIT License
-
-// Math functions
 function distance(x1, y1, x2, y2){
   return Math.abs(x1 - x2) + Math.abs(y1 - y2);
 }
@@ -21,18 +16,14 @@ function weightedAverage(weights, values){
 }
 
 
-// Component scores
-// 1. Number of connections
 function computeScore1(connections, word){
   return (connections / (word.length / 2));
 }
 
-// 2. Distance from center
 function computeScore2(rows, cols, i, j){
   return 1 - (distance(rows / 2, cols / 2, i, j) / ((rows / 2) + (cols / 2)));
 }
 
-// 3. Vertical versus horizontal orientation
 function computeScore3(a, b, verticalCount, totalCount){
   if(verticalCount > totalCount / 2){
     return a;
@@ -45,13 +36,11 @@ function computeScore3(a, b, verticalCount, totalCount){
   }
 }
 
-// 4. Word length
 function computeScore4(val, word){
   return word.length / val;
 }
 
 
-// Word functions
 function addWord(best, words, table){
   var bestScore = best[0];
   var word = best[1];
@@ -87,7 +76,6 @@ function assignPositions(words){
         word.position = positions[tempStr];
       }
       else{
-        // Object.keys is supported in ES5-compatible environments
         positions[tempStr] = Object.keys(positions).length + 1;
         word.position = positions[tempStr];
       }

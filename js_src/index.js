@@ -193,73 +193,13 @@ function submitAnswer(which_option) {
 
 function viewResults() {
     decolorCorrectAnswer(); 
-
-    // Define Layout
-    const layout = {
-      xaxis: {title: "Try", tick0: 0, autotick: false},
-      yaxis: {title: "Correct Answers", tick0: 0,autotick: false },  
-      title: "Learning Progress"
-    };
-
-    // Define Data
-    var German = {
-        x: [1, 2, 3, 4],
-        y: [3, 3, 4, 5],
-        type: 'bar',
-        name: 'German'
-      };
-      
-      
-      var Spanish = {
-        x: [1, 2, 3, 4],
-        y: [2, 2, 5, 7],
-        type: 'bar',
-        name: 'Spanish'
-      };
-      
-      
-      var data = [German, Spanish];
-    
-    // Display using Plotly
-    // Plotly.newPlot("myPlot", data, layout, color='category',{responsive: true});
-
-    // if(signined) {
-    //     d3.json('https://goftan.herokuapp.com/addresult', {
-    //         method:"POST",
-    //         body: JSON.stringify({
-    //             username: document.getElementById('username').value,
-    //             points: [get_selected_language(), countCorrect, countIncorrect]
-    //         }),
-    //         headers: {
-    //             "Content-type": "application/json; charset=UTF-8",
-    //             "Access-Control-Allow-Origin": "*"
-    //         }
-    //         })
-    //         .then(json => {
-    //             d3.select('#result_table').html("");
-    //             d3.select('#result_table')
-    //             .selectAll('tr')
-    //             .data(json.points)
-    //             .enter().append('tr')
-    //             .html(function(d,c){
-    //                 return '<td>' + (c+1) + 
-    //                 '</td><td>' + d[0] + 
-    //                 '</td><td>' + d[1] 
-    //                 + '</td><td>' + d[2] + '</td>';
-    //             });
-    //             selectPage('calculator_page');
-    //         });
-    // } else {
-
-        d3.select('#result_table').append('tr')
-        .selectAll("td")
-        .data([d3.select('#result_table').selectAll('tr').size(),  
-        get_selected_language(), countCorrect, countIncorrect, 10 - countCorrect - countIncorrect])
-        .enter()
-        .append("td").text(function(d) { return d; });
-        selectPage('calculator_page');
-    // }
-    
+    d3.select('#result_table').append('tr')
+    .selectAll("td")
+    .data([d3.select('#result_table').selectAll('tr').size(),  
+    get_selected_language(), countCorrect, countIncorrect, 10 - countCorrect - countIncorrect])
+    .enter()
+    .append("td").text(function(d) { return d; });
+    selectPage('calculator_page');
 }
 
 function restartQuiz() {
