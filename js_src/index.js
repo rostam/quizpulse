@@ -344,3 +344,9 @@ document.addEventListener('DOMContentLoaded', (event) => {
         Hint();
     })());
 });
+
+document.addEventListener('DOMContentLoaded', (event) => {
+    document.getElementById('reselectLanguage').addEventListener('click', (event) => ((arg) => {
+        selectPage('language_page');
+    })());
+});
