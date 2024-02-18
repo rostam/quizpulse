@@ -1,0 +1,212 @@
+[
+  {
+    "question": "Find the synonym for 'schnell'.",
+    "choices": [
+      "langsamer",
+      "rasch",
+      "klein",
+      "groß"
+    ],
+    "answer": 1,
+    "type": "synonym/antonym",
+    "intent": "",
+    "extra": "Synonymof:",
+    "level": "A1"
+  },
+  {
+    "question": "Find the antonym for 'hoch'.",
+    "choices": [
+      "tief",
+      "kurz",
+      "lang",
+      "breit"
+    ],
+    "answer": 0,
+    "type": "synonym/antonym",
+    "intent": "",
+    "extra": "Antonymof:",
+    "level": "A1"
+  },
+  {
+    "question": "Find the synonym for 'freundlich'.",
+    "choices": [
+      "nett",
+      "böse",
+      "traurig",
+      "groß"
+    ],
+    "answer": 0,
+    "type": "synonym/antonym",
+    "intent": "",
+    "extra": "Synonymof:",
+    "level": "A1"
+  },
+  {
+    "question": "Find the antonym for 'hell'.",
+    "choices": [
+      "dunkel",
+      "licht",
+      "groß",
+      "klein"
+    ],
+    "answer": 0,
+    "type": "synonym/antonym",
+    "intent": "",
+    "extra": "Antonymof:",
+    "level": "A1"
+  },
+  {
+    "question": "Find the synonym for 'kalt'.",
+    "choices": [
+      "warm",
+      "frisch",
+      "heiß",
+      "cool"
+    ],
+    "answer": 1,
+    "type": "synonym/antonym",
+    "intent": "",
+    "extra": "Synonymof:",
+    "level": "A1"
+  },
+  {
+    "question": "Find the antonym for 'alt'.",
+    "choices": [
+      "neu",
+      "jung",
+      "groß",
+      "klein"
+    ],
+    "answer": 1,
+    "type": "synonym/antonym",
+    "intent": "",
+    "extra": "Antonymof:",
+    "level": "A1"
+  },
+  {
+    "question": "Find the synonym for 'fröhlich'.",
+    "choices": [
+      "traurig",
+      "glücklich",
+      "verärgert",
+      "enttäuscht"
+    ],
+    "answer": 1,
+    "type": "synonym/antonym",
+    "intent": "",
+    "extra": "Synonymof:",
+    "level": "A1"
+  },
+  {
+    "question": "Find the antonym for 'weich'.",
+    "choices": [
+      "hart",
+      "groß",
+      "klein",
+      "schwer"
+    ],
+    "answer": 0,
+    "type": "synonym/antonym",
+    "intent": "",
+    "extra": "Antonymof:",
+    "level": "A1"
+  },
+  {
+    "question": "Find the synonym for 'leicht'.",
+    "choices": [
+      "schwer",
+      "dicht",
+      "simpel",
+      "groß"
+    ],
+    "answer": 2,
+    "type": "synonym/antonym",
+    "intent": "",
+    "extra": "Synonymof:",
+    "level": "A1"
+  },
+  {
+    "question": "Find the antonym for 'voll'.",
+    "choices": [
+      "leer",
+      "hoch",
+      "breit",
+      "kurz"
+    ],
+    "answer": 0,
+    "type": "synonym/antonym",
+    "intent": "",
+    "extra": "Antonymof:",
+    "level": "A1"
+  },
+  {
+    "question": "Find the synonym for 'glücklich'.",
+    "choices": [
+      "traurig",
+      "zufrieden",
+      "verärgert",
+      "enttäuscht"
+    ],
+    "answer": 1,
+    "type": "synonym/antonym",
+    "intent": "",
+    "extra": "Synonymof:",
+    "level": "A1"
+  },
+  {
+    "question": "Find the antonym for 'groß'.",
+    "choices": [
+      "klein",
+      "breit",
+      "hoch",
+      "lang"
+    ],
+    "answer": 0,
+    "type": "synonym/antonym",
+    "intent": "",
+    "extra": "Antonymof:",
+    "level": "A1"
+  },
+  {
+    "question": "Find the synonym for 'ruhig'.",
+    "choices": [
+      "laut",
+      "leise",
+      "gelassen",
+      "aufgeregt"
+    ],
+    "answer": 2,
+    "type": "synonym/antonym",
+    "intent": "",
+    "extra": "Synonymof:",
+    "level": "A1"
+  },
+  {
+    "question": "Find the antonym for 'schwer'.",
+    "choices": [
+      "leicht",
+      "hoch",
+      "breit",
+      "tief"
+    ],
+    "answer": 0,
+    "type": "synonym/antonym",
+    "intent": "",
+    "extra": "Antonymof:",
+    "level": "A1"
+  },
+  {
+    "question": "Find the synonym for 'sauber'.",
+    "choices": [
+      "schmutzig",
+      "rein",
+      "groß",
+      "klein"
+    ],
+    "answer": 1,
+    "type": "synonym/antonym",
+    "intent": "",
+    "extra": "Synonymof:",
+    "level": "A1"
+  }
+]

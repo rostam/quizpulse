@@ -1,0 +1,114 @@
+[
+  {
+    "question": "Ich ____ einen Apfel.",
+    "choices": [
+      "isst",
+      "esse",
+      "trinkst",
+      "spielt"
+    ],
+    "answer": 1,
+    "type": "common sentences",
+    "intent": "",
+    "extra": "Fill in the blank",
+    "level": "A1"
+  },
+  {
+    "question": "Du ____ ein Buch.",
+    "choices": [
+      "liest",
+      "liesten",
+      "lesen",
+      "leset"
+    ],
+    "answer": 0,
+    "type": "common sentences",
+    "intent": "",
+    "extra": "Fill in the blank",
+    "level": "A1"
+  },
+  {
+    "question": "Wir ____ Musik.",
+    "choices": [
+      "hören",
+      "hörst",
+      "hör",
+      "hörte"
+    ],
+    "answer": 0,
+    "type": "common sentences",
+    "intent": "",
+    "extra": "Fill in the blank",
+    "level": "A1"
+  },
+  {
+    "question": "Er ____ Fußball.",
+    "choices": [
+      "spielst",
+      "spielen",
+      "spiel",
+      "spielt"
+    ],
+    "answer": 3,
+    "type": "common sentences",
+    "intent": "",
+    "extra": "Fill in the blank",
+    "level": "A1"
+  },
+  {
+    "question": "Sie ____ tanzen.",
+    "choices": [
+      "tanzt",
+      "tanzen",
+      "tanze",
+      "tanztet"
+    ],
+    "answer": 0,
+    "type": "common sentences",
+    "intent": "",
+    "extra": "Fill in the blank",
+    "level": "A1"
+  },
+  {
+    "question": "Ich ____ Deutsch.",
+    "choices": [
+      "spricht",
+      "sprachen",
+      "spreche",
+      "sprachst"
+    ],
+    "answer": 2,
+    "type": "common sentences",
+    "intent": "",
+    "extra": "Fill in the blank",
+    "level": "A1"
+  },
+  {
+    "question": "Du ____ fernsehen.",
+    "choices": [
+      "siehst",
+      "sieht",
+      "sehen",
+      "sieh"
+    ],
+    "answer": 0,
+    "type": "common sentences",
+    "intent": "",
+    "extra": "Fill in the blank",
+    "level": "A1"
+  },
+  {
+    "question": "Wir ____ schwimmen.",
+    "choices": [
+      "schwimmst",
+      "schwimme",
+      "schwimmen",
+      "schwimmt"
+    ],
+    "answer": 2,
+    "type": "common sentences",
+    "intent": "",
+    "extra": "Fill in the blank",
+    "level": "A1"
+  }
+]
